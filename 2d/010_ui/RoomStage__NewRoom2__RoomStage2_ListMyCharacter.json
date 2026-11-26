@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 37,
+   "index": 0,
+   "w": 16,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 37,
+   "index": 1,
+   "w": 1,
+   "x": 18,
+   "y": 1
+  },
+  {
+   "h": 37,
+   "index": 2,
+   "w": 12,
+   "x": 20,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/NewRoom2/RoomStage2_ListMyCharacter",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__NewRoom2__RoomStage2_ListMyCharacter.png",
+  "h": 39,
+  "w": 33
+ }
+}

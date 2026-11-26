@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 41,
+   "index": 0,
+   "w": 80,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 41,
+   "index": 1,
+   "w": 80,
+   "x": 1,
+   "y": 44
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Escape/Escape_ScoreFrame_Small",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Escape__Escape_ScoreFrame_Small.png",
+  "h": 86,
+  "w": 82
+ }
+}

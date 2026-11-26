@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 20,
+   "index": 0,
+   "w": 61,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 20,
+   "index": 1,
+   "w": 61,
+   "x": 1,
+   "y": 23
+  },
+  {
+   "h": 20,
+   "index": 2,
+   "w": 61,
+   "x": 1,
+   "y": 45
+  },
+  {
+   "h": 20,
+   "index": 3,
+   "w": 61,
+   "x": 1,
+   "y": 67
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_BtnShopBuy",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_BtnShopBuy.png",
+  "h": 88,
+  "w": 63
+ }
+}

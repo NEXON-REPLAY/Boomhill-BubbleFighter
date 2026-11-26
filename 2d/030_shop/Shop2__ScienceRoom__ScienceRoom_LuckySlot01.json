@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 124,
+   "index": 0,
+   "w": 124,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 124,
+   "index": 1,
+   "w": 124,
+   "x": 1,
+   "y": 127
+  },
+  {
+   "h": 124,
+   "index": 2,
+   "w": 124,
+   "x": 1,
+   "y": 253
+  },
+  {
+   "h": 124,
+   "index": 3,
+   "w": 124,
+   "x": 1,
+   "y": 379
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_LuckySlot01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_LuckySlot01.png",
+  "h": 504,
+  "w": 126
+ }
+}

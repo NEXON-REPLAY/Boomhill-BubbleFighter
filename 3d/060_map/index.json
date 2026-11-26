@@ -1,0 +1,2868 @@
+{
+ "category": "3d_map",
+ "game": "bubblefighter",
+ "items": [
+  {
+   "bytes": 347276,
+   "file": "060_map/rel_Apex01_Diorama.glb",
+   "id": "rel_Apex01_Diorama",
+   "mapMarkers": {
+    "file": "060_map/rel_Apex01_Diorama.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Apex01_Diorama",
+   "stats": {
+    "textures": 61,
+    "triangles": 33896,
+    "vertices": 53602
+   },
+   "thumb": "060_map/rel_Apex01_Diorama.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 302164,
+   "file": "060_map/rel_Apex02_LostTown.glb",
+   "id": "rel_Apex02_LostTown",
+   "mapMarkers": {
+    "file": "060_map/rel_Apex02_LostTown.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Apex02_LostTown",
+   "stats": {
+    "textures": 62,
+    "triangles": 34553,
+    "vertices": 42250
+   },
+   "thumb": "060_map/rel_Apex02_LostTown.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 26952,
+   "file": "060_map/rel_bnb01_village06.glb",
+   "id": "rel_bnb01_village06",
+   "mapMarkers": {
+    "file": "060_map/rel_bnb01_village06.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_bnb01_village06",
+   "stats": {
+    "textures": 8,
+    "triangles": 3142,
+    "vertices": 2469
+   },
+   "thumb": "060_map/rel_bnb01_village06.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 15416,
+   "file": "060_map/rel_bnb02_village11.glb",
+   "id": "rel_bnb02_village11",
+   "mapMarkers": {
+    "file": "060_map/rel_bnb02_village11.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_bnb02_village11",
+   "stats": {
+    "textures": 4,
+    "triangles": 1922,
+    "vertices": 1388
+   },
+   "thumb": "060_map/rel_bnb02_village11.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 26984,
+   "file": "060_map/rel_bnb03_village101.glb",
+   "id": "rel_bnb03_village101",
+   "mapMarkers": {
+    "file": "060_map/rel_bnb03_village101.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_bnb03_village101",
+   "stats": {
+    "textures": 8,
+    "triangles": 3142,
+    "vertices": 2469
+   },
+   "thumb": "060_map/rel_bnb03_village101.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 15416,
+   "file": "060_map/rel_bnb04_village102.glb",
+   "id": "rel_bnb04_village102",
+   "mapMarkers": {
+    "file": "060_map/rel_bnb04_village102.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_bnb04_village102",
+   "stats": {
+    "textures": 4,
+    "triangles": 1922,
+    "vertices": 1388
+   },
+   "thumb": "060_map/rel_bnb04_village102.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 15416,
+   "file": "060_map/rel_bnb05_village103.glb",
+   "id": "rel_bnb05_village103",
+   "mapMarkers": {
+    "file": "060_map/rel_bnb05_village103.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_bnb05_village103",
+   "stats": {
+    "textures": 4,
+    "triangles": 1922,
+    "vertices": 1388
+   },
+   "thumb": "060_map/rel_bnb05_village103.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 257408,
+   "file": "060_map/rel_Cemetery01.glb",
+   "id": "rel_Cemetery01",
+   "mapMarkers": {
+    "file": "060_map/rel_Cemetery01.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Cemetery01",
+   "stats": {
+    "textures": 87,
+    "triangles": 21241,
+    "vertices": 28384
+   },
+   "thumb": "060_map/rel_Cemetery01.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 314032,
+   "file": "060_map/rel_Cemetery02_Altar.glb",
+   "id": "rel_Cemetery02_Altar",
+   "mapMarkers": {
+    "file": "060_map/rel_Cemetery02_Altar.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Cemetery02_Altar",
+   "stats": {
+    "textures": 95,
+    "triangles": 28350,
+    "vertices": 47324
+   },
+   "thumb": "060_map/rel_Cemetery02_Altar.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 269660,
+   "file": "060_map/rel_Cemetery03_Vampire.glb",
+   "id": "rel_Cemetery03_Vampire",
+   "mapMarkers": {
+    "file": "060_map/rel_Cemetery03_Vampire.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Cemetery03_Vampire",
+   "stats": {
+    "textures": 98,
+    "triangles": 19472,
+    "vertices": 29290
+   },
+   "thumb": "060_map/rel_Cemetery03_Vampire.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 258132,
+   "file": "060_map/rel_Cemetery04_BlackCompany.glb",
+   "id": "rel_Cemetery04_BlackCompany",
+   "mapMarkers": {
+    "file": "060_map/rel_Cemetery04_BlackCompany.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Cemetery04_BlackCompany",
+   "stats": {
+    "textures": 77,
+    "triangles": 24642,
+    "vertices": 32523
+   },
+   "thumb": "060_map/rel_Cemetery04_BlackCompany.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 321024,
+   "file": "060_map/rel_CP01_SquareStadium.glb",
+   "id": "rel_CP01_SquareStadium",
+   "mapMarkers": {
+    "file": "060_map/rel_CP01_SquareStadium.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_CP01_SquareStadium",
+   "stats": {
+    "textures": 113,
+    "triangles": 22616,
+    "vertices": 34863
+   },
+   "thumb": "060_map/rel_CP01_SquareStadium.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 384436,
+   "file": "060_map/rel_CP02_Ruins.glb",
+   "id": "rel_CP02_Ruins",
+   "mapMarkers": {
+    "file": "060_map/rel_CP02_Ruins.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_CP02_Ruins",
+   "stats": {
+    "textures": 97,
+    "triangles": 34038,
+    "vertices": 48120
+   },
+   "thumb": "060_map/rel_CP02_Ruins.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 353540,
+   "file": "060_map/rel_cp03_hotSprings.glb",
+   "id": "rel_cp03_hotSprings",
+   "mapMarkers": {
+    "file": "060_map/rel_cp03_hotSprings.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_cp03_hotSprings",
+   "stats": {
+    "textures": 93,
+    "triangles": 33964,
+    "vertices": 46426
+   },
+   "thumb": "060_map/rel_cp03_hotSprings.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 250352,
+   "file": "060_map/rel_cp04_train.glb",
+   "id": "rel_cp04_train",
+   "mapMarkers": {
+    "file": "060_map/rel_cp04_train.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_cp04_train",
+   "stats": {
+    "textures": 100,
+    "triangles": 19786,
+    "vertices": 26123
+   },
+   "thumb": "060_map/rel_cp04_train.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 3446900,
+   "file": "060_map/rel_Desert00_beguy.glb",
+   "id": "rel_Desert00_beguy",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert00_beguy.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert00_beguy",
+   "stats": {
+    "textures": 328,
+    "triangles": 370848,
+    "vertices": 647847
+   },
+   "thumb": "060_map/rel_Desert00_beguy.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 185992,
+   "file": "060_map/rel_Desert01_Oneway.glb",
+   "id": "rel_Desert01_Oneway",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert01_Oneway.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert01_Oneway",
+   "stats": {
+    "textures": 69,
+    "triangles": 17485,
+    "vertices": 27205
+   },
+   "thumb": "060_map/rel_Desert01_Oneway.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 279788,
+   "file": "060_map/rel_Desert02_Castle.glb",
+   "id": "rel_Desert02_Castle",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert02_Castle.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert02_Castle",
+   "stats": {
+    "textures": 117,
+    "triangles": 22813,
+    "vertices": 27250
+   },
+   "thumb": "060_map/rel_Desert02_Castle.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 257504,
+   "file": "060_map/rel_Desert02_CastleNPC2.glb",
+   "id": "rel_Desert02_CastleNPC2",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert02_CastleNPC2.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert02_CastleNPC2",
+   "stats": {
+    "textures": 111,
+    "triangles": 18880,
+    "vertices": 22157
+   },
+   "thumb": "060_map/rel_Desert02_CastleNPC2.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 251104,
+   "file": "060_map/rel_Desert03_Temple.glb",
+   "id": "rel_Desert03_Temple",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert03_Temple.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert03_Temple",
+   "stats": {
+    "textures": 81,
+    "triangles": 22386,
+    "vertices": 26228
+   },
+   "thumb": "060_map/rel_Desert03_Temple.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 185288,
+   "file": "060_map/rel_Desert04_Pharaoh.glb",
+   "id": "rel_Desert04_Pharaoh",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert04_Pharaoh.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert04_Pharaoh",
+   "stats": {
+    "textures": 58,
+    "triangles": 16970,
+    "vertices": 26344
+   },
+   "thumb": "060_map/rel_Desert04_Pharaoh.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 234056,
+   "file": "060_map/rel_Desert05_mummy.glb",
+   "id": "rel_Desert05_mummy",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert05_mummy.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert05_mummy",
+   "stats": {
+    "textures": 97,
+    "triangles": 17334,
+    "vertices": 23927
+   },
+   "thumb": "060_map/rel_Desert05_mummy.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 324132,
+   "file": "060_map/rel_Desert06_Market.glb",
+   "id": "rel_Desert06_Market",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert06_Market.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert06_Market",
+   "stats": {
+    "textures": 105,
+    "triangles": 25250,
+    "vertices": 34797
+   },
+   "thumb": "060_map/rel_Desert06_Market.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 260056,
+   "file": "060_map/rel_Desert07_Garden.glb",
+   "id": "rel_Desert07_Garden",
+   "mapMarkers": {
+    "file": "060_map/rel_Desert07_Garden.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Desert07_Garden",
+   "stats": {
+    "textures": 105,
+    "triangles": 17068,
+    "vertices": 23185
+   },
+   "thumb": "060_map/rel_Desert07_Garden.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 274056,
+   "file": "060_map/rel_fairytale01_Beanstalk.glb",
+   "id": "rel_fairytale01_Beanstalk",
+   "mapMarkers": {
+    "file": "060_map/rel_fairytale01_Beanstalk.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_fairytale01_Beanstalk",
+   "stats": {
+    "textures": 80,
+    "triangles": 30670,
+    "vertices": 37213
+   },
+   "thumb": "060_map/rel_fairytale01_Beanstalk.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 329524,
+   "file": "060_map/rel_fairytale02_AliceGarden.glb",
+   "id": "rel_fairytale02_AliceGarden",
+   "mapMarkers": {
+    "file": "060_map/rel_fairytale02_AliceGarden.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_fairytale02_AliceGarden",
+   "stats": {
+    "textures": 116,
+    "triangles": 26831,
+    "vertices": 45992
+   },
+   "thumb": "060_map/rel_fairytale02_AliceGarden.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 312364,
+   "file": "060_map/rel_fairytale03_Oz.glb",
+   "id": "rel_fairytale03_Oz",
+   "mapMarkers": {
+    "file": "060_map/rel_fairytale03_Oz.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_fairytale03_Oz",
+   "stats": {
+    "textures": 90,
+    "triangles": 25266,
+    "vertices": 41029
+   },
+   "thumb": "060_map/rel_fairytale03_Oz.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 274540,
+   "file": "060_map/rel_fairytale04_Pig.glb",
+   "id": "rel_fairytale04_Pig",
+   "mapMarkers": {
+    "file": "060_map/rel_fairytale04_Pig.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_fairytale04_Pig",
+   "stats": {
+    "textures": 104,
+    "triangles": 20199,
+    "vertices": 26908
+   },
+   "thumb": "060_map/rel_fairytale04_Pig.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 392216,
+   "file": "060_map/rel_fairytale05_Woodcutter.glb",
+   "id": "rel_fairytale05_Woodcutter",
+   "mapMarkers": {
+    "file": "060_map/rel_fairytale05_Woodcutter.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_fairytale05_Woodcutter",
+   "stats": {
+    "textures": 104,
+    "triangles": 36145,
+    "vertices": 41423
+   },
+   "thumb": "060_map/rel_fairytale05_Woodcutter.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 2997132,
+   "file": "060_map/rel_Forest00_floopy.glb",
+   "id": "rel_Forest00_floopy",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest00_floopy.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest00_floopy",
+   "stats": {
+    "textures": 226,
+    "triangles": 326821,
+    "vertices": 575711
+   },
+   "thumb": "060_map/rel_Forest00_floopy.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 413236,
+   "file": "060_map/rel_Forest01_Hill.glb",
+   "id": "rel_Forest01_Hill",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest01_Hill.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest01_Hill",
+   "stats": {
+    "textures": 91,
+    "triangles": 29535,
+    "vertices": 45657
+   },
+   "thumb": "060_map/rel_Forest01_Hill.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 283084,
+   "file": "060_map/rel_Forest02_Ravine.glb",
+   "id": "rel_Forest02_Ravine",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest02_Ravine.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest02_Ravine",
+   "stats": {
+    "textures": 76,
+    "triangles": 20992,
+    "vertices": 29376
+   },
+   "thumb": "060_map/rel_Forest02_Ravine.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 252144,
+   "file": "060_map/rel_Forest03_Waterfall.glb",
+   "id": "rel_Forest03_Waterfall",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest03_Waterfall.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest03_Waterfall",
+   "stats": {
+    "textures": 65,
+    "triangles": 19812,
+    "vertices": 26329
+   },
+   "thumb": "060_map/rel_Forest03_Waterfall.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 280328,
+   "file": "060_map/rel_Forest04_PeterPan.glb",
+   "id": "rel_Forest04_PeterPan",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest04_PeterPan.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest04_PeterPan",
+   "stats": {
+    "textures": 81,
+    "triangles": 21757,
+    "vertices": 31190
+   },
+   "thumb": "060_map/rel_Forest04_PeterPan.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 189236,
+   "file": "060_map/rel_Forest05_CaveTemple.glb",
+   "id": "rel_Forest05_CaveTemple",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest05_CaveTemple.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest05_CaveTemple",
+   "stats": {
+    "textures": 73,
+    "triangles": 15635,
+    "vertices": 20081
+   },
+   "thumb": "060_map/rel_Forest05_CaveTemple.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 311944,
+   "file": "060_map/rel_Forest06_Bootcamp.glb",
+   "id": "rel_Forest06_Bootcamp",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest06_Bootcamp.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest06_Bootcamp",
+   "stats": {
+    "textures": 81,
+    "triangles": 25515,
+    "vertices": 35414
+   },
+   "thumb": "060_map/rel_Forest06_Bootcamp.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 348924,
+   "file": "060_map/rel_Forest07_ruin.glb",
+   "id": "rel_Forest07_ruin",
+   "mapMarkers": {
+    "file": "060_map/rel_Forest07_ruin.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Forest07_ruin",
+   "stats": {
+    "textures": 78,
+    "triangles": 30291,
+    "vertices": 44948
+   },
+   "thumb": "060_map/rel_Forest07_ruin.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 258852,
+   "file": "060_map/rel_Gravity01_SpaceShip.glb",
+   "id": "rel_Gravity01_SpaceShip",
+   "mapMarkers": {
+    "file": "060_map/rel_Gravity01_SpaceShip.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Gravity01_SpaceShip",
+   "stats": {
+    "textures": 60,
+    "triangles": 27189,
+    "vertices": 37418
+   },
+   "thumb": "060_map/rel_Gravity01_SpaceShip.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 304160,
+   "file": "060_map/rel_Gravity02_SpaceStation.glb",
+   "id": "rel_Gravity02_SpaceStation",
+   "mapMarkers": {
+    "file": "060_map/rel_Gravity02_SpaceStation.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Gravity02_SpaceStation",
+   "stats": {
+    "textures": 81,
+    "triangles": 30095,
+    "vertices": 36640
+   },
+   "thumb": "060_map/rel_Gravity02_SpaceStation.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 291148,
+   "file": "060_map/rel_Gravity03_SpaceGarage.glb",
+   "id": "rel_Gravity03_SpaceGarage",
+   "mapMarkers": {
+    "file": "060_map/rel_Gravity03_SpaceGarage.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Gravity03_SpaceGarage",
+   "stats": {
+    "textures": 91,
+    "triangles": 26541,
+    "vertices": 35783
+   },
+   "thumb": "060_map/rel_Gravity03_SpaceGarage.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 218608,
+   "file": "060_map/rel_Ice01_Cave.glb",
+   "id": "rel_Ice01_Cave",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice01_Cave.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice01_Cave",
+   "stats": {
+    "textures": 73,
+    "triangles": 20720,
+    "vertices": 23168
+   },
+   "thumb": "060_map/rel_Ice01_Cave.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 306764,
+   "file": "060_map/rel_Ice02_Icepit.glb",
+   "id": "rel_Ice02_Icepit",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice02_Icepit.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice02_Icepit",
+   "stats": {
+    "textures": 91,
+    "triangles": 24948,
+    "vertices": 41134
+   },
+   "thumb": "060_map/rel_Ice02_Icepit.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 223956,
+   "file": "060_map/rel_Ice03_Valley.glb",
+   "id": "rel_Ice03_Valley",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice03_Valley.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice03_Valley",
+   "stats": {
+    "textures": 68,
+    "triangles": 20071,
+    "vertices": 30030
+   },
+   "thumb": "060_map/rel_Ice03_Valley.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 240732,
+   "file": "060_map/rel_Ice04_Twist.glb",
+   "id": "rel_Ice04_Twist",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice04_Twist.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice04_Twist",
+   "stats": {
+    "textures": 76,
+    "triangles": 19804,
+    "vertices": 25165
+   },
+   "thumb": "060_map/rel_Ice04_Twist.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 229404,
+   "file": "060_map/rel_Ice05_Twobridge.glb",
+   "id": "rel_Ice05_Twobridge",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice05_Twobridge.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice05_Twobridge",
+   "stats": {
+    "textures": 76,
+    "triangles": 20072,
+    "vertices": 24875
+   },
+   "thumb": "060_map/rel_Ice05_Twobridge.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 336840,
+   "file": "060_map/rel_Ice06_Container.glb",
+   "id": "rel_Ice06_Container",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice06_Container.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice06_Container",
+   "stats": {
+    "textures": 120,
+    "triangles": 25759,
+    "vertices": 35540
+   },
+   "thumb": "060_map/rel_Ice06_Container.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 350464,
+   "file": "060_map/rel_Ice07_Santavillage.glb",
+   "id": "rel_Ice07_Santavillage",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice07_Santavillage.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice07_Santavillage",
+   "stats": {
+    "textures": 105,
+    "triangles": 32034,
+    "vertices": 37178
+   },
+   "thumb": "060_map/rel_Ice07_Santavillage.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 428464,
+   "file": "060_map/rel_Ice08_roof.glb",
+   "id": "rel_Ice08_roof",
+   "mapMarkers": {
+    "file": "060_map/rel_Ice08_roof.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Ice08_roof",
+   "stats": {
+    "textures": 92,
+    "triangles": 40824,
+    "vertices": 67922
+   },
+   "thumb": "060_map/rel_Ice08_roof.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 189944,
+   "file": "060_map/rel_jump01_Oneway.glb",
+   "id": "rel_jump01_Oneway",
+   "mapMarkers": {
+    "file": "060_map/rel_jump01_Oneway.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_jump01_Oneway",
+   "stats": {
+    "textures": 69,
+    "triangles": 17583,
+    "vertices": 23469
+   },
+   "thumb": "060_map/rel_jump01_Oneway.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 299332,
+   "file": "060_map/rel_jump02_rooftop.glb",
+   "id": "rel_jump02_rooftop",
+   "mapMarkers": {
+    "file": "060_map/rel_jump02_rooftop.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_jump02_rooftop",
+   "stats": {
+    "textures": 99,
+    "triangles": 24216,
+    "vertices": 42286
+   },
+   "thumb": "060_map/rel_jump02_rooftop.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 232588,
+   "file": "060_map/rel_jump03_pangpang.glb",
+   "id": "rel_jump03_pangpang",
+   "mapMarkers": {
+    "file": "060_map/rel_jump03_pangpang.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_jump03_pangpang",
+   "stats": {
+    "textures": 85,
+    "triangles": 18005,
+    "vertices": 25409
+   },
+   "thumb": "060_map/rel_jump03_pangpang.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 47292,
+   "file": "060_map/rel_laboratory01.glb",
+   "id": "rel_laboratory01",
+   "mapMarkers": {
+    "file": "060_map/rel_laboratory01.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_laboratory01",
+   "stats": {
+    "textures": 11,
+    "triangles": 2917,
+    "vertices": 3915
+   },
+   "thumb": "060_map/rel_laboratory01.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 60056,
+   "file": "060_map/rel_laboratory02.glb",
+   "id": "rel_laboratory02",
+   "mapMarkers": {
+    "file": "060_map/rel_laboratory02.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_laboratory02",
+   "stats": {
+    "textures": 14,
+    "triangles": 6184,
+    "vertices": 6304
+   },
+   "thumb": "060_map/rel_laboratory02.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 286196,
+   "file": "060_map/rel_mission_bubble_bomb.glb",
+   "id": "rel_mission_bubble_bomb",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_bubble_bomb.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_bubble_bomb",
+   "stats": {
+    "textures": 77,
+    "triangles": 20778,
+    "vertices": 28162
+   },
+   "thumb": "060_map/rel_mission_bubble_bomb.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 285764,
+   "file": "060_map/rel_mission_bubble_rifle.glb",
+   "id": "rel_mission_bubble_rifle",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_bubble_rifle.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_bubble_rifle",
+   "stats": {
+    "textures": 77,
+    "triangles": 20710,
+    "vertices": 28104
+   },
+   "thumb": "060_map/rel_mission_bubble_rifle.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 277124,
+   "file": "060_map/rel_mission_bubble_shotgun.glb",
+   "id": "rel_mission_bubble_shotgun",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_bubble_shotgun.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_bubble_shotgun",
+   "stats": {
+    "textures": 74,
+    "triangles": 20451,
+    "vertices": 27282
+   },
+   "thumb": "060_map/rel_mission_bubble_shotgun.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 279232,
+   "file": "060_map/rel_mission_bubble_sniper.glb",
+   "id": "rel_mission_bubble_sniper",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_bubble_sniper.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_bubble_sniper",
+   "stats": {
+    "textures": 77,
+    "triangles": 20381,
+    "vertices": 27354
+   },
+   "thumb": "060_map/rel_mission_bubble_sniper.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 279640,
+   "file": "060_map/rel_mission_help.glb",
+   "id": "rel_mission_help",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_help.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_help",
+   "stats": {
+    "textures": 74,
+    "triangles": 20691,
+    "vertices": 27684
+   },
+   "thumb": "060_map/rel_mission_help.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 279020,
+   "file": "060_map/rel_mission_pang.glb",
+   "id": "rel_mission_pang",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_pang.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_pang",
+   "stats": {
+    "textures": 74,
+    "triangles": 20627,
+    "vertices": 27572
+   },
+   "thumb": "060_map/rel_mission_pang.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 273032,
+   "file": "060_map/rel_mission_roll.glb",
+   "id": "rel_mission_roll",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_roll.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_roll",
+   "stats": {
+    "textures": 76,
+    "triangles": 19550,
+    "vertices": 26667
+   },
+   "thumb": "060_map/rel_mission_roll.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 217684,
+   "file": "060_map/rel_mission_roll_lv1.glb",
+   "id": "rel_mission_roll_lv1",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_roll_lv1.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_roll_lv1",
+   "stats": {
+    "textures": 75,
+    "triangles": 13816,
+    "vertices": 19478
+   },
+   "thumb": "060_map/rel_mission_roll_lv1.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 267340,
+   "file": "060_map/rel_mission_supang_sniper.glb",
+   "id": "rel_mission_supang_sniper",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_supang_sniper.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_supang_sniper",
+   "stats": {
+    "textures": 75,
+    "triangles": 19444,
+    "vertices": 25881
+   },
+   "thumb": "060_map/rel_mission_supang_sniper.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 167124,
+   "file": "060_map/rel_mission_wall.glb",
+   "id": "rel_mission_wall",
+   "mapMarkers": {
+    "file": "060_map/rel_mission_wall.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_mission_wall",
+   "stats": {
+    "textures": 67,
+    "triangles": 9602,
+    "vertices": 13862
+   },
+   "thumb": "060_map/rel_mission_wall.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 241712,
+   "file": "060_map/rel_NPCpirateclassic01_Pharaoh.glb",
+   "id": "rel_NPCpirateclassic01_Pharaoh",
+   "mapMarkers": {
+    "file": "060_map/rel_NPCpirateclassic01_Pharaoh.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_NPCpirateclassic01_Pharaoh",
+   "stats": {
+    "textures": 83,
+    "triangles": 19052,
+    "vertices": 28987
+   },
+   "thumb": "060_map/rel_NPCpirateclassic01_Pharaoh.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 537456,
+   "file": "060_map/rel_NPCpirateclassic02_portVillage.glb",
+   "id": "rel_NPCpirateclassic02_portVillage",
+   "mapMarkers": {
+    "file": "060_map/rel_NPCpirateclassic02_portVillage.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_NPCpirateclassic02_portVillage",
+   "stats": {
+    "textures": 118,
+    "triangles": 53232,
+    "vertices": 73715
+   },
+   "thumb": "060_map/rel_NPCpirateclassic02_portVillage.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 334076,
+   "file": "060_map/rel_pirate01_tear.glb",
+   "id": "rel_pirate01_tear",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate01_tear.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate01_tear",
+   "stats": {
+    "textures": 99,
+    "triangles": 24574,
+    "vertices": 46287
+   },
+   "thumb": "060_map/rel_pirate01_tear.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 443820,
+   "file": "060_map/rel_pirate02_frontal.glb",
+   "id": "rel_pirate02_frontal",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate02_frontal.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate02_frontal",
+   "stats": {
+    "textures": 124,
+    "triangles": 29599,
+    "vertices": 40683
+   },
+   "thumb": "060_map/rel_pirate02_frontal.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 252888,
+   "file": "060_map/rel_pirate03_prison.glb",
+   "id": "rel_pirate03_prison",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate03_prison.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate03_prison",
+   "stats": {
+    "textures": 76,
+    "triangles": 16869,
+    "vertices": 23135
+   },
+   "thumb": "060_map/rel_pirate03_prison.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 289092,
+   "file": "060_map/rel_pirate04_Secret.glb",
+   "id": "rel_pirate04_Secret",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate04_Secret.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate04_Secret",
+   "stats": {
+    "textures": 104,
+    "triangles": 19931,
+    "vertices": 29579
+   },
+   "thumb": "060_map/rel_pirate04_Secret.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 318372,
+   "file": "060_map/rel_pirate05_Dock.glb",
+   "id": "rel_pirate05_Dock",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate05_Dock.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate05_Dock",
+   "stats": {
+    "textures": 116,
+    "triangles": 22944,
+    "vertices": 34006
+   },
+   "thumb": "060_map/rel_pirate05_Dock.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 202060,
+   "file": "060_map/rel_pirate06_Navalbattle.glb",
+   "id": "rel_pirate06_Navalbattle",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate06_Navalbattle.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate06_Navalbattle",
+   "stats": {
+    "textures": 64,
+    "triangles": 16355,
+    "vertices": 24131
+   },
+   "thumb": "060_map/rel_pirate06_Navalbattle.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 391596,
+   "file": "060_map/rel_pirate07_Treasure.glb",
+   "id": "rel_pirate07_Treasure",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate07_Treasure.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate07_Treasure",
+   "stats": {
+    "textures": 94,
+    "triangles": 34261,
+    "vertices": 44267
+   },
+   "thumb": "060_map/rel_pirate07_Treasure.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 1794080,
+   "file": "060_map/rel_pirate08_island.glb",
+   "id": "rel_pirate08_island",
+   "mapMarkers": {
+    "file": "060_map/rel_pirate08_island.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_pirate08_island",
+   "stats": {
+    "textures": 148,
+    "triangles": 182301,
+    "vertices": 271605
+   },
+   "thumb": "060_map/rel_pirate08_island.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 277400,
+   "file": "060_map/rel_prologue_01.glb",
+   "id": "rel_prologue_01",
+   "mapMarkers": {
+    "file": "060_map/rel_prologue_01.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_prologue_01",
+   "stats": {
+    "textures": 74,
+    "triangles": 20477,
+    "vertices": 27326
+   },
+   "thumb": "060_map/rel_prologue_01.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 605020,
+   "file": "060_map/rel_Racing01_Extreme.glb",
+   "id": "rel_Racing01_Extreme",
+   "mapMarkers": {
+    "file": "060_map/rel_Racing01_Extreme.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Racing01_Extreme",
+   "stats": {
+    "textures": 121,
+    "triangles": 56424,
+    "vertices": 76250
+   },
+   "thumb": "060_map/rel_Racing01_Extreme.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 809672,
+   "file": "060_map/rel_Racing02_Extreme.glb",
+   "id": "rel_Racing02_Extreme",
+   "mapMarkers": {
+    "file": "060_map/rel_Racing02_Extreme.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Racing02_Extreme",
+   "stats": {
+    "textures": 179,
+    "triangles": 72520,
+    "vertices": 100620
+   },
+   "thumb": "060_map/rel_Racing02_Extreme.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 256092,
+   "file": "060_map/rel_Space01_Spaceship.glb",
+   "id": "rel_Space01_Spaceship",
+   "mapMarkers": {
+    "file": "060_map/rel_Space01_Spaceship.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Space01_Spaceship",
+   "stats": {
+    "textures": 61,
+    "triangles": 26648,
+    "vertices": 36690
+   },
+   "thumb": "060_map/rel_Space01_Spaceship.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 246264,
+   "file": "060_map/rel_Space01_Spaceship_Lavi.glb",
+   "id": "rel_Space01_Spaceship_Lavi",
+   "mapMarkers": {
+    "file": "060_map/rel_Space01_Spaceship_Lavi.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Space01_Spaceship_Lavi",
+   "stats": {
+    "textures": 60,
+    "triangles": 24637,
+    "vertices": 33343
+   },
+   "thumb": "060_map/rel_Space01_Spaceship_Lavi.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 297804,
+   "file": "060_map/rel_Space02_Station.glb",
+   "id": "rel_Space02_Station",
+   "mapMarkers": {
+    "file": "060_map/rel_Space02_Station.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Space02_Station",
+   "stats": {
+    "textures": 81,
+    "triangles": 29909,
+    "vertices": 36369
+   },
+   "thumb": "060_map/rel_Space02_Station.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 297108,
+   "file": "060_map/rel_Space03_Garage.glb",
+   "id": "rel_Space03_Garage",
+   "mapMarkers": {
+    "file": "060_map/rel_Space03_Garage.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Space03_Garage",
+   "stats": {
+    "textures": 96,
+    "triangles": 26660,
+    "vertices": 35593
+   },
+   "thumb": "060_map/rel_Space03_Garage.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 1841844,
+   "file": "060_map/rel_space04_64room.glb",
+   "id": "rel_space04_64room",
+   "mapMarkers": {
+    "file": "060_map/rel_space04_64room.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_space04_64room",
+   "stats": {
+    "textures": 44,
+    "triangles": 187077,
+    "vertices": 267586
+   },
+   "thumb": "060_map/rel_space04_64room.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 231288,
+   "file": "060_map/rel_Stadium01_Pangpang.glb",
+   "id": "rel_Stadium01_Pangpang",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium01_Pangpang.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium01_Pangpang",
+   "stats": {
+    "textures": 85,
+    "triangles": 18055,
+    "vertices": 33172
+   },
+   "thumb": "060_map/rel_Stadium01_Pangpang.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 276492,
+   "file": "060_map/rel_Stadium02_Dome.glb",
+   "id": "rel_Stadium02_Dome",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium02_Dome.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium02_Dome",
+   "stats": {
+    "textures": 102,
+    "triangles": 22486,
+    "vertices": 37759
+   },
+   "thumb": "060_map/rel_Stadium02_Dome.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 336872,
+   "file": "060_map/rel_Stadium03_StardustArena.glb",
+   "id": "rel_Stadium03_StardustArena",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium03_StardustArena.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium03_StardustArena",
+   "stats": {
+    "textures": 99,
+    "triangles": 26274,
+    "vertices": 38079
+   },
+   "thumb": "060_map/rel_Stadium03_StardustArena.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 309276,
+   "file": "060_map/rel_Stadium04_Extreme.glb",
+   "id": "rel_Stadium04_Extreme",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium04_Extreme.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium04_Extreme",
+   "stats": {
+    "textures": 100,
+    "triangles": 22904,
+    "vertices": 36045
+   },
+   "thumb": "060_map/rel_Stadium04_Extreme.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 172856,
+   "file": "060_map/rel_Stadium05_hill.glb",
+   "id": "rel_Stadium05_hill",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium05_hill.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium05_hill",
+   "stats": {
+    "textures": 74,
+    "triangles": 12642,
+    "vertices": 17288
+   },
+   "thumb": "060_map/rel_Stadium05_hill.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 309436,
+   "file": "060_map/rel_Stadium06_Aqua.glb",
+   "id": "rel_Stadium06_Aqua",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium06_Aqua.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium06_Aqua",
+   "stats": {
+    "textures": 92,
+    "triangles": 25230,
+    "vertices": 42245
+   },
+   "thumb": "060_map/rel_Stadium06_Aqua.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 368284,
+   "file": "060_map/rel_Stadium07_Seven.glb",
+   "id": "rel_Stadium07_Seven",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium07_Seven.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium07_Seven",
+   "stats": {
+    "textures": 126,
+    "triangles": 28390,
+    "vertices": 46046
+   },
+   "thumb": "060_map/rel_Stadium07_Seven.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 218104,
+   "file": "060_map/rel_Stadium08_rollerSkate.glb",
+   "id": "rel_Stadium08_rollerSkate",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium08_rollerSkate.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium08_rollerSkate",
+   "stats": {
+    "textures": 72,
+    "triangles": 18906,
+    "vertices": 34085
+   },
+   "thumb": "060_map/rel_Stadium08_rollerSkate.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 282996,
+   "file": "060_map/rel_Stadium09_beachSkate.glb",
+   "id": "rel_Stadium09_beachSkate",
+   "mapMarkers": {
+    "file": "060_map/rel_Stadium09_beachSkate.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Stadium09_beachSkate",
+   "stats": {
+    "textures": 108,
+    "triangles": 23061,
+    "vertices": 32908
+   },
+   "thumb": "060_map/rel_Stadium09_beachSkate.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 233984,
+   "file": "060_map/rel_trainingRoom01.glb",
+   "id": "rel_trainingRoom01",
+   "mapMarkers": {
+    "file": "060_map/rel_trainingRoom01.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_trainingRoom01",
+   "stats": {
+    "textures": 58,
+    "triangles": 18446,
+    "vertices": 31832
+   },
+   "thumb": "060_map/rel_trainingRoom01.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 4318204,
+   "file": "060_map/rel_Village00_boomhill.glb",
+   "id": "rel_Village00_boomhill",
+   "mapMarkers": {
+    "file": "060_map/rel_Village00_boomhill.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village00_boomhill",
+   "stats": {
+    "textures": 395,
+    "triangles": 443375,
+    "vertices": 740789
+   },
+   "thumb": "060_map/rel_Village00_boomhill.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 365240,
+   "file": "060_map/rel_Village01_Byway.glb",
+   "id": "rel_Village01_Byway",
+   "mapMarkers": {
+    "file": "060_map/rel_Village01_Byway.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village01_Byway",
+   "stats": {
+    "textures": 135,
+    "triangles": 25432,
+    "vertices": 46795
+   },
+   "thumb": "060_map/rel_Village01_Byway.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 320156,
+   "file": "060_map/rel_Village02_waterPark.glb",
+   "id": "rel_Village02_waterPark",
+   "mapMarkers": {
+    "file": "060_map/rel_Village02_waterPark.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village02_waterPark",
+   "stats": {
+    "textures": 107,
+    "triangles": 22801,
+    "vertices": 31817
+   },
+   "thumb": "060_map/rel_Village02_waterPark.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 332008,
+   "file": "060_map/rel_Village03_CityHall.glb",
+   "id": "rel_Village03_CityHall",
+   "mapMarkers": {
+    "file": "060_map/rel_Village03_CityHall.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village03_CityHall",
+   "stats": {
+    "textures": 121,
+    "triangles": 22895,
+    "vertices": 42361
+   },
+   "thumb": "060_map/rel_Village03_CityHall.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 308068,
+   "file": "060_map/rel_Village04_Station.glb",
+   "id": "rel_Village04_Station",
+   "mapMarkers": {
+    "file": "060_map/rel_Village04_Station.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village04_Station",
+   "stats": {
+    "textures": 85,
+    "triangles": 23673,
+    "vertices": 35841
+   },
+   "thumb": "060_map/rel_Village04_Station.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 335216,
+   "file": "060_map/rel_Village05_Playground.glb",
+   "id": "rel_Village05_Playground",
+   "mapMarkers": {
+    "file": "060_map/rel_Village05_Playground.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village05_Playground",
+   "stats": {
+    "textures": 129,
+    "triangles": 23799,
+    "vertices": 35723
+   },
+   "thumb": "060_map/rel_Village05_Playground.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 305748,
+   "file": "060_map/rel_Village06_CirclePark.glb",
+   "id": "rel_Village06_CirclePark",
+   "mapMarkers": {
+    "file": "060_map/rel_Village06_CirclePark.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village06_CirclePark",
+   "stats": {
+    "textures": 115,
+    "triangles": 22323,
+    "vertices": 40455
+   },
+   "thumb": "060_map/rel_Village06_CirclePark.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 247140,
+   "file": "060_map/rel_Village07_Easy02.glb",
+   "id": "rel_Village07_Easy02",
+   "mapMarkers": {
+    "file": "060_map/rel_Village07_Easy02.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village07_Easy02",
+   "stats": {
+    "textures": 106,
+    "triangles": 18101,
+    "vertices": 33147
+   },
+   "thumb": "060_map/rel_Village07_Easy02.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 317436,
+   "file": "060_map/rel_village08_daohouse.glb",
+   "id": "rel_village08_daohouse",
+   "mapMarkers": {
+    "file": "060_map/rel_village08_daohouse.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_village08_daohouse",
+   "stats": {
+    "textures": 112,
+    "triangles": 24118,
+    "vertices": 36146
+   },
+   "thumb": "060_map/rel_village08_daohouse.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 274936,
+   "file": "060_map/rel_Village09_Parking.glb",
+   "id": "rel_Village09_Parking",
+   "mapMarkers": {
+    "file": "060_map/rel_Village09_Parking.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village09_Parking",
+   "stats": {
+    "textures": 62,
+    "triangles": 25186,
+    "vertices": 35116
+   },
+   "thumb": "060_map/rel_Village09_Parking.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 297488,
+   "file": "060_map/rel_Village10_Rooftop.glb",
+   "id": "rel_Village10_Rooftop",
+   "mapMarkers": {
+    "file": "060_map/rel_Village10_Rooftop.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village10_Rooftop",
+   "stats": {
+    "textures": 99,
+    "triangles": 23726,
+    "vertices": 41140
+   },
+   "thumb": "060_map/rel_Village10_Rooftop.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 313392,
+   "file": "060_map/rel_Village11_Cafe.glb",
+   "id": "rel_Village11_Cafe",
+   "mapMarkers": {
+    "file": "060_map/rel_Village11_Cafe.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village11_Cafe",
+   "stats": {
+    "textures": 116,
+    "triangles": 22259,
+    "vertices": 32822
+   },
+   "thumb": "060_map/rel_Village11_Cafe.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 352156,
+   "file": "060_map/rel_Village12_Pool.glb",
+   "id": "rel_Village12_Pool",
+   "mapMarkers": {
+    "file": "060_map/rel_Village12_Pool.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village12_Pool",
+   "stats": {
+    "textures": 124,
+    "triangles": 27585,
+    "vertices": 38262
+   },
+   "thumb": "060_map/rel_Village12_Pool.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 376032,
+   "file": "060_map/rel_Village13_gardenShop.glb",
+   "id": "rel_Village13_gardenShop",
+   "mapMarkers": {
+    "file": "060_map/rel_Village13_gardenShop.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_Village13_gardenShop",
+   "stats": {
+    "textures": 113,
+    "triangles": 28067,
+    "vertices": 52630
+   },
+   "thumb": "060_map/rel_Village13_gardenShop.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 206664,
+   "file": "060_map/rel_zombie02_Twobridge.glb",
+   "id": "rel_zombie02_Twobridge",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie02_Twobridge.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie02_Twobridge",
+   "stats": {
+    "textures": 71,
+    "triangles": 14439,
+    "vertices": 18307
+   },
+   "thumb": "060_map/rel_zombie02_Twobridge.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 321204,
+   "file": "060_map/rel_zombie03_Circle.glb",
+   "id": "rel_zombie03_Circle",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie03_Circle.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie03_Circle",
+   "stats": {
+    "textures": 132,
+    "triangles": 18620,
+    "vertices": 28463
+   },
+   "thumb": "060_map/rel_zombie03_Circle.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 345248,
+   "file": "060_map/rel_zombie03_Circle_bomb.glb",
+   "id": "rel_zombie03_Circle_bomb",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie03_Circle_bomb.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie03_Circle_bomb",
+   "stats": {
+    "textures": 136,
+    "triangles": 21129,
+    "vertices": 31330
+   },
+   "thumb": "060_map/rel_zombie03_Circle_bomb.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 219088,
+   "file": "060_map/rel_zombie04_1_Oneway.glb",
+   "id": "rel_zombie04_1_Oneway",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie04_1_Oneway.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie04_1_Oneway",
+   "stats": {
+    "textures": 76,
+    "triangles": 19503,
+    "vertices": 21624
+   },
+   "thumb": "060_map/rel_zombie04_1_Oneway.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 219740,
+   "file": "060_map/rel_zombie04_Oneway.glb",
+   "id": "rel_zombie04_Oneway",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie04_Oneway.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie04_Oneway",
+   "stats": {
+    "textures": 77,
+    "triangles": 19503,
+    "vertices": 21624
+   },
+   "thumb": "060_map/rel_zombie04_Oneway.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 289820,
+   "file": "060_map/rel_zombie05_Tear.glb",
+   "id": "rel_zombie05_Tear",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie05_Tear.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie05_Tear",
+   "stats": {
+    "textures": 94,
+    "triangles": 18275,
+    "vertices": 26882
+   },
+   "thumb": "060_map/rel_zombie05_Tear.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 327488,
+   "file": "060_map/rel_zombie06_Frontal.glb",
+   "id": "rel_zombie06_Frontal",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie06_Frontal.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie06_Frontal",
+   "stats": {
+    "textures": 68,
+    "triangles": 26168,
+    "vertices": 36018
+   },
+   "thumb": "060_map/rel_zombie06_Frontal.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 300076,
+   "file": "060_map/rel_zombie07_Bootcamp.glb",
+   "id": "rel_zombie07_Bootcamp",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie07_Bootcamp.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie07_Bootcamp",
+   "stats": {
+    "textures": 81,
+    "triangles": 23163,
+    "vertices": 32109
+   },
+   "thumb": "060_map/rel_zombie07_Bootcamp.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 257064,
+   "file": "060_map/rel_zombie08_AnubisTomb.glb",
+   "id": "rel_zombie08_AnubisTomb",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie08_AnubisTomb.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie08_AnubisTomb",
+   "stats": {
+    "textures": 63,
+    "triangles": 28947,
+    "vertices": 35547
+   },
+   "thumb": "060_map/rel_zombie08_AnubisTomb.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 365812,
+   "file": "060_map/rel_zombie09_backStreet.glb",
+   "id": "rel_zombie09_backStreet",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie09_backStreet.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie09_backStreet",
+   "stats": {
+    "textures": 96,
+    "triangles": 33652,
+    "vertices": 45211
+   },
+   "thumb": "060_map/rel_zombie09_backStreet.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 242068,
+   "file": "060_map/rel_zombie10_cave.glb",
+   "id": "rel_zombie10_cave",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie10_cave.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie10_cave",
+   "stats": {
+    "textures": 49,
+    "triangles": 23833,
+    "vertices": 32207
+   },
+   "thumb": "060_map/rel_zombie10_cave.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 348504,
+   "file": "060_map/rel_zombie_01.glb",
+   "id": "rel_zombie_01",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie_01.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie_01",
+   "stats": {
+    "textures": 143,
+    "triangles": 20940,
+    "vertices": 31571
+   },
+   "thumb": "060_map/rel_zombie_01.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 358192,
+   "file": "060_map/rel_zombie_01_bomb.glb",
+   "id": "rel_zombie_01_bomb",
+   "mapMarkers": {
+    "file": "060_map/rel_zombie_01_bomb.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombie_01_bomb",
+   "stats": {
+    "textures": 144,
+    "triangles": 22066,
+    "vertices": 32662
+   },
+   "thumb": "060_map/rel_zombie_01_bomb.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 1061584,
+   "file": "060_map/rel_zombieEscape01_pyramid.glb",
+   "id": "rel_zombieEscape01_pyramid",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieEscape01_pyramid.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieEscape01_pyramid",
+   "stats": {
+    "textures": 132,
+    "triangles": 145239,
+    "vertices": 162035
+   },
+   "thumb": "060_map/rel_zombieEscape01_pyramid.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 814248,
+   "file": "060_map/rel_zombieEscape02_village.glb",
+   "id": "rel_zombieEscape02_village",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieEscape02_village.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieEscape02_village",
+   "stats": {
+    "textures": 126,
+    "triangles": 84117,
+    "vertices": 139522
+   },
+   "thumb": "060_map/rel_zombieEscape02_village.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 346560,
+   "file": "060_map/rel_zombieSpeed01_ruin.glb",
+   "id": "rel_zombieSpeed01_ruin",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed01_ruin.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed01_ruin",
+   "stats": {
+    "textures": 78,
+    "triangles": 30299,
+    "vertices": 52817
+   },
+   "thumb": "060_map/rel_zombieSpeed01_ruin.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 274088,
+   "file": "060_map/rel_zombieSpeed02_beanstalk.glb",
+   "id": "rel_zombieSpeed02_beanstalk",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed02_beanstalk.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed02_beanstalk",
+   "stats": {
+    "textures": 80,
+    "triangles": 30870,
+    "vertices": 37629
+   },
+   "thumb": "060_map/rel_zombieSpeed02_beanstalk.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 283604,
+   "file": "060_map/rel_zombieSpeed03_AnubisTomb.glb",
+   "id": "rel_zombieSpeed03_AnubisTomb",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed03_AnubisTomb.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed03_AnubisTomb",
+   "stats": {
+    "textures": 65,
+    "triangles": 33827,
+    "vertices": 42969
+   },
+   "thumb": "060_map/rel_zombieSpeed03_AnubisTomb.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 392624,
+   "file": "060_map/rel_zombieSpeed04_backStreet.glb",
+   "id": "rel_zombieSpeed04_backStreet",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed04_backStreet.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed04_backStreet",
+   "stats": {
+    "textures": 99,
+    "triangles": 38532,
+    "vertices": 52633
+   },
+   "thumb": "060_map/rel_zombieSpeed04_backStreet.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 269804,
+   "file": "060_map/rel_zombieSpeed05_cave.glb",
+   "id": "rel_zombieSpeed05_cave",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed05_cave.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed05_cave",
+   "stats": {
+    "textures": 52,
+    "triangles": 28713,
+    "vertices": 39667
+   },
+   "thumb": "060_map/rel_zombieSpeed05_cave.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 302416,
+   "file": "060_map/rel_zombieSpeed06_station.glb",
+   "id": "rel_zombieSpeed06_station",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed06_station.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed06_station",
+   "stats": {
+    "textures": 81,
+    "triangles": 29914,
+    "vertices": 36364
+   },
+   "thumb": "060_map/rel_zombieSpeed06_station.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 290084,
+   "file": "060_map/rel_zombieSpeed07_garage.glb",
+   "id": "rel_zombieSpeed07_garage",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed07_garage.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed07_garage",
+   "stats": {
+    "textures": 89,
+    "triangles": 26667,
+    "vertices": 35851
+   },
+   "thumb": "060_map/rel_zombieSpeed07_garage.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 280428,
+   "file": "060_map/rel_zombieSpeed08_castle.glb",
+   "id": "rel_zombieSpeed08_castle",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed08_castle.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed08_castle",
+   "stats": {
+    "textures": 117,
+    "triangles": 22825,
+    "vertices": 27245
+   },
+   "thumb": "060_map/rel_zombieSpeed08_castle.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 218280,
+   "file": "060_map/rel_zombieSpeed09_cave.glb",
+   "id": "rel_zombieSpeed09_cave",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed09_cave.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed09_cave",
+   "stats": {
+    "textures": 73,
+    "triangles": 20753,
+    "vertices": 23199
+   },
+   "thumb": "060_map/rel_zombieSpeed09_cave.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 357536,
+   "file": "060_map/rel_zombieSpeed10_frontal.glb",
+   "id": "rel_zombieSpeed10_frontal",
+   "mapMarkers": {
+    "file": "060_map/rel_zombieSpeed10_frontal.json",
+    "flipZ": true,
+    "scale": 0.01
+   },
+   "name": "rel_zombieSpeed10_frontal",
+   "stats": {
+    "textures": 69,
+    "triangles": 32329,
+    "vertices": 44165
+   },
+   "thumb": "060_map/rel_zombieSpeed10_frontal.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "맵"
+}

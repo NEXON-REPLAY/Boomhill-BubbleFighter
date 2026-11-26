@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 26,
+   "index": 0,
+   "w": 21,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 1,
+   "w": 1,
+   "x": 25,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 2,
+   "w": 21,
+   "x": 29,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_Back07",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_Back07.png",
+  "h": 28,
+  "w": 51
+ }
+}

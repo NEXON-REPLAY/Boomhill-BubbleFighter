@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 25,
+   "index": 0,
+   "w": 98,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 25,
+   "index": 1,
+   "w": 98,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 25,
+   "index": 2,
+   "w": 98,
+   "x": 1,
+   "y": 55
+  },
+  {
+   "h": 25,
+   "index": 3,
+   "w": 98,
+   "x": 1,
+   "y": 82
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "DayMission/DayMission_GoBtn",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "DayMission__DayMission_GoBtn.png",
+  "h": 108,
+  "w": 100
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 52,
+   "index": 0,
+   "w": 50,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 52,
+   "index": 1,
+   "w": 50,
+   "x": 1,
+   "y": 55
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ZombieArmy/ZombieArmyUseItemBox2_03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ZombieArmy__ZombieArmyUseItemBox2_03.png",
+  "h": 108,
+  "w": 52
+ }
+}

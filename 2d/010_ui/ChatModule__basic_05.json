@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 2,
+   "index": 0,
+   "w": 2,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 2,
+   "index": 1,
+   "w": 2,
+   "x": 6,
+   "y": 1
+  },
+  {
+   "h": 2,
+   "index": 2,
+   "w": 2,
+   "x": 11,
+   "y": 1
+  },
+  {
+   "h": 2,
+   "index": 3,
+   "w": 2,
+   "x": 1,
+   "y": 6
+  },
+  {
+   "h": 2,
+   "index": 4,
+   "w": 2,
+   "x": 6,
+   "y": 6
+  },
+  {
+   "h": 2,
+   "index": 5,
+   "w": 2,
+   "x": 11,
+   "y": 6
+  },
+  {
+   "h": 2,
+   "index": 6,
+   "w": 2,
+   "x": 1,
+   "y": 11
+  },
+  {
+   "h": 2,
+   "index": 7,
+   "w": 2,
+   "x": 6,
+   "y": 11
+  },
+  {
+   "h": 2,
+   "index": 8,
+   "w": 2,
+   "x": 11,
+   "y": 11
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChatModule/basic_05",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChatModule__basic_05.png",
+  "h": 14,
+  "w": 14
+ }
+}

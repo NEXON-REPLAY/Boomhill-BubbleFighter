@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 30,
+   "index": 0,
+   "w": 85,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 30,
+   "index": 1,
+   "w": 85,
+   "x": 1,
+   "y": 32
+  },
+  {
+   "h": 30,
+   "index": 2,
+   "w": 85,
+   "x": 1,
+   "y": 63
+  },
+  {
+   "h": 30,
+   "index": 3,
+   "w": 85,
+   "x": 1,
+   "y": 94
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TaskBar/TaskBarNew/taskBar_btnMysteryShop",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TaskBar__TaskBarNew__taskBar_btnMysteryShop.png",
+  "h": 125,
+  "w": 87
+ }
+}

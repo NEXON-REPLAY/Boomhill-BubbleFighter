@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 19,
+   "index": 0,
+   "w": 2,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 19,
+   "index": 1,
+   "w": 1,
+   "x": 6,
+   "y": 1
+  },
+  {
+   "h": 19,
+   "index": 2,
+   "w": 2,
+   "x": 10,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStageChatModule/inventory_expbar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStageChatModule__inventory_expbar.png",
+  "h": 21,
+  "w": 13
+ }
+}

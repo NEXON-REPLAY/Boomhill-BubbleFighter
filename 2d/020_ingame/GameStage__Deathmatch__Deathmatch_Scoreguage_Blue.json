@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 22,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 2
+   },
+   "w": 108,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 2
+   },
+   "w": 108,
+   "x": 1,
+   "y": 25
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "w": 104,
+   "x": 1,
+   "y": 49
+  },
+  {
+   "h": 18,
+   "index": 3,
+   "w": 1,
+   "x": 107,
+   "y": 49
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Deathmatch/Deathmatch_Scoreguage_Blue",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Deathmatch__Deathmatch_Scoreguage_Blue.png",
+  "h": 68,
+  "w": 110
+ }
+}

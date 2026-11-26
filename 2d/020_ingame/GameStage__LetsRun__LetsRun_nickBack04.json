@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 23,
+   "index": 0,
+   "w": 9,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 23,
+   "index": 1,
+   "w": 1,
+   "x": 13,
+   "y": 1
+  },
+  {
+   "h": 23,
+   "index": 2,
+   "w": 9,
+   "x": 17,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/LetsRun/LetsRun_nickBack04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__LetsRun__LetsRun_nickBack04.png",
+  "h": 25,
+  "w": 27
+ }
+}

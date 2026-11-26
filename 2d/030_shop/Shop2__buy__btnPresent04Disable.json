@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 4,
+   "index": 0,
+   "w": 26,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 4,
+   "index": 1,
+   "w": 16,
+   "x": 30,
+   "y": 1
+  },
+  {
+   "h": 4,
+   "index": 2,
+   "w": 26,
+   "x": 49,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 3,
+   "w": 26,
+   "x": 1,
+   "y": 8
+  },
+  {
+   "h": 17,
+   "index": 4,
+   "w": 16,
+   "x": 30,
+   "y": 8
+  },
+  {
+   "h": 17,
+   "index": 5,
+   "w": 26,
+   "x": 49,
+   "y": 8
+  },
+  {
+   "h": 4,
+   "index": 6,
+   "w": 26,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 4,
+   "index": 7,
+   "w": 16,
+   "x": 30,
+   "y": 28
+  },
+  {
+   "h": 4,
+   "index": 8,
+   "w": 26,
+   "x": 49,
+   "y": 28
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/buy/btnPresent04Disable",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__buy__btnPresent04Disable.png",
+  "h": 33,
+  "w": 76
+ }
+}

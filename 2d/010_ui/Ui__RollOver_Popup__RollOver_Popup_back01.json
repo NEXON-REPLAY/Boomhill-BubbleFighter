@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 12,
+   "index": 0,
+   "w": 13,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 1,
+   "w": 1,
+   "x": 17,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 2,
+   "w": 12,
+   "x": 21,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 13,
+   "x": 1,
+   "y": 16
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 17,
+   "y": 16
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 12,
+   "x": 21,
+   "y": 16
+  },
+  {
+   "h": 13,
+   "index": 6,
+   "w": 13,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 13,
+   "index": 7,
+   "w": 1,
+   "x": 17,
+   "y": 20
+  },
+  {
+   "h": 13,
+   "index": 8,
+   "w": 12,
+   "x": 21,
+   "y": 20
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/RollOver_Popup/RollOver_Popup_back01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__RollOver_Popup__RollOver_Popup_back01.png",
+  "h": 34,
+  "w": 34
+ }
+}

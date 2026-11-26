@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 61,
+   "index": 0,
+   "w": 197,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 61,
+   "index": 1,
+   "w": 197,
+   "x": 1,
+   "y": 64
+  },
+  {
+   "h": 61,
+   "index": 2,
+   "w": 197,
+   "x": 1,
+   "y": 127
+  },
+  {
+   "h": 61,
+   "index": 3,
+   "w": 197,
+   "x": 1,
+   "y": 190
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgMapSetting/map_choice_btncover01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgMapSetting__map_choice_btncover01.png",
+  "h": 252,
+  "w": 199
+ }
+}

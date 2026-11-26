@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 14,
+   "index": 0,
+   "w": 25,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 1,
+   "w": 25,
+   "x": 1,
+   "y": 17
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TutorialRoomStage/Tutorial_Roomlist_selected",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TutorialRoomStage__Tutorial_Roomlist_selected.png",
+  "h": 32,
+  "w": 27
+ }
+}

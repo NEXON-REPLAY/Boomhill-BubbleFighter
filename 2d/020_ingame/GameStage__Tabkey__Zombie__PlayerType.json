@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 32,
+   "index": 0,
+   "w": 114,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 33,
+   "index": 1,
+   "w": 114,
+   "x": 1,
+   "y": 35
+  },
+  {
+   "h": 34,
+   "index": 2,
+   "w": 114,
+   "x": 1,
+   "y": 70
+  },
+  {
+   "h": 34,
+   "index": 3,
+   "w": 114,
+   "x": 1,
+   "y": 106
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Tabkey/Zombie/PlayerType",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Tabkey__Zombie__PlayerType.png",
+  "h": 141,
+  "w": 116
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 211,
+   "index": 0,
+   "origin": {
+    "x": 62,
+    "y": 179
+   },
+   "w": 241,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 211,
+   "index": 1,
+   "origin": {
+    "x": 62,
+    "y": 179
+   },
+   "w": 241,
+   "x": 244,
+   "y": 1
+  },
+  {
+   "h": 148,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "w": 148,
+   "x": 1,
+   "y": 214
+  },
+  {
+   "h": 148,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "w": 148,
+   "x": 151,
+   "y": 214
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 148,
+   "x": 1,
+   "y": 364
+  },
+  {
+   "h": 211,
+   "index": 5,
+   "origin": {
+    "x": 62,
+    "y": 179
+   },
+   "w": 241,
+   "x": 1,
+   "y": 367
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/HpGauge01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__HpGauge01.png",
+  "h": 579,
+  "w": 486
+ }
+}

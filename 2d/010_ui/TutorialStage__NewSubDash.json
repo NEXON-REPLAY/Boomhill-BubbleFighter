@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 209,
+   "index": 0,
+   "w": 178,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 209,
+   "index": 1,
+   "w": 178,
+   "x": 181,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TutorialStage/NewSubDash",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TutorialStage__NewSubDash.png",
+  "h": 211,
+  "w": 360
+ }
+}

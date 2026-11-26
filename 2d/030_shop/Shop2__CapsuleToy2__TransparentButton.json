@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 180,
+   "index": 0,
+   "w": 760,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 180,
+   "index": 1,
+   "w": 760,
+   "x": 1,
+   "y": 183
+  },
+  {
+   "h": 180,
+   "index": 2,
+   "w": 760,
+   "x": 1,
+   "y": 365
+  },
+  {
+   "h": 180,
+   "index": 3,
+   "w": 760,
+   "x": 1,
+   "y": 547
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/CapsuleToy2/TransparentButton",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__CapsuleToy2__TransparentButton.png",
+  "h": 728,
+  "w": 762
+ }
+}

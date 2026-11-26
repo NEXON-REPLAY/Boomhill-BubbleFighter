@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 86,
+   "index": 0,
+   "w": 91,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 86,
+   "index": 1,
+   "w": 91,
+   "x": 1,
+   "y": 89
+  },
+  {
+   "h": 86,
+   "index": 2,
+   "w": 91,
+   "x": 1,
+   "y": 177
+  },
+  {
+   "h": 86,
+   "index": 3,
+   "w": 91,
+   "x": 1,
+   "y": 265
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStageChatModule/BtnChangeTeam-Random",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStageChatModule__BtnChangeTeam-Random.png",
+  "h": 352,
+  "w": 93
+ }
+}

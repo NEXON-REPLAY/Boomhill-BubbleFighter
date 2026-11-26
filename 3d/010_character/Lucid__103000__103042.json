@@ -1,0 +1,262 @@
+{
+ "face": {
+  "frames": {
+   "f00-01.png": "_shared/faces/f00-01_5ce692.png",
+   "f00-02.png": "_shared/faces/f00-02_d1e52b.png",
+   "f00-03.png": "_shared/faces/f00-03_91cb53.png",
+   "f00.png": "_shared/faces/f00_74850b.png",
+   "f01-01.png": "_shared/faces/f01-01_35d5ee.png",
+   "f01-02.PNG": "_shared/faces/f01-02_e39f50.png",
+   "f01-02.png": "_shared/faces/f01-02_e39f50.png",
+   "f01.png": "_shared/faces/f01_d45210.png",
+   "f02-01.png": "_shared/faces/f02-01_1d5b44.png",
+   "f02-02.png": "_shared/faces/f02-02_908e39.png",
+   "f02.png": "_shared/faces/f02_f2fd37.png",
+   "f03.png": "_shared/faces/f03_2c6ad2.png",
+   "f04.png": "_shared/faces/f04_77959d.png",
+   "f05-01.png": "_shared/faces/f05-01_6456a5.png",
+   "f05.png": "_shared/faces/f05_cc370d.png",
+   "f06-01.png": "_shared/faces/f06-01_5f14be.png",
+   "f06.png": "_shared/faces/f06_15943e.png",
+   "f07-02.png": "_shared/faces/f07-02_36601f.png",
+   "f07-03.png": "_shared/faces/f07-03_9328b9.png",
+   "f07-04.png": "_shared/faces/f07-04_9cafab.png",
+   "f07-05.png": "_shared/faces/f07-05_de5849.png",
+   "f08-01.png": "_shared/faces/f08-01_a61c4f.png",
+   "f08.png": "_shared/faces/f08_6791ab.png",
+   "f09-01.png": "_shared/faces/f09-01_208df9.png",
+   "f09.png": "_shared/faces/f09_6f6c67.png",
+   "f10.png": "_shared/faces/f10_11f887.png",
+   "f11.png": "_shared/faces/f11_d24087.png",
+   "f12.png": "_shared/faces/f12_794569.png",
+   "f13.png": "_shared/faces/f13_edc8c3.png",
+   "f15.png": "_shared/faces/f15_3709f3.png",
+   "f25.png": "_shared/faces/f25_d6a6a0.png",
+   "f38.png": "_shared/faces/f38_349765.png"
+  },
+  "timelines": {
+   "pis-basic-changeWeapon": [
+    [
+     0.0,
+     "f01.png"
+    ]
+   ],
+   "pis-basic-dash": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-enterStage": [
+    [
+     0.0,
+     "f01.png"
+    ]
+   ],
+   "pis-basic-humiliated": [
+    [
+     0.0,
+     "f03.png"
+    ]
+   ],
+   "pis-basic-humiliating": [
+    [
+     0.0,
+     "f01-02.png"
+    ]
+   ],
+   "pis-basic-humiliatingEnd": [
+    [
+     0.0,
+     "f01-02.png"
+    ]
+   ],
+   "pis-basic-jump": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     0.1,
+     "f01-01.png"
+    ],
+    [
+     0.9667,
+     "f01.png"
+    ]
+   ],
+   "pis-basic-onekilled": [
+    [
+     0.0,
+     "f03.png"
+    ]
+   ],
+   "pis-basic-respawn": [
+    [
+     0.0,
+     "f00-01.png"
+    ],
+    [
+     1.3333,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollB1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollB2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollBL1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollBL2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollBR1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollBR2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollF1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollF2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollFL1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollFL2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollFR1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollFR2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollL1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollL2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollR1": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollR2": [
+    [
+     0.0,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-shocked": [
+    [
+     0.0,
+     "f10.png"
+    ]
+   ],
+   "pis-basic-slip": [
+    [
+     0.0,
+     "f10.png"
+    ],
+    [
+     0.6,
+     "f07-02.png"
+    ]
+   ],
+   "pis-basic-snowslip": [
+    [
+     0.0,
+     "f10.png"
+    ],
+    [
+     0.6333,
+     "f07-03.png"
+    ],
+    [
+     0.8,
+     "f07-02.png"
+    ],
+    [
+     0.9667,
+     "f07-03.png"
+    ],
+    [
+     1.1333,
+     "f07-02.png"
+    ],
+    [
+     1.2333,
+     "f07-03.png"
+    ]
+   ],
+   "pis-basic-stand": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     3.4667,
+     "f00-01.png"
+    ],
+    [
+     3.7333,
+     "f00.png"
+    ],
+    [
+     8.0667,
+     "f05.png"
+    ]
+   ]
+  }
+ }
+}

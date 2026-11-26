@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 18,
+   "index": 0,
+   "w": 21,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 1,
+   "w": 21,
+   "x": 24,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "w": 21,
+   "x": 47,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 3,
+   "w": 21,
+   "x": 70,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/UiCheckBoxSkin",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__UiCheckBoxSkin.png",
+  "h": 20,
+  "w": 92
+ }
+}

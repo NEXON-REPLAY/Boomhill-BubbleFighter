@@ -1,0 +1,64 @@
+{
+ "categories": [
+  {
+   "bytes": 91244016,
+   "count": 164,
+   "dir": "010_character",
+   "id": "3d_character",
+   "list": "010_character/index.json",
+   "title": "캐릭터"
+  },
+  {
+   "bytes": 66171773,
+   "count": 976,
+   "dir": "020_weapon",
+   "id": "3d_weapon",
+   "list": "020_weapon/index.json",
+   "title": "무기"
+  },
+  {
+   "bytes": 17235526,
+   "count": 431,
+   "dir": "030_item",
+   "id": "3d_item",
+   "list": "030_item/index.json",
+   "title": "장비, 아이템"
+  },
+  {
+   "bytes": 4481790,
+   "count": 11,
+   "dir": "040_npc",
+   "id": "3d_npc",
+   "list": "040_npc/index.json",
+   "title": "NPC, 몬스터"
+  },
+  {
+   "bytes": 1742915,
+   "count": 17,
+   "dir": "050_prop",
+   "id": "3d_prop",
+   "list": "050_prop/index.json",
+   "title": "기타 오브젝트"
+  },
+  {
+   "bytes": 52808053,
+   "count": 130,
+   "dir": "060_map",
+   "id": "3d_map",
+   "list": "060_map/index.json",
+   "title": "맵"
+  },
+  {
+   "bytes": 3372244,
+   "count": 21,
+   "dir": "070_scene",
+   "id": "3d_scene",
+   "list": "070_scene/index.json",
+   "title": "연출 장면"
+  }
+ ],
+ "game": "bubblefighter",
+ "plugin": "bubblefighter",
+ "render": {},
+ "schema": "boomhill-open-assets/models/v1"
+}

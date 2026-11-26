@@ -1,0 +1,518 @@
+{
+ "category": "3d_prop",
+ "game": "bubblefighter",
+ "items": [
+  {
+   "bytes": 48248,
+   "file": "050_prop/Clan.glb",
+   "id": "Clan",
+   "name": "Clan",
+   "stats": {
+    "animations": 2,
+    "bones": 10,
+    "textures": 1,
+    "triangles": 688
+   },
+   "thumb": "050_prop/Clan.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      21.505,
+      21.809,
+      18.947
+     ],
+     "min": [
+      -21.805,
+      -23.607,
+      -19.784
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 59516,
+   "file": "050_prop/Clanbird.glb",
+   "id": "Clanbird",
+   "name": "Clanbird",
+   "stats": {
+    "animations": 2,
+    "bones": 27,
+    "textures": 1,
+    "triangles": 878
+   },
+   "thumb": "050_prop/Clanbird.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.307,
+      23.067,
+      6.793
+     ],
+     "min": [
+      -24.602,
+      -2.027,
+      -10.128
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 37020,
+   "file": "050_prop/Drone.glb",
+   "id": "Drone",
+   "name": "Drone",
+   "stats": {
+    "animations": 2,
+    "bones": 6,
+    "textures": 1,
+    "triangles": 638
+   },
+   "thumb": "050_prop/Drone.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      24.258,
+      29.569,
+      24.216
+     ],
+     "min": [
+      -24.161,
+      6.397,
+      -23.673
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 491832,
+   "file": "050_prop/ElectronicField.glb",
+   "id": "ElectronicField",
+   "name": "ElectronicField",
+   "stats": {
+    "animations": 2,
+    "bones": 1,
+    "textures": 2,
+    "triangles": 292
+   },
+   "thumb": "050_prop/ElectronicField.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      620.574,
+      2610.293,
+      124.085
+     ],
+     "min": [
+      -620.574,
+      -620.574,
+      -7.874
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 12180,
+   "file": "050_prop/FishingFloat.glb",
+   "id": "FishingFloat",
+   "name": "FishingFloat",
+   "stats": {
+    "animations": 3,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 71
+   },
+   "thumb": "050_prop/FishingFloat.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.86,
+      12.272,
+      5.58
+     ],
+     "min": [
+      -5.56,
+      -4.427,
+      -5.707
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 356780,
+   "file": "050_prop/flyShip.glb",
+   "id": "flyShip",
+   "name": "flyShip",
+   "stats": {
+    "animations": 1,
+    "bones": 7,
+    "textures": 1,
+    "triangles": 2820
+   },
+   "thumb": "050_prop/flyShip.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      230.335,
+      203.086,
+      104.066
+     ],
+     "min": [
+      -230.335,
+      -203.086,
+      -104.066
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 80908,
+   "file": "050_prop/Ladder.glb",
+   "id": "Ladder",
+   "name": "Ladder",
+   "stats": {
+    "animations": 2,
+    "bones": 8,
+    "textures": 1,
+    "triangles": 98
+   },
+   "thumb": "050_prop/Ladder.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      12.262,
+      17.745,
+      5.374
+     ],
+     "min": [
+      -13.369,
+      -17.908,
+      -5.374
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 29704,
+   "file": "050_prop/Main_Streaming.glb",
+   "id": "Main_Streaming",
+   "name": "Main_Streaming",
+   "stats": {
+    "animations": 1,
+    "bones": 1,
+    "textures": 1,
+    "triangles": 736
+   },
+   "thumb": "050_prop/Main_Streaming.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      9.084,
+      20.479,
+      5.42
+     ],
+     "min": [
+      -9.49,
+      0.0,
+      -5.41
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 76680,
+   "file": "050_prop/Multiplayer.glb",
+   "id": "Multiplayer",
+   "name": "Multiplayer",
+   "stats": {
+    "animations": 4,
+    "bones": 23,
+    "textures": 1,
+    "triangles": 5007
+   },
+   "thumb": "050_prop/Multiplayer.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      42.424,
+      34.0,
+      76.44
+     ],
+     "min": [
+      -43.23,
+      -69.64,
+      -43.257
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 37356,
+   "file": "050_prop/Notice.glb",
+   "id": "Notice",
+   "name": "Notice",
+   "stats": {
+    "animations": 3,
+    "bones": 7,
+    "textures": 1,
+    "triangles": 516
+   },
+   "thumb": "050_prop/Notice.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.106,
+      12.729,
+      1.993
+     ],
+     "min": [
+      -5.959,
+      0.045,
+      -1.995
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 45252,
+   "file": "050_prop/PasanCat.glb",
+   "id": "PasanCat",
+   "name": "PasanCat",
+   "stats": {
+    "animations": 1,
+    "bones": 44,
+    "textures": 1,
+    "triangles": 580
+   },
+   "thumb": "050_prop/PasanCat.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.485,
+      8.069,
+      2.675
+     ],
+     "min": [
+      -7.421,
+      -0.492,
+      -4.822
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 122376,
+   "file": "050_prop/Plaza_815flag.glb",
+   "id": "Plaza_815flag",
+   "name": "Plaza_815flag",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 30
+   },
+   "thumb": "050_prop/Plaza_815flag.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      18.641,
+      6.585,
+      -0.0
+     ],
+     "min": [
+      -0.0,
+      -6.438,
+      -5.147
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 13436,
+   "file": "050_prop/Plaza_AppleDrop.glb",
+   "id": "Plaza_AppleDrop",
+   "name": "Plaza_AppleDrop",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 1,
+    "triangles": 148
+   },
+   "thumb": "050_prop/Plaza_AppleDrop.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      8.026,
+      -9.628,
+      1.387
+     ],
+     "min": [
+      4.305,
+      -13.627,
+      -2.488
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 34524,
+   "file": "050_prop/Plaza_Streaming.glb",
+   "id": "Plaza_Streaming",
+   "name": "Plaza_Streaming",
+   "stats": {
+    "animations": 1,
+    "bones": 4,
+    "textures": 1,
+    "triangles": 948
+   },
+   "thumb": "050_prop/Plaza_Streaming.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      40.673,
+      87.237,
+      19.001
+     ],
+     "min": [
+      -40.756,
+      0.752,
+      -19.471
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 31348,
+   "file": "050_prop/Practice.glb",
+   "id": "Practice",
+   "name": "Practice",
+   "stats": {
+    "animations": 2,
+    "bones": 7,
+    "textures": 1,
+    "triangles": 276
+   },
+   "thumb": "050_prop/Practice.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      18.268,
+      4.493,
+      14.437
+     ],
+     "min": [
+      -15.188,
+      -21.026,
+      -14.506
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 94132,
+   "file": "050_prop/Quickplay.glb",
+   "id": "Quickplay",
+   "name": "Quickplay",
+   "stats": {
+    "animations": 3,
+    "bones": 49,
+    "textures": 1,
+    "triangles": 4772
+   },
+   "thumb": "050_prop/Quickplay.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      35.229,
+      22.598,
+      31.468
+     ],
+     "min": [
+      -21.449,
+      -21.721,
+      -3.583
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 132136,
+   "file": "050_prop/Shop.glb",
+   "id": "Shop",
+   "name": "Shop",
+   "stats": {
+    "animations": 2,
+    "bones": 23,
+    "textures": 1,
+    "triangles": 3525
+   },
+   "thumb": "050_prop/Shop.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      416.648,
+      18.577,
+      19.97
+     ],
+     "min": [
+      -3.064,
+      -66.417,
+      -550.954
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "기타 오브젝트"
+}

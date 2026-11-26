@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 21,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "w": 174,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 21,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "w": 174,
+   "x": 1,
+   "y": 24
+  },
+  {
+   "h": 19,
+   "index": 2,
+   "w": 172,
+   "x": 1,
+   "y": 47
+  },
+  {
+   "h": 19,
+   "index": 3,
+   "w": 1,
+   "x": 175,
+   "y": 47
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Escape/Escape_EnergyGauge01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Escape__Escape_EnergyGauge01.png",
+  "h": 67,
+  "w": 177
+ }
+}

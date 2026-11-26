@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 13,
+   "index": 0,
+   "w": 14,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 13,
+   "index": 1,
+   "w": 1,
+   "x": 18,
+   "y": 1
+  },
+  {
+   "h": 13,
+   "index": 2,
+   "w": 14,
+   "x": 22,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 14,
+   "x": 1,
+   "y": 17
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 18,
+   "y": 17
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 14,
+   "x": 22,
+   "y": 17
+  },
+  {
+   "h": 15,
+   "index": 6,
+   "w": 14,
+   "x": 1,
+   "y": 21
+  },
+  {
+   "h": 15,
+   "index": 7,
+   "w": 1,
+   "x": 18,
+   "y": 21
+  },
+  {
+   "h": 15,
+   "index": 8,
+   "w": 14,
+   "x": 22,
+   "y": 21
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/PirateAssault/Ui/PirateAssault_uiBack01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__PirateAssault__Ui__PirateAssault_uiBack01.png",
+  "h": 37,
+  "w": 37
+ }
+}

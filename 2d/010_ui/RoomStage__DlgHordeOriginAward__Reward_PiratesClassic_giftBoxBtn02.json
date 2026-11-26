@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 190,
+   "index": 0,
+   "w": 180,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 190,
+   "index": 1,
+   "w": 180,
+   "x": 1,
+   "y": 192
+  },
+  {
+   "h": 190,
+   "index": 2,
+   "w": 180,
+   "x": 1,
+   "y": 383
+  },
+  {
+   "h": 190,
+   "index": 3,
+   "w": 180,
+   "x": 1,
+   "y": 574
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgHordeOriginAward/Reward_PiratesClassic_giftBoxBtn02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgHordeOriginAward__Reward_PiratesClassic_giftBoxBtn02.png",
+  "h": 765,
+  "w": 182
+ }
+}

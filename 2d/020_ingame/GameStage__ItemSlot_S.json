@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 63,
+   "index": 0,
+   "w": 68,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 63,
+   "index": 1,
+   "w": 68,
+   "x": 1,
+   "y": 66
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ItemSlot_S",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ItemSlot_S.png",
+  "h": 130,
+  "w": 70
+ }
+}

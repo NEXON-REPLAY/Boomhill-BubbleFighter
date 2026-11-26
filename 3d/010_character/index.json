@@ -1,0 +1,4975 @@
+{
+ "category": "3d_character",
+ "game": "bubblefighter",
+ "items": [
+  {
+   "bytes": 409332,
+   "detail": "010_character/Animal_Rabbit__Default.json",
+   "file": "010_character/Animal_Rabbit__Default.glb",
+   "id": "Animal_Rabbit__Default",
+   "label": "변신망치 토끼",
+   "name": "Animal_Rabbit/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Animal_Rabbit__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.063,
+      13.743,
+      7.07
+     ],
+     "min": [
+      -12.113,
+      -1.368,
+      -8.928
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 67020,
+   "file": "010_character/AOS_Tower01__Default.glb",
+   "id": "AOS_Tower01__Default",
+   "label": "AOS_Tower01",
+   "name": "AOS_Tower01/Default",
+   "stats": {
+    "animations": 5,
+    "bones": 7
+   },
+   "thumb": "010_character/AOS_Tower01__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      11.441,
+      30.577,
+      10.702
+     ],
+     "min": [
+      -11.914,
+      0.022,
+      -10.702
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 60704,
+   "file": "010_character/AOS_Tower02__Default.glb",
+   "id": "AOS_Tower02__Default",
+   "label": "AOS_Tower02",
+   "name": "AOS_Tower02/Default",
+   "stats": {
+    "animations": 5,
+    "bones": 7
+   },
+   "thumb": "010_character/AOS_Tower02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      12.278,
+      42.607,
+      10.175
+     ],
+     "min": [
+      -10.2,
+      0.074,
+      -17.562
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 883592,
+   "file": "010_character/Avatar__Default.glb",
+   "id": "Avatar__Default",
+   "label": "가디언",
+   "name": "Avatar/Default",
+   "stats": {
+    "animations": 40,
+    "animationsOriginal": 246,
+    "bones": 71
+   },
+   "thumb": "010_character/Avatar__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      8.339,
+      18.217,
+      8.979
+     ],
+     "min": [
+      -11.467,
+      0.782,
+      -6.42
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 797784,
+   "detail": "010_character/Bazzi__100000__100004.json",
+   "file": "010_character/Bazzi__100000__100004.glb",
+   "id": "Bazzi__100000__100004",
+   "label": "배찌 100000/100004",
+   "name": "Bazzi/100000/100004",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 514,
+    "bones": 56
+   },
+   "thumb": "010_character/Bazzi__100000__100004.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.514,
+      10.587,
+      1.484
+     ],
+     "min": [
+      -2.793,
+      3.079,
+      -2.43
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 784368,
+   "detail": "010_character/Bazzi__102000__102012.json",
+   "file": "010_character/Bazzi__102000__102012.glb",
+   "id": "Bazzi__102000__102012",
+   "label": "배찌 102000/102012",
+   "name": "Bazzi/102000/102012",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 514,
+    "bones": 56
+   },
+   "thumb": "010_character/Bazzi__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.074,
+      17.719,
+      5.657
+     ],
+     "min": [
+      -8.219,
+      3.111,
+      -6.467
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 750008,
+   "detail": "010_character/Bazzi__Default.json",
+   "file": "010_character/Bazzi__Default.glb",
+   "id": "Bazzi__Default",
+   "label": "배찌",
+   "name": "Bazzi/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 514,
+    "bones": 56
+   },
+   "thumb": "010_character/Bazzi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.368,
+      17.865,
+      5.824
+     ],
+     "min": [
+      -7.347,
+      3.112,
+      -6.611
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 403828,
+   "detail": "010_character/Bubble_chicken__Default.json",
+   "file": "010_character/Bubble_chicken__Default.glb",
+   "id": "Bubble_chicken__Default",
+   "label": "변신망치 치킨",
+   "name": "Bubble_chicken/Default",
+   "stats": {
+    "animations": 32,
+    "bones": 35
+   },
+   "thumb": "010_character/Bubble_chicken__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      9.887,
+      14.226,
+      9.446
+     ],
+     "min": [
+      -8.105,
+      -1.064,
+      -10.379
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 404484,
+   "file": "010_character/Bubble_Cuttle__Default.glb",
+   "id": "Bubble_Cuttle__Default",
+   "label": "변신망치 오징어",
+   "name": "Bubble_Cuttle/Default",
+   "stats": {
+    "animations": 33,
+    "bones": 48
+   },
+   "thumb": "010_character/Bubble_Cuttle__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      9.407,
+      9.769,
+      4.335
+     ],
+     "min": [
+      -3.008,
+      0.68,
+      -4.417
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 408412,
+   "detail": "010_character/Bubble_Frog__Default.json",
+   "file": "010_character/Bubble_Frog__Default.glb",
+   "id": "Bubble_Frog__Default",
+   "label": "변신망치 개구리",
+   "name": "Bubble_Frog/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Bubble_Frog__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.357,
+      14.071,
+      5.796
+     ],
+     "min": [
+      -11.934,
+      -0.858,
+      -7.474
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 510396,
+   "detail": "010_character/Bubble_Hawk__Default.json",
+   "file": "010_character/Bubble_Hawk__Default.glb",
+   "id": "Bubble_Hawk__Default",
+   "label": "변신망치 독수리",
+   "name": "Bubble_Hawk/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Bubble_Hawk__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.447,
+      14.271,
+      7.118
+     ],
+     "min": [
+      -14.596,
+      -1.907,
+      -7.628
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 398548,
+   "detail": "010_character/Bubble_Monkey__Default.json",
+   "file": "010_character/Bubble_Monkey__Default.glb",
+   "id": "Bubble_Monkey__Default",
+   "label": "변신망치 원숭",
+   "name": "Bubble_Monkey/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Bubble_Monkey__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.954,
+      14.509,
+      7.07
+     ],
+     "min": [
+      -12.113,
+      -1.368,
+      -10.674
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 442928,
+   "detail": "010_character/Bubble_parrot__Default.json",
+   "file": "010_character/Bubble_parrot__Default.glb",
+   "id": "Bubble_parrot__Default",
+   "label": "변신망치 해적앵무새",
+   "name": "Bubble_parrot/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Bubble_parrot__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.225,
+      14.234,
+      7.096
+     ],
+     "min": [
+      -14.357,
+      -1.339,
+      -7.7
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 426864,
+   "detail": "010_character/Bubble_Pig__Default.json",
+   "file": "010_character/Bubble_Pig__Default.glb",
+   "id": "Bubble_Pig__Default",
+   "label": "변신망치 해적돼지",
+   "name": "Bubble_Pig/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Bubble_Pig__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.627,
+      14.112,
+      7.471
+     ],
+     "min": [
+      -12.615,
+      -1.597,
+      -7.689
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 455496,
+   "detail": "010_character/Bubble_Raccoon__Default.json",
+   "file": "010_character/Bubble_Raccoon__Default.glb",
+   "id": "Bubble_Raccoon__Default",
+   "label": "변신망치 너구리",
+   "name": "Bubble_Raccoon/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 46
+   },
+   "thumb": "010_character/Bubble_Raccoon__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      13.265,
+      13.599,
+      7.071
+     ],
+     "min": [
+      -7.224,
+      -0.49,
+      -8.27
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 349612,
+   "detail": "010_character/Bubble_snowman__Default.json",
+   "file": "010_character/Bubble_snowman__Default.glb",
+   "id": "Bubble_snowman__Default",
+   "label": "변신 눈사람",
+   "name": "Bubble_snowman/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 29
+   },
+   "thumb": "010_character/Bubble_snowman__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.786,
+      6.679,
+      7.353
+     ],
+     "min": [
+      -4.318,
+      -0.059,
+      -2.117
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 148296,
+   "detail": "010_character/Bubble_Sushi__Default.json",
+   "file": "010_character/Bubble_Sushi__Default.glb",
+   "id": "Bubble_Sushi__Default",
+   "label": "변신 초밥",
+   "name": "Bubble_Sushi/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 10
+   },
+   "thumb": "010_character/Bubble_Sushi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.184,
+      6.4,
+      4.587
+     ],
+     "min": [
+      -4.105,
+      -0.16,
+      -5.025
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 492088,
+   "file": "010_character/Bubble_Zombini__Default.glb",
+   "id": "Bubble_Zombini__Default",
+   "label": "변신망치 좀비니",
+   "name": "Bubble_Zombini/Default",
+   "stats": {
+    "animations": 31,
+    "bones": 41
+   },
+   "thumb": "010_character/Bubble_Zombini__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      10.753,
+      15.582,
+      7.48
+     ],
+     "min": [
+      -8.087,
+      0.256,
+      -6.76
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 764800,
+   "file": "010_character/Captain_Blue__Default.glb",
+   "id": "Captain_Blue__Default",
+   "label": "Captain_Blue",
+   "name": "Captain_Blue/Default",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 179,
+    "bones": 51
+   },
+   "thumb": "010_character/Captain_Blue__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      17.206,
+      24.763,
+      11.12
+     ],
+     "min": [
+      -22.358,
+      -0.059,
+      -10.161
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 928168,
+   "detail": "010_character/Captain_Blue_Succubus__190000__190077.json",
+   "file": "010_character/Captain_Blue_Succubus__190000__190077.glb",
+   "id": "Captain_Blue_Succubus__190000__190077",
+   "label": "Captain_Blue_Succubus 190000/190077",
+   "name": "Captain_Blue_Succubus/190000/190077",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 181,
+    "bones": 110
+   },
+   "thumb": "010_character/Captain_Blue_Succubus__190000__190077.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.781,
+      7.693,
+      6.23
+     ],
+     "min": [
+      -3.883,
+      -14.647,
+      -5.15
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 928088,
+   "detail": "010_character/Captain_Blue_Succubus__Default.json",
+   "file": "010_character/Captain_Blue_Succubus__Default.glb",
+   "id": "Captain_Blue_Succubus__Default",
+   "label": "Captain_Blue_Succubus",
+   "name": "Captain_Blue_Succubus/Default",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 181,
+    "bones": 110
+   },
+   "thumb": "010_character/Captain_Blue_Succubus__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.781,
+      7.712,
+      6.23
+     ],
+     "min": [
+      -3.883,
+      -14.647,
+      -5.15
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 676768,
+   "detail": "010_character/Captain_Kid1__Default.json",
+   "file": "010_character/Captain_Kid1__Default.glb",
+   "id": "Captain_Kid1__Default",
+   "label": "Captain_Kid1",
+   "name": "Captain_Kid1/Default",
+   "stats": {
+    "animations": 42,
+    "animationsOriginal": 226,
+    "bones": 48
+   },
+   "thumb": "010_character/Captain_Kid1__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.013,
+      14.85,
+      8.891
+     ],
+     "min": [
+      -4.997,
+      1.078,
+      -3.33
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 750356,
+   "file": "010_character/Captain_Red__Default.glb",
+   "id": "Captain_Red__Default",
+   "label": "Captain_Red",
+   "name": "Captain_Red/Default",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 179,
+    "bones": 86
+   },
+   "thumb": "010_character/Captain_Red__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      17.206,
+      24.665,
+      11.009
+     ],
+     "min": [
+      -22.358,
+      -0.017,
+      -10.164
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 922572,
+   "detail": "010_character/Captain_Red_Succubus__190000__190077.json",
+   "file": "010_character/Captain_Red_Succubus__190000__190077.glb",
+   "id": "Captain_Red_Succubus__190000__190077",
+   "label": "Captain_Red_Succubus 190000/190077",
+   "name": "Captain_Red_Succubus/190000/190077",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 181,
+    "bones": 110
+   },
+   "thumb": "010_character/Captain_Red_Succubus__190000__190077.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.055,
+      7.563,
+      7.187
+     ],
+     "min": [
+      -3.883,
+      -14.622,
+      -4.926
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 922572,
+   "detail": "010_character/Captain_Red_Succubus__Default.json",
+   "file": "010_character/Captain_Red_Succubus__Default.glb",
+   "id": "Captain_Red_Succubus__Default",
+   "label": "Captain_Red_Succubus",
+   "name": "Captain_Red_Succubus/Default",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 181,
+    "bones": 110
+   },
+   "thumb": "010_character/Captain_Red_Succubus__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.055,
+      7.563,
+      7.187
+     ],
+     "min": [
+      -3.883,
+      -14.622,
+      -4.926
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 944368,
+   "detail": "010_character/Dao__102400__102453.json",
+   "file": "010_character/Dao__102400__102453.glb",
+   "id": "Dao__102400__102453",
+   "label": "다오 102400/102453",
+   "name": "Dao/102400/102453",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 554,
+    "bones": 58
+   },
+   "thumb": "010_character/Dao__102400__102453.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.444,
+      13.538,
+      7.875
+     ],
+     "min": [
+      -5.187,
+      -5.576,
+      -5.793
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 645128,
+   "detail": "010_character/Dao__Default.json",
+   "file": "010_character/Dao__Default.glb",
+   "id": "Dao__Default",
+   "label": "다오",
+   "name": "Dao/Default",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 554,
+    "bones": 65
+   },
+   "thumb": "010_character/Dao__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.425,
+      13.36,
+      6.074
+     ],
+     "min": [
+      -7.235,
+      -1.504,
+      -6.241
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 688248,
+   "detail": "010_character/Dizni__102000__102012.json",
+   "file": "010_character/Dizni__102000__102012.glb",
+   "id": "Dizni__102000__102012",
+   "label": "디지니 102000/102012",
+   "name": "Dizni/102000/102012",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 562,
+    "bones": 67
+   },
+   "thumb": "010_character/Dizni__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.316,
+      16.302,
+      7.04
+     ],
+     "min": [
+      -7.22,
+      0.176,
+      -6.793
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 667568,
+   "detail": "010_character/Dizni__Default.json",
+   "file": "010_character/Dizni__Default.glb",
+   "id": "Dizni__Default",
+   "label": "디지니",
+   "name": "Dizni/Default",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 562,
+    "bones": 67
+   },
+   "thumb": "010_character/Dizni__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.908,
+      14.756,
+      5.54
+     ],
+     "min": [
+      -5.461,
+      0.169,
+      -4.724
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 866028,
+   "detail": "010_character/Ethi__102000__102012.json",
+   "file": "010_character/Ethi__102000__102012.glb",
+   "id": "Ethi__102000__102012",
+   "label": "에띠 102000/102012",
+   "name": "Ethi/102000/102012",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 512,
+    "bones": 74
+   },
+   "thumb": "010_character/Ethi__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.044,
+      14.995,
+      4.369
+     ],
+     "min": [
+      -5.077,
+      0.301,
+      -14.283
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 870164,
+   "detail": "010_character/Ethi__Default.json",
+   "file": "010_character/Ethi__Default.glb",
+   "id": "Ethi__Default",
+   "label": "에띠",
+   "name": "Ethi/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 512,
+    "bones": 74
+   },
+   "thumb": "010_character/Ethi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.229,
+      15.035,
+      3.843
+     ],
+     "min": [
+      -4.99,
+      0.048,
+      -11.607
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1001496,
+   "detail": "010_character/Kephi__102000__102012.json",
+   "file": "010_character/Kephi__102000__102012.glb",
+   "id": "Kephi__102000__102012",
+   "label": "케피 102000/102012",
+   "name": "Kephi/102000/102012",
+   "stats": {
+    "animations": 50,
+    "animationsOriginal": 486,
+    "bones": 95
+   },
+   "thumb": "010_character/Kephi__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.207,
+      17.284,
+      5.621
+     ],
+     "min": [
+      -6.557,
+      0.076,
+      -10.636
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 881380,
+   "detail": "010_character/Kephi__Default.json",
+   "file": "010_character/Kephi__Default.glb",
+   "id": "Kephi__Default",
+   "label": "케피",
+   "name": "Kephi/Default",
+   "stats": {
+    "animations": 50,
+    "animationsOriginal": 486,
+    "bones": 95
+   },
+   "thumb": "010_character/Kephi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      7.633,
+      17.461,
+      4.363
+     ],
+     "min": [
+      -7.518,
+      0.094,
+      -8.675
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 791232,
+   "detail": "010_character/Lavi__101500__101532.json",
+   "file": "010_character/Lavi__101500__101532.glb",
+   "id": "Lavi__101500__101532",
+   "label": "라비 101500/101532",
+   "name": "Lavi/101500/101532",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 531,
+    "bones": 67
+   },
+   "thumb": "010_character/Lavi__101500__101532.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.314,
+      14.857,
+      5.196
+     ],
+     "min": [
+      -7.514,
+      -0.603,
+      -5.614
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 803380,
+   "detail": "010_character/Lavi__Default.json",
+   "file": "010_character/Lavi__Default.glb",
+   "id": "Lavi__Default",
+   "label": "라비",
+   "name": "Lavi/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 531,
+    "bones": 67
+   },
+   "thumb": "010_character/Lavi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.682,
+      12.799,
+      5.236
+     ],
+     "min": [
+      -6.513,
+      -1.098,
+      -5.671
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 945392,
+   "detail": "010_character/Leo__102400__102453.json",
+   "file": "010_character/Leo__102400__102453.glb",
+   "id": "Leo__102400__102453",
+   "label": "레오 102400/102453",
+   "name": "Leo/102400/102453",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 548,
+    "bones": 58
+   },
+   "thumb": "010_character/Leo__102400__102453.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.739,
+      14.168,
+      6.606
+     ],
+     "min": [
+      -7.929,
+      -4.946,
+      -5.025
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 658080,
+   "detail": "010_character/Leo__Default.json",
+   "file": "010_character/Leo__Default.glb",
+   "id": "Leo__Default",
+   "label": "레오",
+   "name": "Leo/Default",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 548,
+    "bones": 65
+   },
+   "thumb": "010_character/Leo__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.329,
+      16.465,
+      4.152
+     ],
+     "min": [
+      -5.382,
+      -0.004,
+      -6.698
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1068036,
+   "detail": "010_character/Lili__101500__101532.json",
+   "file": "010_character/Lili__101500__101532.glb",
+   "id": "Lili__101500__101532",
+   "label": "리리 101500/101532",
+   "name": "Lili/101500/101532",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 555,
+    "bones": 65
+   },
+   "thumb": "010_character/Lili__101500__101532.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.107,
+      13.73,
+      5.389
+     ],
+     "min": [
+      -5.169,
+      -0.07,
+      -6.624
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 774000,
+   "detail": "010_character/Lili__Default.json",
+   "file": "010_character/Lili__Default.glb",
+   "id": "Lili__Default",
+   "label": "리리",
+   "name": "Lili/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 555,
+    "bones": 65
+   },
+   "thumb": "010_character/Lili__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.099,
+      13.003,
+      3.701
+     ],
+     "min": [
+      -5.489,
+      0.006,
+      -5.482
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1013872,
+   "detail": "010_character/Lucid__103000__103042.json",
+   "file": "010_character/Lucid__103000__103042.glb",
+   "id": "Lucid__103000__103042",
+   "label": "루시드 103000/103042",
+   "name": "Lucid/103000/103042",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 531,
+    "bones": 62
+   },
+   "thumb": "010_character/Lucid__103000__103042.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.183,
+      18.179,
+      5.204
+     ],
+     "min": [
+      -6.406,
+      3.466,
+      -4.969
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1038072,
+   "detail": "010_character/Lucid__Default.json",
+   "file": "010_character/Lucid__Default.glb",
+   "id": "Lucid__Default",
+   "label": "루시드",
+   "name": "Lucid/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 531,
+    "bones": 62
+   },
+   "thumb": "010_character/Lucid__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.305,
+      8.305,
+      10.702
+     ],
+     "min": [
+      -3.914,
+      -1.868,
+      -3.198
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1168840,
+   "detail": "010_character/Lucy__100000.json",
+   "file": "010_character/Lucy__100000.glb",
+   "id": "Lucy__100000",
+   "label": "루시 100000",
+   "name": "Lucy/100000",
+   "stats": {
+    "animations": 48,
+    "animationsOriginal": 444,
+    "bones": 65
+   },
+   "thumb": "010_character/Lucy__100000.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.244,
+      11.71,
+      5.66
+     ],
+     "min": [
+      -5.969,
+      -0.017,
+      -3.814
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1416932,
+   "detail": "010_character/Lucy__101500__101532.json",
+   "file": "010_character/Lucy__101500__101532.glb",
+   "id": "Lucy__101500__101532",
+   "label": "루시 101500/101532",
+   "name": "Lucy/101500/101532",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 566,
+    "bones": 65
+   },
+   "thumb": "010_character/Lucy__101500__101532.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.107,
+      13.73,
+      5.389
+     ],
+     "min": [
+      -5.169,
+      -0.07,
+      -6.624
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1228660,
+   "detail": "010_character/Lucy__Default.json",
+   "file": "010_character/Lucy__Default.glb",
+   "id": "Lucy__Default",
+   "label": "루시",
+   "name": "Lucy/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 566,
+    "bones": 65
+   },
+   "thumb": "010_character/Lucy__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.422,
+      11.734,
+      3.986
+     ],
+     "min": [
+      -4.394,
+      -0.021,
+      -5.556
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 844020,
+   "detail": "010_character/LXBazzi__100000__100073.json",
+   "file": "010_character/LXBazzi__100000__100073.glb",
+   "id": "LXBazzi__100000__100073",
+   "label": "두찌 100000/100073",
+   "name": "LXBazzi/100000/100073",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 550,
+    "bones": 65
+   },
+   "thumb": "010_character/LXBazzi__100000__100073.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.214,
+      10.503,
+      2.531
+     ],
+     "min": [
+      -2.984,
+      -0.373,
+      -2.758
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 806556,
+   "detail": "010_character/LXBazzi__Default.json",
+   "file": "010_character/LXBazzi__Default.glb",
+   "id": "LXBazzi__Default",
+   "label": "두찌",
+   "name": "LXBazzi/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 550,
+    "bones": 65
+   },
+   "thumb": "010_character/LXBazzi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.864,
+      12.702,
+      3.835
+     ],
+     "min": [
+      -4.95,
+      -0.007,
+      -5.809
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1144960,
+   "detail": "010_character/LXLavi__101500__101532.json",
+   "file": "010_character/LXLavi__101500__101532.glb",
+   "id": "LXLavi__101500__101532",
+   "label": "럭셔리라비 101500/101532",
+   "name": "LXLavi/101500/101532",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 566,
+    "bones": 65
+   },
+   "thumb": "010_character/LXLavi__101500__101532.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.107,
+      13.73,
+      5.389
+     ],
+     "min": [
+      -5.169,
+      -0.07,
+      -6.624
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 861484,
+   "detail": "010_character/LXLavi__Default.json",
+   "file": "010_character/LXLavi__Default.glb",
+   "id": "LXLavi__Default",
+   "label": "럭셔리라비",
+   "name": "LXLavi/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 566,
+    "bones": 65
+   },
+   "thumb": "010_character/LXLavi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.947,
+      11.792,
+      4.048
+     ],
+     "min": [
+      -5.091,
+      -0.011,
+      -5.647
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 716736,
+   "detail": "010_character/LXMarid__102000__102012.json",
+   "file": "010_character/LXMarid__102000__102012.glb",
+   "id": "LXMarid__102000__102012",
+   "label": "럭셔리 마리드 102000/102012",
+   "name": "LXMarid/102000/102012",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 516,
+    "bones": 67
+   },
+   "thumb": "010_character/LXMarid__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.994,
+      8.363,
+      3.203
+     ],
+     "min": [
+      -7.767,
+      -1.847,
+      -11.383
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 757668,
+   "detail": "010_character/LXMarid__Default.json",
+   "file": "010_character/LXMarid__Default.glb",
+   "id": "LXMarid__Default",
+   "label": "럭셔리 마리드",
+   "name": "LXMarid/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 516,
+    "bones": 67
+   },
+   "thumb": "010_character/LXMarid__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.138,
+      8.751,
+      3.203
+     ],
+     "min": [
+      -6.932,
+      -2.253,
+      -11.415
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 798440,
+   "detail": "010_character/LXUni__102000__102012.json",
+   "file": "010_character/LXUni__102000__102012.glb",
+   "id": "LXUni__102000__102012",
+   "label": "럭셔리우니 102000/102012",
+   "name": "LXUni/102000/102012",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 549,
+    "bones": 65
+   },
+   "thumb": "010_character/LXUni__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.664,
+      17.022,
+      5.725
+     ],
+     "min": [
+      -7.412,
+      -0.854,
+      -5.957
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 754852,
+   "detail": "010_character/LXUni__Default.json",
+   "file": "010_character/LXUni__Default.glb",
+   "id": "LXUni__Default",
+   "label": "럭셔리우니",
+   "name": "LXUni/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 549,
+    "bones": 65
+   },
+   "thumb": "010_character/LXUni__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.28,
+      12.542,
+      4.855
+     ],
+     "min": [
+      -5.514,
+      0.346,
+      -5.004
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 764488,
+   "detail": "010_character/Marid__102000__102012.json",
+   "file": "010_character/Marid__102000__102012.glb",
+   "id": "Marid__102000__102012",
+   "label": "마리드 102000/102012",
+   "name": "Marid/102000/102012",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 508,
+    "bones": 62
+   },
+   "thumb": "010_character/Marid__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.139,
+      17.894,
+      4.99
+     ],
+     "min": [
+      -13.898,
+      3.306,
+      -8.691
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 711876,
+   "detail": "010_character/Marid__Default.json",
+   "file": "010_character/Marid__Default.glb",
+   "id": "Marid__Default",
+   "label": "마리드",
+   "name": "Marid/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 508,
+    "bones": 62
+   },
+   "thumb": "010_character/Marid__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.99,
+      17.847,
+      5.581
+     ],
+     "min": [
+      -12.535,
+      3.33,
+      -5.886
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1200724,
+   "detail": "010_character/Mos__102000__102012.json",
+   "file": "010_character/Mos__102000__102012.glb",
+   "id": "Mos__102000__102012",
+   "label": "모스 102000/102012",
+   "name": "Mos/102000/102012",
+   "stats": {
+    "animations": 63,
+    "animationsOriginal": 604,
+    "bones": 61
+   },
+   "thumb": "010_character/Mos__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.38,
+      23.049,
+      13.693
+     ],
+     "min": [
+      -9.774,
+      3.127,
+      -4.692
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1141956,
+   "detail": "010_character/Mos__Default.json",
+   "file": "010_character/Mos__Default.glb",
+   "id": "Mos__Default",
+   "label": "모스",
+   "name": "Mos/Default",
+   "stats": {
+    "animations": 63,
+    "animationsOriginal": 604,
+    "bones": 61
+   },
+   "thumb": "010_character/Mos__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.924,
+      20.733,
+      6.111
+     ],
+     "min": [
+      -10.305,
+      2.959,
+      -5.006
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 811068,
+   "file": "010_character/Mudada__Default.glb",
+   "id": "Mudada__Default",
+   "label": "무다다",
+   "name": "Mudada/Default",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 528,
+    "bones": 60
+   },
+   "thumb": "010_character/Mudada__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      7.22,
+      12.797,
+      3.891
+     ],
+     "min": [
+      -8.769,
+      0.013,
+      -11.235
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 151008,
+   "file": "010_character/NPC_CastleGate__Default.glb",
+   "id": "NPC_CastleGate__Default",
+   "label": "NPC_CastleGate",
+   "name": "NPC_CastleGate/Default",
+   "stats": {
+    "animations": 6,
+    "bones": 41
+   },
+   "thumb": "010_character/NPC_CastleGate__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.905,
+      15.416,
+      5.579
+     ],
+     "min": [
+      -7.347,
+      -0.008,
+      -4.548
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 300728,
+   "detail": "010_character/NPC_Lomi__Default.json",
+   "file": "010_character/NPC_Lomi__Default.glb",
+   "id": "NPC_Lomi__Default",
+   "label": "NPC_Lomi",
+   "name": "NPC_Lomi/Default",
+   "stats": {
+    "animations": 17,
+    "bones": 47
+   },
+   "thumb": "010_character/NPC_Lomi__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.993,
+      13.113,
+      5.267
+     ],
+     "min": [
+      -5.153,
+      0.073,
+      -5.317
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 64260,
+   "detail": "010_character/NPC_Mole__Default.json",
+   "file": "010_character/NPC_Mole__Default.glb",
+   "id": "NPC_Mole__Default",
+   "label": "NPC_Mole",
+   "name": "NPC_Mole/Default",
+   "stats": {
+    "animations": 5,
+    "bones": 34
+   },
+   "thumb": "010_character/NPC_Mole__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      7.844,
+      7.742,
+      7.889
+     ],
+     "min": [
+      -7.85,
+      -4.858,
+      -7.888
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 67784,
+   "detail": "010_character/NPC_MoleBaby__Default.json",
+   "file": "010_character/NPC_MoleBaby__Default.glb",
+   "id": "NPC_MoleBaby__Default",
+   "label": "NPC_MoleBaby",
+   "name": "NPC_MoleBaby/Default",
+   "stats": {
+    "animations": 5,
+    "bones": 34
+   },
+   "thumb": "010_character/NPC_MoleBaby__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      10.575,
+      4.065,
+      6.679
+     ],
+     "min": [
+      -6.35,
+      -7.074,
+      -6.688
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 164080,
+   "file": "010_character/NPC_MoleBomb__Default.glb",
+   "id": "NPC_MoleBomb__Default",
+   "label": "NPC_MoleBomb",
+   "name": "NPC_MoleBomb/Default",
+   "stats": {
+    "animations": 7,
+    "bones": 38
+   },
+   "thumb": "010_character/NPC_MoleBomb__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      10.436,
+      31.39,
+      22.788
+     ],
+     "min": [
+      -9.573,
+      -0.001,
+      -11.287
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 562100,
+   "detail": "010_character/NPC_Pig01__Default.json",
+   "file": "010_character/NPC_Pig01__Default.glb",
+   "id": "NPC_Pig01__Default",
+   "label": "NPC_Pig01",
+   "name": "NPC_Pig01/Default",
+   "stats": {
+    "animations": 29,
+    "animationsOriginal": 433,
+    "bones": 71
+   },
+   "thumb": "010_character/NPC_Pig01__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      0.953,
+      1.839,
+      0.851
+     ],
+     "min": [
+      -0.632,
+      -0.114,
+      -0.536
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 614592,
+   "detail": "010_character/NPC_Pig02__Default.json",
+   "file": "010_character/NPC_Pig02__Default.glb",
+   "id": "NPC_Pig02__Default",
+   "label": "NPC_Pig02",
+   "name": "NPC_Pig02/Default",
+   "stats": {
+    "animations": 29,
+    "animationsOriginal": 242,
+    "bones": 71
+   },
+   "thumb": "010_character/NPC_Pig02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      0.279,
+      3.72,
+      0.829
+     ],
+     "min": [
+      -1.015,
+      2.522,
+      -0.794
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 281468,
+   "detail": "010_character/NPC_Pini__Default.json",
+   "file": "010_character/NPC_Pini__Default.glb",
+   "id": "NPC_Pini__Default",
+   "label": "NPC_Pini",
+   "name": "NPC_Pini/Default",
+   "stats": {
+    "animations": 15,
+    "bones": 41
+   },
+   "thumb": "010_character/NPC_Pini__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.669,
+      13.462,
+      6.036
+     ],
+     "min": [
+      -5.673,
+      -0.676,
+      -4.985
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 107144,
+   "file": "010_character/NPC_SuperTurret__Default.glb",
+   "id": "NPC_SuperTurret__Default",
+   "label": "NPC_SuperTurret",
+   "name": "NPC_SuperTurret/Default",
+   "stats": {
+    "animations": 7,
+    "bones": 29
+   },
+   "thumb": "010_character/NPC_SuperTurret__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.645,
+      12.787,
+      7.641
+     ],
+     "min": [
+      -6.645,
+      0.017,
+      -7.541
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 137364,
+   "file": "010_character/NPC_Turret__Default.glb",
+   "id": "NPC_Turret__Default",
+   "label": "NPC_Turret",
+   "name": "NPC_Turret/Default",
+   "stats": {
+    "animations": 7,
+    "bones": 64
+   },
+   "thumb": "010_character/NPC_Turret__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      92.034,
+      268.965,
+      97.808
+     ],
+     "min": [
+      -92.088,
+      0.054,
+      -91.818
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 292896,
+   "detail": "010_character/Pet_baby_raccoon_02__Default.json",
+   "file": "010_character/Pet_baby_raccoon_02__Default.glb",
+   "id": "Pet_baby_raccoon_02__Default",
+   "label": "Pet_baby_raccoon_02",
+   "name": "Pet_baby_raccoon_02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_baby_raccoon_02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.335,
+      2.038,
+      0.979
+     ],
+     "min": [
+      -2.245,
+      -2.358,
+      -5.133
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 290116,
+   "detail": "010_character/Pet_baby_raccoon_03__Default.json",
+   "file": "010_character/Pet_baby_raccoon_03__Default.glb",
+   "id": "Pet_baby_raccoon_03__Default",
+   "label": "Pet_baby_raccoon_03",
+   "name": "Pet_baby_raccoon_03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_baby_raccoon_03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.335,
+      2.038,
+      0.979
+     ],
+     "min": [
+      -2.245,
+      -2.358,
+      -5.133
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 294480,
+   "detail": "010_character/Pet_baby_raccoon__Default.json",
+   "file": "010_character/Pet_baby_raccoon__Default.glb",
+   "id": "Pet_baby_raccoon__Default",
+   "label": "Pet_baby_raccoon",
+   "name": "Pet_baby_raccoon/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_baby_raccoon__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.335,
+      2.038,
+      0.979
+     ],
+     "min": [
+      -2.245,
+      -2.361,
+      -5.133
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 334152,
+   "detail": "010_character/Pet_Basics02__Default.json",
+   "file": "010_character/Pet_Basics02__Default.glb",
+   "id": "Pet_Basics02__Default",
+   "label": "Pet_Basics02",
+   "name": "Pet_Basics02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Basics02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      5.708,
+      2.718
+     ],
+     "min": [
+      -2.11,
+      0.093,
+      -3.137
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 338312,
+   "detail": "010_character/Pet_Basics__Default.json",
+   "file": "010_character/Pet_Basics__Default.glb",
+   "id": "Pet_Basics__Default",
+   "label": "Pet_Basics",
+   "name": "Pet_Basics/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Basics__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      4.948,
+      2.41
+     ],
+     "min": [
+      -2.11,
+      0.097,
+      -2.908
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 322324,
+   "detail": "010_character/Pet_Bear02__Default.json",
+   "file": "010_character/Pet_Bear02__Default.glb",
+   "id": "Pet_Bear02__Default",
+   "label": "Pet_Bear02",
+   "name": "Pet_Bear02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Bear02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.781,
+      5.003,
+      1.914
+     ],
+     "min": [
+      -1.781,
+      0.003,
+      -2.716
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 334684,
+   "detail": "010_character/Pet_Bear03__Default.json",
+   "file": "010_character/Pet_Bear03__Default.glb",
+   "id": "Pet_Bear03__Default",
+   "label": "Pet_Bear03",
+   "name": "Pet_Bear03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Bear03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.051,
+      5.614,
+      2.537
+     ],
+     "min": [
+      -2.051,
+      0.003,
+      -3.245
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 328264,
+   "detail": "010_character/Pet_Bear__Default.json",
+   "file": "010_character/Pet_Bear__Default.glb",
+   "id": "Pet_Bear__Default",
+   "label": "Pet_Bear",
+   "name": "Pet_Bear/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Bear__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.781,
+      5.003,
+      1.449
+     ],
+     "min": [
+      -1.781,
+      0.003,
+      -2.716
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 404848,
+   "detail": "010_character/Pet_Bear_White02__Default.json",
+   "file": "010_character/Pet_Bear_White02__Default.glb",
+   "id": "Pet_Bear_White02__Default",
+   "label": "Pet_Bear_White02",
+   "name": "Pet_Bear_White02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Bear_White02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.781,
+      5.003,
+      1.914
+     ],
+     "min": [
+      -1.781,
+      0.003,
+      -2.716
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 482652,
+   "detail": "010_character/Pet_Bear_White03__Default.json",
+   "file": "010_character/Pet_Bear_White03__Default.glb",
+   "id": "Pet_Bear_White03__Default",
+   "label": "Pet_Bear_White03",
+   "name": "Pet_Bear_White03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Bear_White03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.051,
+      5.614,
+      2.537
+     ],
+     "min": [
+      -2.051,
+      0.003,
+      -3.245
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 410792,
+   "detail": "010_character/Pet_Bear_White__Default.json",
+   "file": "010_character/Pet_Bear_White__Default.glb",
+   "id": "Pet_Bear_White__Default",
+   "label": "Pet_Bear_White",
+   "name": "Pet_Bear_White/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_Bear_White__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.781,
+      5.003,
+      1.449
+     ],
+     "min": [
+      -1.781,
+      0.003,
+      -2.716
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 348548,
+   "detail": "010_character/Pet_Cat02__Default.json",
+   "file": "010_character/Pet_Cat02__Default.glb",
+   "id": "Pet_Cat02__Default",
+   "label": "Pet_Cat02",
+   "name": "Pet_Cat02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Cat02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.51,
+      4.759,
+      2.582
+     ],
+     "min": [
+      -2.56,
+      -0.043,
+      -3.121
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 351684,
+   "detail": "010_character/Pet_Cat03__Default.json",
+   "file": "010_character/Pet_Cat03__Default.glb",
+   "id": "Pet_Cat03__Default",
+   "label": "Pet_Cat03",
+   "name": "Pet_Cat03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Cat03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.936,
+      5.484,
+      2.582
+     ],
+     "min": [
+      -3.003,
+      -0.043,
+      -3.264
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 515664,
+   "detail": "010_character/Pet_Cat__Default.json",
+   "file": "010_character/Pet_Cat__Default.glb",
+   "id": "Pet_Cat__Default",
+   "label": "Pet_Cat",
+   "name": "Pet_Cat/Default",
+   "stats": {
+    "animations": 37,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Cat__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.51,
+      4.791,
+      2.582
+     ],
+     "min": [
+      -2.559,
+      -0.043,
+      -3.061
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 345796,
+   "detail": "010_character/Pet_Cat_White02__Default.json",
+   "file": "010_character/Pet_Cat_White02__Default.glb",
+   "id": "Pet_Cat_White02__Default",
+   "label": "Pet_Cat_White02",
+   "name": "Pet_Cat_White02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Cat_White02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.51,
+      4.791,
+      2.582
+     ],
+     "min": [
+      -2.559,
+      -0.043,
+      -3.061
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 351640,
+   "detail": "010_character/Pet_Cat_White03__Default.json",
+   "file": "010_character/Pet_Cat_White03__Default.glb",
+   "id": "Pet_Cat_White03__Default",
+   "label": "Pet_Cat_White03",
+   "name": "Pet_Cat_White03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Cat_White03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.936,
+      5.484,
+      2.582
+     ],
+     "min": [
+      -3.003,
+      -0.043,
+      -3.264
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 517008,
+   "detail": "010_character/Pet_Cat_White__Default.json",
+   "file": "010_character/Pet_Cat_White__Default.glb",
+   "id": "Pet_Cat_White__Default",
+   "label": "Pet_Cat_White",
+   "name": "Pet_Cat_White/Default",
+   "stats": {
+    "animations": 37,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Cat_White__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.51,
+      4.791,
+      2.582
+     ],
+     "min": [
+      -2.559,
+      -0.043,
+      -3.061
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 369560,
+   "detail": "010_character/Pet_dog02__Default.json",
+   "file": "010_character/Pet_dog02__Default.glb",
+   "id": "Pet_dog02__Default",
+   "label": "Pet_dog02",
+   "name": "Pet_dog02/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_dog02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.613,
+      4.727,
+      4.755
+     ],
+     "min": [
+      -2.613,
+      -0.099,
+      -4.169
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 368600,
+   "detail": "010_character/Pet_dog03__Default.json",
+   "file": "010_character/Pet_dog03__Default.glb",
+   "id": "Pet_dog03__Default",
+   "label": "Pet_dog03",
+   "name": "Pet_dog03/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_dog03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.613,
+      4.727,
+      4.755
+     ],
+     "min": [
+      -2.613,
+      -0.099,
+      -4.169
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 366744,
+   "detail": "010_character/Pet_dog__Default.json",
+   "file": "010_character/Pet_dog__Default.glb",
+   "id": "Pet_dog__Default",
+   "label": "Pet_dog",
+   "name": "Pet_dog/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_dog__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.613,
+      4.727,
+      4.755
+     ],
+     "min": [
+      -2.613,
+      -0.099,
+      -4.169
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 493668,
+   "detail": "010_character/Pet_Dragon02__Default.json",
+   "file": "010_character/Pet_Dragon02__Default.glb",
+   "id": "Pet_Dragon02__Default",
+   "label": "Pet_Dragon02",
+   "name": "Pet_Dragon02/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 46
+   },
+   "thumb": "010_character/Pet_Dragon02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.822,
+      4.338,
+      3.346
+     ],
+     "min": [
+      -2.045,
+      -1.773,
+      -2.02
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 541964,
+   "detail": "010_character/Pet_Dragon03__Default.json",
+   "file": "010_character/Pet_Dragon03__Default.glb",
+   "id": "Pet_Dragon03__Default",
+   "label": "Pet_Dragon03",
+   "name": "Pet_Dragon03/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 46
+   },
+   "thumb": "010_character/Pet_Dragon03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.065,
+      4.41,
+      3.341
+     ],
+     "min": [
+      -2.172,
+      -1.756,
+      -2.115
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 491168,
+   "detail": "010_character/Pet_Dragon__Default.json",
+   "file": "010_character/Pet_Dragon__Default.glb",
+   "id": "Pet_Dragon__Default",
+   "label": "Pet_Dragon",
+   "name": "Pet_Dragon/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 46
+   },
+   "thumb": "010_character/Pet_Dragon__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.507,
+      4.54,
+      3.341
+     ],
+     "min": [
+      -2.055,
+      -1.756,
+      -2.019
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 173572,
+   "detail": "010_character/Pet_drone02__Default.json",
+   "file": "010_character/Pet_drone02__Default.glb",
+   "id": "Pet_drone02__Default",
+   "label": "Pet_drone02",
+   "name": "Pet_drone02/Default",
+   "stats": {
+    "animations": 26,
+    "bones": 47
+   },
+   "thumb": "010_character/Pet_drone02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.15,
+      6.379,
+      2.246
+     ],
+     "min": [
+      -4.154,
+      2.676,
+      -2.415
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 130932,
+   "detail": "010_character/Pet_drone03__Default.json",
+   "file": "010_character/Pet_drone03__Default.glb",
+   "id": "Pet_drone03__Default",
+   "label": "Pet_drone03",
+   "name": "Pet_drone03/Default",
+   "stats": {
+    "animations": 26,
+    "bones": 47
+   },
+   "thumb": "010_character/Pet_drone03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.15,
+      6.379,
+      2.246
+     ],
+     "min": [
+      -4.154,
+      2.676,
+      -2.415
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 129152,
+   "detail": "010_character/Pet_drone__Default.json",
+   "file": "010_character/Pet_drone__Default.glb",
+   "id": "Pet_drone__Default",
+   "label": "Pet_drone",
+   "name": "Pet_drone/Default",
+   "stats": {
+    "animations": 26,
+    "bones": 47
+   },
+   "thumb": "010_character/Pet_drone__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.15,
+      6.379,
+      2.246
+     ],
+     "min": [
+      -4.154,
+      2.676,
+      -2.415
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 128372,
+   "detail": "010_character/Pet_Ghost02__Default.json",
+   "file": "010_character/Pet_Ghost02__Default.glb",
+   "id": "Pet_Ghost02__Default",
+   "label": "Pet_Ghost02",
+   "name": "Pet_Ghost02/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 7
+   },
+   "thumb": "010_character/Pet_Ghost02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.217,
+      6.736,
+      2.188
+     ],
+     "min": [
+      -2.218,
+      2.473,
+      -2.044
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 135668,
+   "detail": "010_character/Pet_Ghost03__Default.json",
+   "file": "010_character/Pet_Ghost03__Default.glb",
+   "id": "Pet_Ghost03__Default",
+   "label": "Pet_Ghost03",
+   "name": "Pet_Ghost03/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 7
+   },
+   "thumb": "010_character/Pet_Ghost03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.355,
+      6.736,
+      2.188
+     ],
+     "min": [
+      -2.353,
+      2.473,
+      -2.044
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 129860,
+   "detail": "010_character/Pet_Ghost__Default.json",
+   "file": "010_character/Pet_Ghost__Default.glb",
+   "id": "Pet_Ghost__Default",
+   "label": "Pet_Ghost",
+   "name": "Pet_Ghost/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 7
+   },
+   "thumb": "010_character/Pet_Ghost__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.217,
+      6.733,
+      2.188
+     ],
+     "min": [
+      -2.217,
+      2.322,
+      -2.044
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 343376,
+   "detail": "010_character/Pet_giraffe02__Default.json",
+   "file": "010_character/Pet_giraffe02__Default.glb",
+   "id": "Pet_giraffe02__Default",
+   "label": "Pet_giraffe02",
+   "name": "Pet_giraffe02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 32
+   },
+   "thumb": "010_character/Pet_giraffe02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.549,
+      7.291,
+      1.111
+     ],
+     "min": [
+      -3.608,
+      0.613,
+      -2.532
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 371476,
+   "detail": "010_character/Pet_giraffe03__Default.json",
+   "file": "010_character/Pet_giraffe03__Default.glb",
+   "id": "Pet_giraffe03__Default",
+   "label": "Pet_giraffe03",
+   "name": "Pet_giraffe03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 32
+   },
+   "thumb": "010_character/Pet_giraffe03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.549,
+      7.466,
+      1.111
+     ],
+     "min": [
+      -3.608,
+      0.613,
+      -3.006
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 330100,
+   "detail": "010_character/Pet_giraffe__Default.json",
+   "file": "010_character/Pet_giraffe__Default.glb",
+   "id": "Pet_giraffe__Default",
+   "label": "Pet_giraffe",
+   "name": "Pet_giraffe/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 32
+   },
+   "thumb": "010_character/Pet_giraffe__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.549,
+      7.291,
+      1.111
+     ],
+     "min": [
+      -3.608,
+      0.613,
+      -2.532
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 380608,
+   "detail": "010_character/Pet_kumamon__Default.json",
+   "file": "010_character/Pet_kumamon__Default.glb",
+   "id": "Pet_kumamon__Default",
+   "label": "Pet_kumamon",
+   "name": "Pet_kumamon/Default",
+   "stats": {
+    "animations": 20,
+    "bones": 31
+   },
+   "thumb": "010_character/Pet_kumamon__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.956,
+      9.003,
+      2.359
+     ],
+     "min": [
+      -2.956,
+      1.921,
+      -1.947
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 225640,
+   "file": "010_character/Pet_looloo__Default.glb",
+   "id": "Pet_looloo__Default",
+   "label": "Pet_looloo",
+   "name": "Pet_looloo/Default",
+   "stats": {
+    "animations": 23,
+    "bones": 47
+   },
+   "thumb": "010_character/Pet_looloo__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.424,
+      4.082,
+      3.825
+     ],
+     "min": [
+      -3.424,
+      -0.215,
+      -3.849
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 87384,
+   "detail": "010_character/Pet_mushroom02__Default.json",
+   "file": "010_character/Pet_mushroom02__Default.glb",
+   "id": "Pet_mushroom02__Default",
+   "label": "Pet_mushroom02",
+   "name": "Pet_mushroom02/Default",
+   "stats": {
+    "animations": 19,
+    "bones": 6
+   },
+   "thumb": "010_character/Pet_mushroom02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.762,
+      5.165,
+      3.157
+     ],
+     "min": [
+      -2.762,
+      -0.222,
+      -2.233
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 117820,
+   "detail": "010_character/Pet_mushroom03__Default.json",
+   "file": "010_character/Pet_mushroom03__Default.glb",
+   "id": "Pet_mushroom03__Default",
+   "label": "Pet_mushroom03",
+   "name": "Pet_mushroom03/Default",
+   "stats": {
+    "animations": 19,
+    "bones": 9
+   },
+   "thumb": "010_character/Pet_mushroom03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.924,
+      5.253,
+      3.275
+     ],
+     "min": [
+      -2.924,
+      -0.222,
+      -2.396
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 82468,
+   "detail": "010_character/Pet_mushroom__Default.json",
+   "file": "010_character/Pet_mushroom__Default.glb",
+   "id": "Pet_mushroom__Default",
+   "label": "Pet_mushroom",
+   "name": "Pet_mushroom/Default",
+   "stats": {
+    "animations": 19,
+    "bones": 6
+   },
+   "thumb": "010_character/Pet_mushroom__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.771,
+      4.832,
+      3.169
+     ],
+     "min": [
+      -2.771,
+      -0.222,
+      -2.28
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 338312,
+   "detail": "010_character/Pet_nemo1_01__Default.json",
+   "file": "010_character/Pet_nemo1_01__Default.glb",
+   "id": "Pet_nemo1_01__Default",
+   "label": "Pet_nemo1_01",
+   "name": "Pet_nemo1_01/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo1_01__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      4.948,
+      2.41
+     ],
+     "min": [
+      -2.11,
+      0.097,
+      -2.908
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 338312,
+   "detail": "010_character/Pet_nemo1_02__Default.json",
+   "file": "010_character/Pet_nemo1_02__Default.glb",
+   "id": "Pet_nemo1_02__Default",
+   "label": "Pet_nemo1_02",
+   "name": "Pet_nemo1_02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo1_02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      4.948,
+      2.41
+     ],
+     "min": [
+      -2.11,
+      0.097,
+      -2.908
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 338312,
+   "detail": "010_character/Pet_nemo1__Default.json",
+   "file": "010_character/Pet_nemo1__Default.glb",
+   "id": "Pet_nemo1__Default",
+   "label": "Pet_nemo1",
+   "name": "Pet_nemo1/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo1__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      4.948,
+      2.41
+     ],
+     "min": [
+      -2.11,
+      0.097,
+      -2.908
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 334152,
+   "detail": "010_character/Pet_nemo2_01__Default.json",
+   "file": "010_character/Pet_nemo2_01__Default.glb",
+   "id": "Pet_nemo2_01__Default",
+   "label": "Pet_nemo2_01",
+   "name": "Pet_nemo2_01/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo2_01__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      5.708,
+      2.718
+     ],
+     "min": [
+      -2.11,
+      0.093,
+      -3.137
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 334152,
+   "detail": "010_character/Pet_nemo2_02__Default.json",
+   "file": "010_character/Pet_nemo2_02__Default.glb",
+   "id": "Pet_nemo2_02__Default",
+   "label": "Pet_nemo2_02",
+   "name": "Pet_nemo2_02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo2_02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      5.708,
+      2.718
+     ],
+     "min": [
+      -2.11,
+      0.093,
+      -3.137
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 334152,
+   "detail": "010_character/Pet_nemo2__Default.json",
+   "file": "010_character/Pet_nemo2__Default.glb",
+   "id": "Pet_nemo2__Default",
+   "label": "Pet_nemo2",
+   "name": "Pet_nemo2/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo2__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.076,
+      5.708,
+      2.718
+     ],
+     "min": [
+      -2.11,
+      0.093,
+      -3.137
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 330804,
+   "detail": "010_character/Pet_nemo3_01__Default.json",
+   "file": "010_character/Pet_nemo3_01__Default.glb",
+   "id": "Pet_nemo3_01__Default",
+   "label": "Pet_nemo3_01",
+   "name": "Pet_nemo3_01/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo3_01__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.597,
+      5.7,
+      2.467
+     ],
+     "min": [
+      -2.689,
+      0.092,
+      -3.445
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 330804,
+   "detail": "010_character/Pet_nemo3_02__Default.json",
+   "file": "010_character/Pet_nemo3_02__Default.glb",
+   "id": "Pet_nemo3_02__Default",
+   "label": "Pet_nemo3_02",
+   "name": "Pet_nemo3_02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo3_02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.597,
+      5.7,
+      2.467
+     ],
+     "min": [
+      -2.689,
+      0.092,
+      -3.445
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 330804,
+   "detail": "010_character/Pet_nemo3__Default.json",
+   "file": "010_character/Pet_nemo3__Default.glb",
+   "id": "Pet_nemo3__Default",
+   "label": "Pet_nemo3",
+   "name": "Pet_nemo3/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 37
+   },
+   "thumb": "010_character/Pet_nemo3__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.597,
+      5.7,
+      2.467
+     ],
+     "min": [
+      -2.689,
+      0.092,
+      -3.445
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 367072,
+   "detail": "010_character/Pet_Owl02__Default.json",
+   "file": "010_character/Pet_Owl02__Default.glb",
+   "id": "Pet_Owl02__Default",
+   "label": "Pet_Owl02",
+   "name": "Pet_Owl02/Default",
+   "stats": {
+    "animations": 27,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_Owl02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.533,
+      5.89,
+      2.847
+     ],
+     "min": [
+      -1.855,
+      0.539,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 361592,
+   "detail": "010_character/Pet_Owl03__Default.json",
+   "file": "010_character/Pet_Owl03__Default.glb",
+   "id": "Pet_Owl03__Default",
+   "label": "Pet_Owl03",
+   "name": "Pet_Owl03/Default",
+   "stats": {
+    "animations": 27,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_Owl03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.533,
+      6.542,
+      2.847
+     ],
+     "min": [
+      -1.855,
+      0.539,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 356504,
+   "detail": "010_character/Pet_Owl__Default.json",
+   "file": "010_character/Pet_Owl__Default.glb",
+   "id": "Pet_Owl__Default",
+   "label": "Pet_Owl",
+   "name": "Pet_Owl/Default",
+   "stats": {
+    "animations": 27,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_Owl__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.533,
+      5.811,
+      2.847
+     ],
+     "min": [
+      -1.855,
+      0.539,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 495380,
+   "detail": "010_character/Pet_Pegasus02__Default.json",
+   "file": "010_character/Pet_Pegasus02__Default.glb",
+   "id": "Pet_Pegasus02__Default",
+   "label": "Pet_Pegasus02",
+   "name": "Pet_Pegasus02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 48
+   },
+   "thumb": "010_character/Pet_Pegasus02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.598,
+      6.845,
+      2.676
+     ],
+     "min": [
+      -2.833,
+      -0.022,
+      -4.612
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 496276,
+   "detail": "010_character/Pet_Pegasus03__Default.json",
+   "file": "010_character/Pet_Pegasus03__Default.glb",
+   "id": "Pet_Pegasus03__Default",
+   "label": "Pet_Pegasus03",
+   "name": "Pet_Pegasus03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 48
+   },
+   "thumb": "010_character/Pet_Pegasus03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.598,
+      6.845,
+      2.676
+     ],
+     "min": [
+      -2.833,
+      -0.022,
+      -5.204
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 511860,
+   "detail": "010_character/Pet_Pegasus__Default.json",
+   "file": "010_character/Pet_Pegasus__Default.glb",
+   "id": "Pet_Pegasus__Default",
+   "label": "Pet_Pegasus",
+   "name": "Pet_Pegasus/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 48
+   },
+   "thumb": "010_character/Pet_Pegasus__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.598,
+      6.844,
+      2.676
+     ],
+     "min": [
+      -2.833,
+      -0.022,
+      -4.123
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 507160,
+   "detail": "010_character/Pet_Reddragon02__Default.json",
+   "file": "010_character/Pet_Reddragon02__Default.glb",
+   "id": "Pet_Reddragon02__Default",
+   "label": "Pet_Reddragon02",
+   "name": "Pet_Reddragon02/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 46
+   },
+   "thumb": "010_character/Pet_Reddragon02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.822,
+      4.338,
+      3.346
+     ],
+     "min": [
+      -2.045,
+      -1.773,
+      -2.02
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 510388,
+   "detail": "010_character/Pet_Reddragon03__Default.json",
+   "file": "010_character/Pet_Reddragon03__Default.glb",
+   "id": "Pet_Reddragon03__Default",
+   "label": "Pet_Reddragon03",
+   "name": "Pet_Reddragon03/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 46
+   },
+   "thumb": "010_character/Pet_Reddragon03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.065,
+      4.41,
+      3.341
+     ],
+     "min": [
+      -2.172,
+      -1.756,
+      -2.115
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 505232,
+   "detail": "010_character/Pet_Reddragon__Default.json",
+   "file": "010_character/Pet_Reddragon__Default.glb",
+   "id": "Pet_Reddragon__Default",
+   "label": "Pet_Reddragon",
+   "name": "Pet_Reddragon/Default",
+   "stats": {
+    "animations": 28,
+    "bones": 46
+   },
+   "thumb": "010_character/Pet_Reddragon__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.507,
+      4.54,
+      3.341
+     ],
+     "min": [
+      -2.055,
+      -1.756,
+      -2.019
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 285844,
+   "detail": "010_character/Pet_ribbonpig02__Default.json",
+   "file": "010_character/Pet_ribbonpig02__Default.glb",
+   "id": "Pet_ribbonpig02__Default",
+   "label": "Pet_ribbonpig02",
+   "name": "Pet_ribbonpig02/Default",
+   "stats": {
+    "animations": 20,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_ribbonpig02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.045,
+      5.043,
+      2.66
+     ],
+     "min": [
+      -2.186,
+      -0.222,
+      -3.564
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 289280,
+   "detail": "010_character/Pet_ribbonpig03__Default.json",
+   "file": "010_character/Pet_ribbonpig03__Default.glb",
+   "id": "Pet_ribbonpig03__Default",
+   "label": "Pet_ribbonpig03",
+   "name": "Pet_ribbonpig03/Default",
+   "stats": {
+    "animations": 20,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_ribbonpig03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.047,
+      5.415,
+      2.66
+     ],
+     "min": [
+      -2.184,
+      -0.222,
+      -3.564
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 284084,
+   "detail": "010_character/Pet_ribbonpig__Default.json",
+   "file": "010_character/Pet_ribbonpig__Default.glb",
+   "id": "Pet_ribbonpig__Default",
+   "label": "Pet_ribbonpig",
+   "name": "Pet_ribbonpig/Default",
+   "stats": {
+    "animations": 20,
+    "bones": 41
+   },
+   "thumb": "010_character/Pet_ribbonpig__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.912,
+      4.892,
+      2.585
+     ],
+     "min": [
+      -2.094,
+      -0.234,
+      -3.472
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 459060,
+   "detail": "010_character/Pet_Rudolph02__Default.json",
+   "file": "010_character/Pet_Rudolph02__Default.glb",
+   "id": "Pet_Rudolph02__Default",
+   "label": "Pet_Rudolph02",
+   "name": "Pet_Rudolph02/Default",
+   "stats": {
+    "animations": 25,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Rudolph02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.352,
+      6.86,
+      1.715
+     ],
+     "min": [
+      -2.428,
+      -0.105,
+      -4.262
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 463624,
+   "detail": "010_character/Pet_Rudolph03__Default.json",
+   "file": "010_character/Pet_Rudolph03__Default.glb",
+   "id": "Pet_Rudolph03__Default",
+   "label": "Pet_Rudolph03",
+   "name": "Pet_Rudolph03/Default",
+   "stats": {
+    "animations": 25,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Rudolph03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.428,
+      7.222,
+      2.755
+     ],
+     "min": [
+      -2.454,
+      -0.105,
+      -4.262
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 384708,
+   "detail": "010_character/Pet_Rudolph__Default.json",
+   "file": "010_character/Pet_Rudolph__Default.glb",
+   "id": "Pet_Rudolph__Default",
+   "label": "Pet_Rudolph",
+   "name": "Pet_Rudolph/Default",
+   "stats": {
+    "animations": 25,
+    "bones": 43
+   },
+   "thumb": "010_character/Pet_Rudolph__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.352,
+      6.125,
+      1.715
+     ],
+     "min": [
+      -2.428,
+      -0.105,
+      -4.262
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 372032,
+   "detail": "010_character/Pet_Sheep02__Default.json",
+   "file": "010_character/Pet_Sheep02__Default.glb",
+   "id": "Pet_Sheep02__Default",
+   "label": "Pet_Sheep02",
+   "name": "Pet_Sheep02/Default",
+   "stats": {
+    "animations": 23,
+    "bones": 40
+   },
+   "thumb": "010_character/Pet_Sheep02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.765,
+      5.206,
+      2.302
+     ],
+     "min": [
+      -2.765,
+      0.039,
+      -3.343
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 372804,
+   "detail": "010_character/Pet_Sheep03__Default.json",
+   "file": "010_character/Pet_Sheep03__Default.glb",
+   "id": "Pet_Sheep03__Default",
+   "label": "Pet_Sheep03",
+   "name": "Pet_Sheep03/Default",
+   "stats": {
+    "animations": 23,
+    "bones": 40
+   },
+   "thumb": "010_character/Pet_Sheep03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.765,
+      5.478,
+      2.302
+     ],
+     "min": [
+      -2.765,
+      0.039,
+      -3.719
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 358648,
+   "detail": "010_character/Pet_Sheep__Default.json",
+   "file": "010_character/Pet_Sheep__Default.glb",
+   "id": "Pet_Sheep__Default",
+   "label": "Pet_Sheep",
+   "name": "Pet_Sheep/Default",
+   "stats": {
+    "animations": 23,
+    "bones": 40
+   },
+   "thumb": "010_character/Pet_Sheep__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.765,
+      5.206,
+      2.302
+     ],
+     "min": [
+      -2.765,
+      0.039,
+      -3.238
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 390184,
+   "detail": "010_character/Pet_Snake02__Default.json",
+   "file": "010_character/Pet_Snake02__Default.glb",
+   "id": "Pet_Snake02__Default",
+   "label": "Pet_Snake02",
+   "name": "Pet_Snake02/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 51
+   },
+   "thumb": "010_character/Pet_Snake02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.644,
+      5.701,
+      8.762
+     ],
+     "min": [
+      -1.704,
+      -0.025,
+      -5.457
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 392684,
+   "detail": "010_character/Pet_Snake03__Default.json",
+   "file": "010_character/Pet_Snake03__Default.glb",
+   "id": "Pet_Snake03__Default",
+   "label": "Pet_Snake03",
+   "name": "Pet_Snake03/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 51
+   },
+   "thumb": "010_character/Pet_Snake03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.284,
+      5.981,
+      8.762
+     ],
+     "min": [
+      -2.265,
+      -0.025,
+      -5.457
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 388196,
+   "detail": "010_character/Pet_Snake__Default.json",
+   "file": "010_character/Pet_Snake__Default.glb",
+   "id": "Pet_Snake__Default",
+   "label": "Pet_Snake",
+   "name": "Pet_Snake/Default",
+   "stats": {
+    "animations": 22,
+    "bones": 51
+   },
+   "thumb": "010_character/Pet_Snake__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.644,
+      5.331,
+      8.762
+     ],
+     "min": [
+      -1.464,
+      -0.025,
+      -5.457
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 405348,
+   "detail": "010_character/Pet_Wolf02__Default.json",
+   "file": "010_character/Pet_Wolf02__Default.glb",
+   "id": "Pet_Wolf02__Default",
+   "label": "Pet_Wolf02",
+   "name": "Pet_Wolf02/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_Wolf02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.23,
+      5.018,
+      6.213
+     ],
+     "min": [
+      -2.23,
+      -0.251,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 409144,
+   "detail": "010_character/Pet_Wolf03__Default.json",
+   "file": "010_character/Pet_Wolf03__Default.glb",
+   "id": "Pet_Wolf03__Default",
+   "label": "Pet_Wolf03",
+   "name": "Pet_Wolf03/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_Wolf03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.23,
+      5.018,
+      6.213
+     ],
+     "min": [
+      -2.23,
+      -0.251,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 401180,
+   "detail": "010_character/Pet_Wolf__Default.json",
+   "file": "010_character/Pet_Wolf__Default.glb",
+   "id": "Pet_Wolf__Default",
+   "label": "Pet_Wolf",
+   "name": "Pet_Wolf/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_Wolf__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.23,
+      5.018,
+      6.213
+     ],
+     "min": [
+      -2.23,
+      -0.251,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 400388,
+   "detail": "010_character/Pet_Wolf_black02__Default.json",
+   "file": "010_character/Pet_Wolf_black02__Default.glb",
+   "id": "Pet_Wolf_black02__Default",
+   "label": "Pet_Wolf_black02",
+   "name": "Pet_Wolf_black02/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_Wolf_black02__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.23,
+      5.018,
+      6.213
+     ],
+     "min": [
+      -2.23,
+      -0.251,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 409832,
+   "detail": "010_character/Pet_Wolf_black03__Default.json",
+   "file": "010_character/Pet_Wolf_black03__Default.glb",
+   "id": "Pet_Wolf_black03__Default",
+   "label": "Pet_Wolf_black03",
+   "name": "Pet_Wolf_black03/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_Wolf_black03__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.23,
+      5.018,
+      6.213
+     ],
+     "min": [
+      -2.23,
+      -0.251,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 398908,
+   "detail": "010_character/Pet_Wolf_black__Default.json",
+   "file": "010_character/Pet_Wolf_black__Default.glb",
+   "id": "Pet_Wolf_black__Default",
+   "label": "Pet_Wolf_black",
+   "name": "Pet_Wolf_black/Default",
+   "stats": {
+    "animations": 21,
+    "bones": 45
+   },
+   "thumb": "010_character/Pet_Wolf_black__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.23,
+      5.018,
+      6.213
+     ],
+     "min": [
+      -2.23,
+      -0.251,
+      -3.246
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 897892,
+   "detail": "010_character/PinkBean__Default.json",
+   "file": "010_character/PinkBean__Default.glb",
+   "id": "PinkBean__Default",
+   "label": "핑크빈",
+   "name": "PinkBean/Default",
+   "stats": {
+    "animations": 50,
+    "animationsOriginal": 485,
+    "bones": 95
+   },
+   "thumb": "010_character/PinkBean__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      8.096,
+      18.648,
+      6.075
+     ],
+     "min": [
+      -8.115,
+      -0.42,
+      -8.023
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 67756,
+   "file": "010_character/Pumpkin-Ghost__Default.glb",
+   "id": "Pumpkin-Ghost__Default",
+   "label": "Pumpkin-Ghost",
+   "name": "Pumpkin-Ghost/Default",
+   "stats": {
+    "animations": 4,
+    "bones": 34
+   },
+   "thumb": "010_character/Pumpkin-Ghost__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.816,
+      23.087,
+      5.884
+     ],
+     "min": [
+      -5.816,
+      12.935,
+      -5.976
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 715372,
+   "detail": "010_character/Rhea__102000__102012.json",
+   "file": "010_character/Rhea__102000__102012.glb",
+   "id": "Rhea__102000__102012",
+   "label": "레아 102000/102012",
+   "name": "Rhea/102000/102012",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 503,
+    "bones": 65
+   },
+   "thumb": "010_character/Rhea__102000__102012.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.994,
+      8.363,
+      3.203
+     ],
+     "min": [
+      -7.767,
+      -1.847,
+      -11.383
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 803688,
+   "detail": "010_character/Rhea__Default.json",
+   "file": "010_character/Rhea__Default.glb",
+   "id": "Rhea__Default",
+   "label": "레아",
+   "name": "Rhea/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 503,
+    "bones": 65
+   },
+   "thumb": "010_character/Rhea__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      2.656,
+      7.83,
+      3.194
+     ],
+     "min": [
+      -7.097,
+      -1.31,
+      -11.419
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1101044,
+   "detail": "010_character/Su__101500__101532.json",
+   "file": "010_character/Su__101500__101532.glb",
+   "id": "Su__101500__101532",
+   "label": "수 101500/101532",
+   "name": "Su/101500/101532",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 566,
+    "bones": 65
+   },
+   "thumb": "010_character/Su__101500__101532.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.107,
+      13.73,
+      5.389
+     ],
+     "min": [
+      -5.169,
+      -0.07,
+      -6.624
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 901716,
+   "detail": "010_character/Su__Default.json",
+   "file": "010_character/Su__Default.glb",
+   "id": "Su__Default",
+   "label": "수",
+   "name": "Su/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 566,
+    "bones": 65
+   },
+   "thumb": "010_character/Su__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.167,
+      12.645,
+      4.745
+     ],
+     "min": [
+      -4.893,
+      -1.775,
+      -5.663
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 967636,
+   "detail": "010_character/Succubus__190000__190077.json",
+   "file": "010_character/Succubus__190000__190077.glb",
+   "id": "Succubus__190000__190077",
+   "label": "서큐버스 퀸 190000/190077",
+   "name": "Succubus/190000/190077",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 181,
+    "bones": 110
+   },
+   "thumb": "010_character/Succubus__190000__190077.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.055,
+      7.563,
+      7.187
+     ],
+     "min": [
+      -3.883,
+      -14.622,
+      -4.926
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 930240,
+   "detail": "010_character/Succubus__Default.json",
+   "file": "010_character/Succubus__Default.glb",
+   "id": "Succubus__Default",
+   "label": "서큐버스 퀸",
+   "name": "Succubus/Default",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 181,
+    "bones": 110
+   },
+   "thumb": "010_character/Succubus__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      6.055,
+      7.563,
+      7.187
+     ],
+     "min": [
+      -3.883,
+      -14.622,
+      -4.926
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 681540,
+   "detail": "010_character/Twotop__100000__100011.json",
+   "file": "010_character/Twotop__100000__100011.glb",
+   "id": "Twotop__100000__100011",
+   "label": "투탑 100000/100011",
+   "name": "Twotop/100000/100011",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 539,
+    "bones": 41
+   },
+   "thumb": "010_character/Twotop__100000__100011.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.599,
+      15.102,
+      6.119
+     ],
+     "min": [
+      -6.067,
+      0.162,
+      -7.081
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 690168,
+   "detail": "010_character/Twotop__Default.json",
+   "file": "010_character/Twotop__Default.glb",
+   "id": "Twotop__Default",
+   "label": "투탑",
+   "name": "Twotop/Default",
+   "stats": {
+    "animations": 54,
+    "animationsOriginal": 539,
+    "bones": 41
+   },
+   "thumb": "010_character/Twotop__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.78,
+      12.589,
+      5.43
+     ],
+     "min": [
+      -5.64,
+      -2.197,
+      -5.857
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1096364,
+   "detail": "010_character/Uni__102400__102453.json",
+   "file": "010_character/Uni__102400__102453.glb",
+   "id": "Uni__102400__102453",
+   "label": "우니 102400/102453",
+   "name": "Uni/102400/102453",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 548,
+    "bones": 54
+   },
+   "thumb": "010_character/Uni__102400__102453.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      7.923,
+      15.986,
+      5.959
+     ],
+     "min": [
+      -5.862,
+      -2.768,
+      -8.421
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 943776,
+   "detail": "010_character/Uni__Default.json",
+   "file": "010_character/Uni__Default.glb",
+   "id": "Uni__Default",
+   "label": "우니",
+   "name": "Uni/Default",
+   "stats": {
+    "animations": 52,
+    "animationsOriginal": 548,
+    "bones": 42
+   },
+   "thumb": "010_character/Uni__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      12.508,
+      5.599,
+      4.877
+     ],
+     "min": [
+      -0.107,
+      -5.581,
+      -5.443
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 1188608,
+   "detail": "010_character/Zombie_Boss__Default.json",
+   "file": "010_character/Zombie_Boss__Default.glb",
+   "id": "Zombie_Boss__Default",
+   "label": "좀비슈타인_G",
+   "name": "Zombie_Boss/Default",
+   "stats": {
+    "animations": 39,
+    "animationsOriginal": 197,
+    "bones": 62
+   },
+   "thumb": "010_character/Zombie_Boss__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      21.124,
+      33.816,
+      17.228
+     ],
+     "min": [
+      -26.277,
+      -1.683,
+      -13.42
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 588220,
+   "file": "010_character/Zombie_Jason__Default.glb",
+   "id": "Zombie_Jason__Default",
+   "label": "제이쑨좀비_좀탈_고좀",
+   "name": "Zombie_Jason/Default",
+   "stats": {
+    "animations": 21,
+    "animationsOriginal": 114,
+    "bones": 62
+   },
+   "thumb": "010_character/Zombie_Jason__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      13.426,
+      21.504,
+      9.387
+     ],
+     "min": [
+      -9.438,
+      -0.124,
+      -6.242
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 679980,
+   "file": "010_character/Zombie_Kid1__Default.glb",
+   "id": "Zombie_Kid1__Default",
+   "label": "다오좀비니_좀탈_고좀",
+   "name": "Zombie_Kid1/Default",
+   "stats": {
+    "animations": 44,
+    "animationsOriginal": 228,
+    "bones": 48
+   },
+   "thumb": "010_character/Zombie_Kid1__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.013,
+      14.85,
+      8.891
+     ],
+     "min": [
+      -4.997,
+      1.078,
+      -3.33
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 832120,
+   "file": "010_character/Zombie_Kid3__Default.glb",
+   "id": "Zombie_Kid3__Default",
+   "label": "케피좀비니_좀탈_고좀",
+   "name": "Zombie_Kid3/Default",
+   "stats": {
+    "animations": 48,
+    "animationsOriginal": 285,
+    "bones": 95
+   },
+   "thumb": "010_character/Zombie_Kid3__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      8.389,
+      19.93,
+      4.73
+     ],
+     "min": [
+      -9.505,
+      1.044,
+      -5.919
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 715116,
+   "file": "010_character/Zombie_Kid4__Default.glb",
+   "id": "Zombie_Kid4__Default",
+   "label": "우니좀비니_좀탈_고좀(Zombie_Kid4)",
+   "name": "Zombie_Kid4/Default",
+   "stats": {
+    "animations": 50,
+    "animationsOriginal": 248,
+    "bones": 56
+   },
+   "thumb": "010_character/Zombie_Kid4__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.899,
+      11.108,
+      1.804
+     ],
+     "min": [
+      -5.341,
+      -0.038,
+      -8.788
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 722460,
+   "file": "010_character/Zombie_Kid5__Default.glb",
+   "id": "Zombie_Kid5__Default",
+   "label": "우니좀비니_좀탈_고좀(Zombie_Kid5)",
+   "name": "Zombie_Kid5/Default",
+   "stats": {
+    "animations": 50,
+    "animationsOriginal": 248,
+    "bones": 56
+   },
+   "thumb": "010_character/Zombie_Kid5__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.381,
+      9.145,
+      1.804
+     ],
+     "min": [
+      -4.823,
+      -0.038,
+      -7.194
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 703520,
+   "detail": "010_character/Zombie_KidPVE__Default.json",
+   "file": "010_character/Zombie_KidPVE__Default.glb",
+   "id": "Zombie_KidPVE__Default",
+   "label": "Zombie_KidPVE",
+   "name": "Zombie_KidPVE/Default",
+   "stats": {
+    "animations": 43,
+    "animationsOriginal": 227,
+    "bones": 48
+   },
+   "thumb": "010_character/Zombie_KidPVE__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.013,
+      14.85,
+      8.891
+     ],
+     "min": [
+      -4.997,
+      1.078,
+      -3.33
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 677276,
+   "detail": "010_character/Zombie_King1__Default.json",
+   "file": "010_character/Zombie_King1__Default.glb",
+   "id": "Zombie_King1__Default",
+   "label": "좀비킹",
+   "name": "Zombie_King1/Default",
+   "stats": {
+    "animations": 35,
+    "animationsOriginal": 179,
+    "bones": 52
+   },
+   "thumb": "010_character/Zombie_King1__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      16.668,
+      22.026,
+      9.892
+     ],
+     "min": [
+      -21.82,
+      -0.054,
+      -7.035
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 626972,
+   "detail": "010_character/Zombie_Poison__Default.json",
+   "file": "010_character/Zombie_Poison__Default.glb",
+   "id": "Zombie_Poison__Default",
+   "label": "Zombie_Poison",
+   "name": "Zombie_Poison/Default",
+   "stats": {
+    "animations": 25,
+    "bones": 56
+   },
+   "thumb": "010_character/Zombie_Poison__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      13.269,
+      16.333,
+      4.872
+     ],
+     "min": [
+      -13.92,
+      -0.995,
+      -16.886
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 793008,
+   "detail": "010_character/Zombie_Tankker__Default.json",
+   "file": "010_character/Zombie_Tankker__Default.glb",
+   "id": "Zombie_Tankker__Default",
+   "label": "Zombie_Tankker",
+   "name": "Zombie_Tankker/Default",
+   "stats": {
+    "animations": 37,
+    "bones": 62
+   },
+   "thumb": "010_character/Zombie_Tankker__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      12.694,
+      17.857,
+      5.159
+     ],
+     "min": [
+      -11.028,
+      0.354,
+      -10.492
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 758048,
+   "detail": "010_character/Zombie_Walking__Default.json",
+   "file": "010_character/Zombie_Walking__Default.glb",
+   "id": "Zombie_Walking__Default",
+   "label": "Zombie_Walking",
+   "name": "Zombie_Walking/Default",
+   "stats": {
+    "animations": 43,
+    "animationsOriginal": 227,
+    "bones": 60
+   },
+   "thumb": "010_character/Zombie_Walking__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.331,
+      15.829,
+      9.094
+     ],
+     "min": [
+      -5.773,
+      1.201,
+      -3.308
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 676768,
+   "detail": "010_character/ZombieOrigin_Kid1__Default.json",
+   "file": "010_character/ZombieOrigin_Kid1__Default.glb",
+   "id": "ZombieOrigin_Kid1__Default",
+   "label": "좀대G 다오형좀비니",
+   "name": "ZombieOrigin_Kid1/Default",
+   "stats": {
+    "animations": 42,
+    "animationsOriginal": 226,
+    "bones": 48
+   },
+   "thumb": "010_character/ZombieOrigin_Kid1__Default.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      5.013,
+      14.85,
+      8.891
+     ],
+     "min": [
+      -4.997,
+      1.078,
+      -3.33
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "캐릭터"
+}

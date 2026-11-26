@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 38,
+   "index": 0,
+   "w": 18,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 38,
+   "index": 1,
+   "w": 9,
+   "x": 22,
+   "y": 1
+  },
+  {
+   "h": 38,
+   "index": 2,
+   "w": 21,
+   "x": 34,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/SingleStarRanking/myIdBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__SingleStarRanking__myIdBack.png",
+  "h": 40,
+  "w": 56
+ }
+}

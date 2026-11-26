@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 26,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 1,
+   "x": 28,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 26,
+   "x": 30,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 26,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 28,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 26,
+   "x": 30,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 6,
+   "w": 26,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 1,
+   "index": 7,
+   "w": 1,
+   "x": 28,
+   "y": 28
+  },
+  {
+   "h": 1,
+   "index": 8,
+   "w": 26,
+   "x": 30,
+   "y": 28
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/cupStore/cupStore_tab01_up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__cupStore__cupStore_tab01_up.png",
+  "h": 30,
+  "w": 57
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 84,
+   "index": 0,
+   "w": 287,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 84,
+   "index": 1,
+   "w": 287,
+   "x": 1,
+   "y": 87
+  },
+  {
+   "h": 84,
+   "index": 2,
+   "w": 287,
+   "x": 1,
+   "y": 173
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStageChatModule/BtnStart",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStageChatModule__BtnStart.png",
+  "h": 258,
+  "w": 289
+ }
+}

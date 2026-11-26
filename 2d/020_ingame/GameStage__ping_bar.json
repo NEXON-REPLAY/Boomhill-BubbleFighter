@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 15,
+   "index": 0,
+   "w": 4,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 15,
+   "index": 1,
+   "w": 4,
+   "x": 7,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ping_bar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ping_bar.png",
+  "h": 17,
+  "w": 12
+ }
+}

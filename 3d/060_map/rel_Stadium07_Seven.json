@@ -1,0 +1,17 @@
+{
+ "helpers": [
+  {
+   "group": "other",
+   "pos": [
+    1463.434,
+    522.782,
+    1928.892
+   ]
+  }
+ ],
+ "navi": {
+  "triangle_count": 306,
+  "vertex_count": 276
+ },
+ "spawn_count": 0
+}

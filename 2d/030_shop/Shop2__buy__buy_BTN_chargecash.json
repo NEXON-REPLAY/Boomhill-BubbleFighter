@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 23,
+   "index": 0,
+   "w": 64,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 23,
+   "index": 1,
+   "w": 64,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 23,
+   "index": 2,
+   "w": 64,
+   "x": 1,
+   "y": 51
+  },
+  {
+   "h": 23,
+   "index": 3,
+   "w": 64,
+   "x": 1,
+   "y": 76
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/buy/buy_BTN_chargecash",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__buy__buy_BTN_chargecash.png",
+  "h": 100,
+  "w": 66
+ }
+}

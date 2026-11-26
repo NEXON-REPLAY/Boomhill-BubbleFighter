@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 10,
+   "index": 0,
+   "w": 10,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 10,
+   "index": 1,
+   "w": 1,
+   "x": 12,
+   "y": 1
+  },
+  {
+   "h": 10,
+   "index": 2,
+   "w": 10,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 10,
+   "x": 1,
+   "y": 12
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 12,
+   "y": 12
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 10,
+   "x": 14,
+   "y": 12
+  },
+  {
+   "h": 10,
+   "index": 6,
+   "w": 10,
+   "x": 1,
+   "y": 14
+  },
+  {
+   "h": 10,
+   "index": 7,
+   "w": 1,
+   "x": 12,
+   "y": 14
+  },
+  {
+   "h": 10,
+   "index": 8,
+   "w": 10,
+   "x": 14,
+   "y": 14
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/auction/auction_type01BTN-Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__auction__auction_type01BTN-Up.png",
+  "h": 25,
+  "w": 25
+ }
+}

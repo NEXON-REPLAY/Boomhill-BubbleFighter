@@ -1,0 +1,84 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 20,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 20,
+   "x": 22,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 20,
+   "x": 43,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 3,
+   "w": 20,
+   "x": 64,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 4,
+   "w": 20,
+   "x": 85,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 5,
+   "w": 20,
+   "x": 106,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 6,
+   "w": 20,
+   "x": 127,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 7,
+   "w": 20,
+   "x": 148,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 8,
+   "w": 20,
+   "x": 169,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 9,
+   "w": 20,
+   "x": 190,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Numbers_Respawn",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Numbers_Respawn.png",
+  "h": 26,
+  "w": 211
+ }
+}

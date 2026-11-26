@@ -1,0 +1,3876 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex01_Diorama__bigMap",
+   "name": "Maps/rel_Apex01_Diorama/bigMap",
+   "sheet": {
+    "h": 188,
+    "w": 447
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex01_Diorama__bigMapSingle",
+   "name": "Maps/rel_Apex01_Diorama/bigMapSingle",
+   "sheet": {
+    "h": 188,
+    "w": 447
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex01_Diorama__miniMap",
+   "name": "Maps/rel_Apex01_Diorama/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex01_Diorama__miniMapSingle",
+   "name": "Maps/rel_Apex01_Diorama/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex02_LostTown__bigMap",
+   "name": "Maps/rel_Apex02_LostTown/bigMap",
+   "sheet": {
+    "h": 349,
+    "w": 372
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex02_LostTown__bigMapSingle",
+   "name": "Maps/rel_Apex02_LostTown/bigMapSingle",
+   "sheet": {
+    "h": 349,
+    "w": 372
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex02_LostTown__miniMap",
+   "name": "Maps/rel_Apex02_LostTown/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Apex02_LostTown__miniMapSingle",
+   "name": "Maps/rel_Apex02_LostTown/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_bnb01_village06__bigMap",
+   "name": "Maps/rel_bnb01_village06/bigMap",
+   "sheet": {
+    "h": 364,
+    "w": 419
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_bnb02_village11__bigMap",
+   "name": "Maps/rel_bnb02_village11/bigMap",
+   "sheet": {
+    "h": 364,
+    "w": 419
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_bnb03_village101__bigMap",
+   "name": "Maps/rel_bnb03_village101/bigMap",
+   "sheet": {
+    "h": 364,
+    "w": 419
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_bnb04_village102__bigMap",
+   "name": "Maps/rel_bnb04_village102/bigMap",
+   "sheet": {
+    "h": 364,
+    "w": 419
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_bnb05_village103__bigMap",
+   "name": "Maps/rel_bnb05_village103/bigMap",
+   "sheet": {
+    "h": 364,
+    "w": 419
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery01__bigMap",
+   "name": "Maps/rel_Cemetery01/bigMap",
+   "sheet": {
+    "h": 217,
+    "w": 475
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery01__bigMapSingle",
+   "name": "Maps/rel_Cemetery01/bigMapSingle",
+   "sheet": {
+    "h": 217,
+    "w": 475
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery01__miniMap",
+   "name": "Maps/rel_Cemetery01/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery01__miniMapSingle",
+   "name": "Maps/rel_Cemetery01/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery02_Altar__bigMap",
+   "name": "Maps/rel_Cemetery02_Altar/bigMap",
+   "sheet": {
+    "h": 225,
+    "w": 464
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery02_Altar__bigMapSingle",
+   "name": "Maps/rel_Cemetery02_Altar/bigMapSingle",
+   "sheet": {
+    "h": 225,
+    "w": 464
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery02_Altar__miniMap",
+   "name": "Maps/rel_Cemetery02_Altar/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery02_Altar__miniMapSingle",
+   "name": "Maps/rel_Cemetery02_Altar/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery03_Vampire__bigMap",
+   "name": "Maps/rel_Cemetery03_Vampire/bigMap",
+   "sheet": {
+    "h": 196,
+    "w": 480
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery03_Vampire__bigMapSingle",
+   "name": "Maps/rel_Cemetery03_Vampire/bigMapSingle",
+   "sheet": {
+    "h": 196,
+    "w": 480
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery03_Vampire__miniMap",
+   "name": "Maps/rel_Cemetery03_Vampire/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery03_Vampire__miniMapSingle",
+   "name": "Maps/rel_Cemetery03_Vampire/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery04_BlackCompany__bigMap",
+   "name": "Maps/rel_Cemetery04_BlackCompany/bigMap",
+   "sheet": {
+    "h": 331,
+    "w": 485
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery04_BlackCompany__bigMapSingle",
+   "name": "Maps/rel_Cemetery04_BlackCompany/bigMapSingle",
+   "sheet": {
+    "h": 331,
+    "w": 485
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery04_BlackCompany__miniMap",
+   "name": "Maps/rel_Cemetery04_BlackCompany/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Cemetery04_BlackCompany__miniMapSingle",
+   "name": "Maps/rel_Cemetery04_BlackCompany/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_CP01_SquareStadium__bigmap",
+   "name": "Maps/rel_CP01_SquareStadium/bigmap",
+   "sheet": {
+    "h": 236,
+    "w": 466
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_CP01_SquareStadium__bigmapsingle",
+   "name": "Maps/rel_CP01_SquareStadium/bigmapsingle",
+   "sheet": {
+    "h": 236,
+    "w": 466
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_CP01_SquareStadium__minimap",
+   "name": "Maps/rel_CP01_SquareStadium/minimap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_CP02_Ruins__bigMap",
+   "name": "Maps/rel_CP02_Ruins/bigMap",
+   "sheet": {
+    "h": 166,
+    "w": 482
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_CP02_Ruins__miniMap",
+   "name": "Maps/rel_CP02_Ruins/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_cp03_hotSprings__bigMap",
+   "name": "Maps/rel_cp03_hotSprings/bigMap",
+   "sheet": {
+    "h": 179,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_cp03_hotSprings__miniMap",
+   "name": "Maps/rel_cp03_hotSprings/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert00_beguy__bigmap",
+   "name": "Maps/rel_Desert00_beguy/bigmap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert01_Oneway__bigMap",
+   "name": "Maps/rel_Desert01_Oneway/bigMap",
+   "sheet": {
+    "h": 212,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert01_Oneway__bigMapSingle",
+   "name": "Maps/rel_Desert01_Oneway/bigMapSingle",
+   "sheet": {
+    "h": 212,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert01_Oneway__mapName",
+   "name": "Maps/rel_Desert01_Oneway/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert01_Oneway__miniMap",
+   "name": "Maps/rel_Desert01_Oneway/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert01_Oneway__miniMapSingle",
+   "name": "Maps/rel_Desert01_Oneway/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_Castle__bigMap",
+   "name": "Maps/rel_Desert02_Castle/bigMap",
+   "sheet": {
+    "h": 200,
+    "w": 492
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_Castle__bigMapSingle",
+   "name": "Maps/rel_Desert02_Castle/bigMapSingle",
+   "sheet": {
+    "h": 200,
+    "w": 492
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_Castle__mapName",
+   "name": "Maps/rel_Desert02_Castle/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_Castle__miniMap",
+   "name": "Maps/rel_Desert02_Castle/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_Castle__miniMapSingle",
+   "name": "Maps/rel_Desert02_Castle/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_CastleNPC2__miniMap",
+   "name": "Maps/rel_Desert02_CastleNPC2/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert02_CastleNPC2__miniMapSingle",
+   "name": "Maps/rel_Desert02_CastleNPC2/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert03_Temple__bigMap",
+   "name": "Maps/rel_Desert03_Temple/bigMap",
+   "sheet": {
+    "h": 197,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert03_Temple__bigMapSingle",
+   "name": "Maps/rel_Desert03_Temple/bigMapSingle",
+   "sheet": {
+    "h": 197,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert03_Temple__mapName",
+   "name": "Maps/rel_Desert03_Temple/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert03_Temple__miniMap",
+   "name": "Maps/rel_Desert03_Temple/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert03_Temple__miniMapSingle",
+   "name": "Maps/rel_Desert03_Temple/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert04_Pharaoh__bigMap",
+   "name": "Maps/rel_Desert04_Pharaoh/bigMap",
+   "sheet": {
+    "h": 378,
+    "w": 434
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert04_Pharaoh__bigMapSingle",
+   "name": "Maps/rel_Desert04_Pharaoh/bigMapSingle",
+   "sheet": {
+    "h": 378,
+    "w": 434
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert04_Pharaoh__miniMap",
+   "name": "Maps/rel_Desert04_Pharaoh/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert04_Pharaoh__miniMapSingle",
+   "name": "Maps/rel_Desert04_Pharaoh/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert05_mummy__bigMap",
+   "name": "Maps/rel_Desert05_mummy/bigMap",
+   "sheet": {
+    "h": 251,
+    "w": 482
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert05_mummy__bigMapSingle",
+   "name": "Maps/rel_Desert05_mummy/bigMapSingle",
+   "sheet": {
+    "h": 251,
+    "w": 482
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert05_mummy__miniMap",
+   "name": "Maps/rel_Desert05_mummy/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 513
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert05_mummy__miniMapSingle",
+   "name": "Maps/rel_Desert05_mummy/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 513
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert06_Market__bigMap",
+   "name": "Maps/rel_Desert06_Market/bigMap",
+   "sheet": {
+    "h": 215,
+    "w": 421
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert06_Market__bigMapSingle",
+   "name": "Maps/rel_Desert06_Market/bigMapSingle",
+   "sheet": {
+    "h": 215,
+    "w": 421
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert06_Market__miniMap",
+   "name": "Maps/rel_Desert06_Market/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert06_Market__miniMapSingle",
+   "name": "Maps/rel_Desert06_Market/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert07_Garden__bigMap",
+   "name": "Maps/rel_Desert07_Garden/bigMap",
+   "sheet": {
+    "h": 190,
+    "w": 481
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert07_Garden__bigMapSingle",
+   "name": "Maps/rel_Desert07_Garden/bigMapSingle",
+   "sheet": {
+    "h": 190,
+    "w": 481
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert07_Garden__miniMap",
+   "name": "Maps/rel_Desert07_Garden/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Desert07_Garden__miniMapSingle",
+   "name": "Maps/rel_Desert07_Garden/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_event_lucci00__bigMapSingle",
+   "name": "Maps/rel_event_lucci00/bigMapSingle",
+   "sheet": {
+    "h": 346,
+    "w": 347
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_event_lucci00__miniMapSingle",
+   "name": "Maps/rel_event_lucci00/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_event_lucci01__bigMapSingle",
+   "name": "Maps/rel_event_lucci01/bigMapSingle",
+   "sheet": {
+    "h": 378,
+    "w": 376
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_event_lucci01__miniMapSingle",
+   "name": "Maps/rel_event_lucci01/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_event_lucci03__bigMapSingle",
+   "name": "Maps/rel_event_lucci03/bigMapSingle",
+   "sheet": {
+    "h": 377,
+    "w": 376
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_event_lucci03__miniMapSingle",
+   "name": "Maps/rel_event_lucci03/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale01_Beanstalk__bigMap",
+   "name": "Maps/rel_fairytale01_Beanstalk/bigMap",
+   "sheet": {
+    "h": 148,
+    "w": 466
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale01_Beanstalk__bigMapSingle",
+   "name": "Maps/rel_fairytale01_Beanstalk/bigMapSingle",
+   "sheet": {
+    "h": 148,
+    "w": 466
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale01_Beanstalk__miniMap",
+   "name": "Maps/rel_fairytale01_Beanstalk/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale01_Beanstalk__miniMapSingle",
+   "name": "Maps/rel_fairytale01_Beanstalk/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale02_AliceGarden__bigMap",
+   "name": "Maps/rel_fairytale02_AliceGarden/bigMap",
+   "sheet": {
+    "h": 261,
+    "w": 494
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale02_AliceGarden__bigMapSingle",
+   "name": "Maps/rel_fairytale02_AliceGarden/bigMapSingle",
+   "sheet": {
+    "h": 261,
+    "w": 494
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale02_AliceGarden__miniMap",
+   "name": "Maps/rel_fairytale02_AliceGarden/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale02_AliceGarden__miniMapSingle",
+   "name": "Maps/rel_fairytale02_AliceGarden/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale03_Oz__bigMap",
+   "name": "Maps/rel_fairytale03_Oz/bigMap",
+   "sheet": {
+    "h": 180,
+    "w": 489
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale03_Oz__bigMapSingle",
+   "name": "Maps/rel_fairytale03_Oz/bigMapSingle",
+   "sheet": {
+    "h": 180,
+    "w": 489
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale03_Oz__miniMap",
+   "name": "Maps/rel_fairytale03_Oz/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale03_Oz__miniMapSingle",
+   "name": "Maps/rel_fairytale03_Oz/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale04_Pig__bigMap",
+   "name": "Maps/rel_fairytale04_Pig/bigMap",
+   "sheet": {
+    "h": 217,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale04_Pig__bigMapSingle",
+   "name": "Maps/rel_fairytale04_Pig/bigMapSingle",
+   "sheet": {
+    "h": 217,
+    "w": 476
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale04_Pig__miniMap",
+   "name": "Maps/rel_fairytale04_Pig/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale04_Pig__miniMapSingle",
+   "name": "Maps/rel_fairytale04_Pig/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale05_Woodcutter__bigMap",
+   "name": "Maps/rel_fairytale05_Woodcutter/bigMap",
+   "sheet": {
+    "h": 253,
+    "w": 478
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale05_Woodcutter__bigMapSingle",
+   "name": "Maps/rel_fairytale05_Woodcutter/bigMapSingle",
+   "sheet": {
+    "h": 253,
+    "w": 478
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale05_Woodcutter__miniMap",
+   "name": "Maps/rel_fairytale05_Woodcutter/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_fairytale05_Woodcutter__miniMapSingle",
+   "name": "Maps/rel_fairytale05_Woodcutter/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest01_Hill__bigMap",
+   "name": "Maps/rel_Forest01_Hill/bigMap",
+   "sheet": {
+    "h": 195,
+    "w": 491
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest01_Hill__bigMapSingle",
+   "name": "Maps/rel_Forest01_Hill/bigMapSingle",
+   "sheet": {
+    "h": 195,
+    "w": 491
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest01_Hill__mapName",
+   "name": "Maps/rel_Forest01_Hill/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest01_Hill__miniMap",
+   "name": "Maps/rel_Forest01_Hill/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest01_Hill__miniMapSingle",
+   "name": "Maps/rel_Forest01_Hill/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest02_Ravine__bigMap",
+   "name": "Maps/rel_Forest02_Ravine/bigMap",
+   "sheet": {
+    "h": 193,
+    "w": 488
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest02_Ravine__bigMapSingle",
+   "name": "Maps/rel_Forest02_Ravine/bigMapSingle",
+   "sheet": {
+    "h": 193,
+    "w": 488
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest02_Ravine__mapName",
+   "name": "Maps/rel_Forest02_Ravine/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest02_Ravine__miniMap",
+   "name": "Maps/rel_Forest02_Ravine/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest02_Ravine__miniMapSingle",
+   "name": "Maps/rel_Forest02_Ravine/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest03_Waterfall__bigMap",
+   "name": "Maps/rel_Forest03_Waterfall/bigMap",
+   "sheet": {
+    "h": 378,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest03_Waterfall__bigMapSingle",
+   "name": "Maps/rel_Forest03_Waterfall/bigMapSingle",
+   "sheet": {
+    "h": 378,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest03_Waterfall__miniMap",
+   "name": "Maps/rel_Forest03_Waterfall/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest03_Waterfall__miniMapSingle",
+   "name": "Maps/rel_Forest03_Waterfall/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest04_PeterPan__bigMap",
+   "name": "Maps/rel_Forest04_PeterPan/bigMap",
+   "sheet": {
+    "h": 319,
+    "w": 487
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest04_PeterPan__bigMapSingle",
+   "name": "Maps/rel_Forest04_PeterPan/bigMapSingle",
+   "sheet": {
+    "h": 319,
+    "w": 487
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest04_PeterPan__miniMap",
+   "name": "Maps/rel_Forest04_PeterPan/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest04_PeterPan__miniMapSingle",
+   "name": "Maps/rel_Forest04_PeterPan/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest05_CaveTemple__bigMap",
+   "name": "Maps/rel_Forest05_CaveTemple/bigMap",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest05_CaveTemple__bigMapSingle",
+   "name": "Maps/rel_Forest05_CaveTemple/bigMapSingle",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest05_CaveTemple__miniMap",
+   "name": "Maps/rel_Forest05_CaveTemple/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest05_CaveTemple__miniMapSingle",
+   "name": "Maps/rel_Forest05_CaveTemple/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest06_Bootcamp__bigMap",
+   "name": "Maps/rel_Forest06_Bootcamp/bigMap",
+   "sheet": {
+    "h": 324,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest06_Bootcamp__bigMapSingle",
+   "name": "Maps/rel_Forest06_Bootcamp/bigMapSingle",
+   "sheet": {
+    "h": 324,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest06_Bootcamp__miniMap",
+   "name": "Maps/rel_Forest06_Bootcamp/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest06_Bootcamp__miniMapSingle",
+   "name": "Maps/rel_Forest06_Bootcamp/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest07_ruin__bigMap",
+   "name": "Maps/rel_Forest07_ruin/bigMap",
+   "sheet": {
+    "h": 162,
+    "w": 409
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest07_ruin__bigMapSingle",
+   "name": "Maps/rel_Forest07_ruin/bigMapSingle",
+   "sheet": {
+    "h": 162,
+    "w": 409
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest07_ruin__miniMap",
+   "name": "Maps/rel_Forest07_ruin/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Forest07_ruin__miniMapSingle",
+   "name": "Maps/rel_Forest07_ruin/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity01_SpaceShip__bigMap",
+   "name": "Maps/rel_Gravity01_SpaceShip/bigMap",
+   "sheet": {
+    "h": 230,
+    "w": 472
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity01_SpaceShip__bigMapSingle",
+   "name": "Maps/rel_Gravity01_SpaceShip/bigMapSingle",
+   "sheet": {
+    "h": 230,
+    "w": 472
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity01_SpaceShip__miniMap",
+   "name": "Maps/rel_Gravity01_SpaceShip/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity01_SpaceShip__miniMapSingle",
+   "name": "Maps/rel_Gravity01_SpaceShip/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity02_SpaceStation__bigMap",
+   "name": "Maps/rel_Gravity02_SpaceStation/bigMap",
+   "sheet": {
+    "h": 210,
+    "w": 441
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity02_SpaceStation__bigMapSingle",
+   "name": "Maps/rel_Gravity02_SpaceStation/bigMapSingle",
+   "sheet": {
+    "h": 210,
+    "w": 441
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity02_SpaceStation__miniMap",
+   "name": "Maps/rel_Gravity02_SpaceStation/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity02_SpaceStation__miniMapSingle",
+   "name": "Maps/rel_Gravity02_SpaceStation/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity03_SpaceGarage__bigMap",
+   "name": "Maps/rel_Gravity03_SpaceGarage/bigMap",
+   "sheet": {
+    "h": 249,
+    "w": 478
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity03_SpaceGarage__bigMapSingle",
+   "name": "Maps/rel_Gravity03_SpaceGarage/bigMapSingle",
+   "sheet": {
+    "h": 249,
+    "w": 478
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity03_SpaceGarage__miniMap",
+   "name": "Maps/rel_Gravity03_SpaceGarage/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Gravity03_SpaceGarage__miniMapSingle",
+   "name": "Maps/rel_Gravity03_SpaceGarage/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice01_Cave__bigMap",
+   "name": "Maps/rel_Ice01_Cave/bigMap",
+   "sheet": {
+    "h": 191,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice01_Cave__bigMapSingle",
+   "name": "Maps/rel_Ice01_Cave/bigMapSingle",
+   "sheet": {
+    "h": 191,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice01_Cave__mapName",
+   "name": "Maps/rel_Ice01_Cave/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice01_Cave__miniMap",
+   "name": "Maps/rel_Ice01_Cave/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice01_Cave__miniMapSingle",
+   "name": "Maps/rel_Ice01_Cave/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice02_Icepit__bigMap",
+   "name": "Maps/rel_Ice02_Icepit/bigMap",
+   "sheet": {
+    "h": 145,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice02_Icepit__bigMapSingle",
+   "name": "Maps/rel_Ice02_Icepit/bigMapSingle",
+   "sheet": {
+    "h": 145,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice02_Icepit__mapName",
+   "name": "Maps/rel_Ice02_Icepit/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice02_Icepit__miniMap",
+   "name": "Maps/rel_Ice02_Icepit/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice02_Icepit__miniMapSingle",
+   "name": "Maps/rel_Ice02_Icepit/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice03_Valley__bigMap",
+   "name": "Maps/rel_Ice03_Valley/bigMap",
+   "sheet": {
+    "h": 377,
+    "w": 365
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice03_Valley__bigMapSingle",
+   "name": "Maps/rel_Ice03_Valley/bigMapSingle",
+   "sheet": {
+    "h": 377,
+    "w": 365
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice03_Valley__miniMap",
+   "name": "Maps/rel_Ice03_Valley/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice03_Valley__miniMapSingle",
+   "name": "Maps/rel_Ice03_Valley/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice04_Twist__bigMap",
+   "name": "Maps/rel_Ice04_Twist/bigMap",
+   "sheet": {
+    "h": 145,
+    "w": 488
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice04_Twist__bigMapSingle",
+   "name": "Maps/rel_Ice04_Twist/bigMapSingle",
+   "sheet": {
+    "h": 145,
+    "w": 488
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice04_Twist__miniMap",
+   "name": "Maps/rel_Ice04_Twist/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice04_Twist__miniMapSingle",
+   "name": "Maps/rel_Ice04_Twist/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice05_Twobridge__bigMap",
+   "name": "Maps/rel_Ice05_Twobridge/bigMap",
+   "sheet": {
+    "h": 261,
+    "w": 481
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice05_Twobridge__bigMapSingle",
+   "name": "Maps/rel_Ice05_Twobridge/bigMapSingle",
+   "sheet": {
+    "h": 261,
+    "w": 481
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice05_Twobridge__miniMap",
+   "name": "Maps/rel_Ice05_Twobridge/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice05_Twobridge__miniMapSingle",
+   "name": "Maps/rel_Ice05_Twobridge/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice06_Container__bigMap",
+   "name": "Maps/rel_Ice06_Container/bigMap",
+   "sheet": {
+    "h": 155,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice06_Container__bigMapSingle",
+   "name": "Maps/rel_Ice06_Container/bigMapSingle",
+   "sheet": {
+    "h": 155,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice06_Container__miniMap",
+   "name": "Maps/rel_Ice06_Container/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice06_Container__miniMapSingle",
+   "name": "Maps/rel_Ice06_Container/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice07_Santavillage__bigMap",
+   "name": "Maps/rel_Ice07_Santavillage/bigMap",
+   "sheet": {
+    "h": 178,
+    "w": 455
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice07_Santavillage__bigMapSingle",
+   "name": "Maps/rel_Ice07_Santavillage/bigMapSingle",
+   "sheet": {
+    "h": 178,
+    "w": 455
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice07_Santavillage__miniMap",
+   "name": "Maps/rel_Ice07_Santavillage/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Ice07_Santavillage__miniMapSingle",
+   "name": "Maps/rel_Ice07_Santavillage/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump02_rooftop__bigMap",
+   "name": "Maps/rel_jump02_rooftop/bigMap",
+   "sheet": {
+    "h": 335,
+    "w": 341
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump02_rooftop__bigMapSingle",
+   "name": "Maps/rel_jump02_rooftop/bigMapSingle",
+   "sheet": {
+    "h": 335,
+    "w": 341
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump02_rooftop__miniMap",
+   "name": "Maps/rel_jump02_rooftop/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump02_rooftop__miniMapSingle",
+   "name": "Maps/rel_jump02_rooftop/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump03_pangpang__bigMap",
+   "name": "Maps/rel_jump03_pangpang/bigMap",
+   "sheet": {
+    "h": 216,
+    "w": 492
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump03_pangpang__bigMapSingle",
+   "name": "Maps/rel_jump03_pangpang/bigMapSingle",
+   "sheet": {
+    "h": 216,
+    "w": 492
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump03_pangpang__mapName",
+   "name": "Maps/rel_jump03_pangpang/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump03_pangpang__miniMap",
+   "name": "Maps/rel_jump03_pangpang/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_jump03_pangpang__miniMapSingle",
+   "name": "Maps/rel_jump03_pangpang/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_bubble_bomb__bigMap",
+   "name": "Maps/rel_mission_bubble_bomb/bigMap",
+   "sheet": {
+    "h": 380,
+    "w": 370
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_bubble_bomb__miniMap",
+   "name": "Maps/rel_mission_bubble_bomb/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_bubble_shotgun__bigMap",
+   "name": "Maps/rel_mission_bubble_shotgun/bigMap",
+   "sheet": {
+    "h": 245,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_bubble_shotgun__miniMap",
+   "name": "Maps/rel_mission_bubble_shotgun/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_roll__bigMap",
+   "name": "Maps/rel_mission_roll/bigMap",
+   "sheet": {
+    "h": 380,
+    "w": 370
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_roll__miniMap",
+   "name": "Maps/rel_mission_roll/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_roll_lv1__bigMap",
+   "name": "Maps/rel_mission_roll_lv1/bigMap",
+   "sheet": {
+    "h": 320,
+    "w": 484
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_roll_lv1__miniMap",
+   "name": "Maps/rel_mission_roll_lv1/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_wall__bigMap",
+   "name": "Maps/rel_mission_wall/bigMap",
+   "sheet": {
+    "h": 293,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_mission_wall__miniMap",
+   "name": "Maps/rel_mission_wall/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_NPCpirateclassic02_portVillage__bigMap",
+   "name": "Maps/rel_NPCpirateclassic02_portVillage/bigMap",
+   "sheet": {
+    "h": 373,
+    "w": 374
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_NPCpirateclassic02_portVillage__miniMap",
+   "name": "Maps/rel_NPCpirateclassic02_portVillage/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate01_tear__bigMap",
+   "name": "Maps/rel_pirate01_tear/bigMap",
+   "sheet": {
+    "h": 373,
+    "w": 216
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate01_tear__bigMapSingle",
+   "name": "Maps/rel_pirate01_tear/bigMapSingle",
+   "sheet": {
+    "h": 373,
+    "w": 216
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate01_tear__miniMap",
+   "name": "Maps/rel_pirate01_tear/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate01_tear__miniMapSingle",
+   "name": "Maps/rel_pirate01_tear/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate02_frontal__bigMap",
+   "name": "Maps/rel_pirate02_frontal/bigMap",
+   "sheet": {
+    "h": 314,
+    "w": 477
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate02_frontal__miniMap",
+   "name": "Maps/rel_pirate02_frontal/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate03_prison__bigMap",
+   "name": "Maps/rel_pirate03_prison/bigMap",
+   "sheet": {
+    "h": 369,
+    "w": 459
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate03_prison__miniMap",
+   "name": "Maps/rel_pirate03_prison/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate04_Secret__bigMap",
+   "name": "Maps/rel_pirate04_Secret/bigMap",
+   "sheet": {
+    "h": 183,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate04_Secret__bigMapSingle",
+   "name": "Maps/rel_pirate04_Secret/bigMapSingle",
+   "sheet": {
+    "h": 183,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate04_Secret__miniMap",
+   "name": "Maps/rel_pirate04_Secret/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate04_Secret__miniMapSingle",
+   "name": "Maps/rel_pirate04_Secret/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate05_Dock__bigMap",
+   "name": "Maps/rel_pirate05_Dock/bigMap",
+   "sheet": {
+    "h": 318,
+    "w": 385
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate05_Dock__bigMapSingle",
+   "name": "Maps/rel_pirate05_Dock/bigMapSingle",
+   "sheet": {
+    "h": 318,
+    "w": 385
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate05_Dock__miniMap",
+   "name": "Maps/rel_pirate05_Dock/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate05_Dock__miniMapSingle",
+   "name": "Maps/rel_pirate05_Dock/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate06_Navalbattle__bigMap",
+   "name": "Maps/rel_pirate06_Navalbattle/bigMap",
+   "sheet": {
+    "h": 379,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate06_Navalbattle__bigMapSingle",
+   "name": "Maps/rel_pirate06_Navalbattle/bigMapSingle",
+   "sheet": {
+    "h": 379,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate06_Navalbattle__miniMap",
+   "name": "Maps/rel_pirate06_Navalbattle/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate06_Navalbattle__miniMapSingle",
+   "name": "Maps/rel_pirate06_Navalbattle/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate07_Treasure__bigMap",
+   "name": "Maps/rel_pirate07_Treasure/bigMap",
+   "sheet": {
+    "h": 266,
+    "w": 444
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate07_Treasure__bigMapSingle",
+   "name": "Maps/rel_pirate07_Treasure/bigMapSingle",
+   "sheet": {
+    "h": 266,
+    "w": 444
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate07_Treasure__miniMap",
+   "name": "Maps/rel_pirate07_Treasure/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate07_Treasure__miniMapSingle",
+   "name": "Maps/rel_pirate07_Treasure/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate08_island__bigMap",
+   "name": "Maps/rel_pirate08_island/bigMap",
+   "sheet": {
+    "h": 371,
+    "w": 384
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_pirate08_island__miniMap",
+   "name": "Maps/rel_pirate08_island/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing01_Extreme__bigmap_01",
+   "name": "Maps/rel_Racing01_Extreme/bigmap_01",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing01_Extreme__bigmap_02",
+   "name": "Maps/rel_Racing01_Extreme/bigmap_02",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing01_Extreme__bigmap_03",
+   "name": "Maps/rel_Racing01_Extreme/bigmap_03",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing01_Extreme__bigmap_04",
+   "name": "Maps/rel_Racing01_Extreme/bigmap_04",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing01_Extreme__bigmap_05",
+   "name": "Maps/rel_Racing01_Extreme/bigmap_05",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing02_Extreme__bigmap_01",
+   "name": "Maps/rel_Racing02_Extreme/bigmap_01",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing02_Extreme__bigmap_02",
+   "name": "Maps/rel_Racing02_Extreme/bigmap_02",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing02_Extreme__bigmap_03",
+   "name": "Maps/rel_Racing02_Extreme/bigmap_03",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing02_Extreme__bigmap_04",
+   "name": "Maps/rel_Racing02_Extreme/bigmap_04",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Racing02_Extreme__bigmap_05",
+   "name": "Maps/rel_Racing02_Extreme/bigmap_05",
+   "sheet": {
+    "h": 378,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship__bigMap",
+   "name": "Maps/rel_Space01_Spaceship/bigMap",
+   "sheet": {
+    "h": 216,
+    "w": 472
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship__bigMapSingle",
+   "name": "Maps/rel_Space01_Spaceship/bigMapSingle",
+   "sheet": {
+    "h": 216,
+    "w": 472
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship__miniMap",
+   "name": "Maps/rel_Space01_Spaceship/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship__miniMapSingle",
+   "name": "Maps/rel_Space01_Spaceship/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship_Lavi__bigMap",
+   "name": "Maps/rel_Space01_Spaceship_Lavi/bigMap",
+   "sheet": {
+    "h": 216,
+    "w": 472
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship_Lavi__bigMapSingle",
+   "name": "Maps/rel_Space01_Spaceship_Lavi/bigMapSingle",
+   "sheet": {
+    "h": 216,
+    "w": 472
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship_Lavi__miniMap",
+   "name": "Maps/rel_Space01_Spaceship_Lavi/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space01_Spaceship_Lavi__miniMapSingle",
+   "name": "Maps/rel_Space01_Spaceship_Lavi/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space02_Station__bigMap",
+   "name": "Maps/rel_Space02_Station/bigMap",
+   "sheet": {
+    "h": 210,
+    "w": 441
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space02_Station__bigMapSingle",
+   "name": "Maps/rel_Space02_Station/bigMapSingle",
+   "sheet": {
+    "h": 210,
+    "w": 441
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space02_Station__miniMap",
+   "name": "Maps/rel_Space02_Station/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space02_Station__miniMapSingle",
+   "name": "Maps/rel_Space02_Station/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space03_Garage__bigMap",
+   "name": "Maps/rel_Space03_Garage/bigMap",
+   "sheet": {
+    "h": 249,
+    "w": 478
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space03_Garage__bigMapSingle",
+   "name": "Maps/rel_Space03_Garage/bigMapSingle",
+   "sheet": {
+    "h": 249,
+    "w": 478
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space03_Garage__miniMap",
+   "name": "Maps/rel_Space03_Garage/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Space03_Garage__miniMapSingle",
+   "name": "Maps/rel_Space03_Garage/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_space04_64room__bigMap",
+   "name": "Maps/rel_space04_64room/bigMap",
+   "sheet": {
+    "h": 372,
+    "w": 372
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_space04_64room__miniMap",
+   "name": "Maps/rel_space04_64room/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium02_Dome__bigMap",
+   "name": "Maps/rel_Stadium02_Dome/bigMap",
+   "sheet": {
+    "h": 226,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium02_Dome__bigMapSingle",
+   "name": "Maps/rel_Stadium02_Dome/bigMapSingle",
+   "sheet": {
+    "h": 226,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium02_Dome__mapName",
+   "name": "Maps/rel_Stadium02_Dome/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium02_Dome__miniMap",
+   "name": "Maps/rel_Stadium02_Dome/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium02_Dome__miniMapSingle",
+   "name": "Maps/rel_Stadium02_Dome/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium03_StardustArena__bigMap",
+   "name": "Maps/rel_Stadium03_StardustArena/bigMap",
+   "sheet": {
+    "h": 376,
+    "w": 375
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium03_StardustArena__bigMapSingle",
+   "name": "Maps/rel_Stadium03_StardustArena/bigMapSingle",
+   "sheet": {
+    "h": 376,
+    "w": 375
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium03_StardustArena__mapName",
+   "name": "Maps/rel_Stadium03_StardustArena/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium03_StardustArena__miniMap",
+   "name": "Maps/rel_Stadium03_StardustArena/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium03_StardustArena__miniMapSingle",
+   "name": "Maps/rel_Stadium03_StardustArena/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium04_Extreme__bigMap",
+   "name": "Maps/rel_Stadium04_Extreme/bigMap",
+   "sheet": {
+    "h": 224,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium04_Extreme__bigMapSingle",
+   "name": "Maps/rel_Stadium04_Extreme/bigMapSingle",
+   "sheet": {
+    "h": 224,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium04_Extreme__miniMap",
+   "name": "Maps/rel_Stadium04_Extreme/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium04_Extreme__miniMapSingle",
+   "name": "Maps/rel_Stadium04_Extreme/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium05_hill__bigMap",
+   "name": "Maps/rel_Stadium05_hill/bigMap",
+   "sheet": {
+    "h": 189,
+    "w": 475
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium05_hill__bigMapSingle",
+   "name": "Maps/rel_Stadium05_hill/bigMapSingle",
+   "sheet": {
+    "h": 189,
+    "w": 475
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium05_hill__miniMap",
+   "name": "Maps/rel_Stadium05_hill/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium05_hill__miniMapSingle",
+   "name": "Maps/rel_Stadium05_hill/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium06_Aqua__bigMap",
+   "name": "Maps/rel_Stadium06_Aqua/bigMap",
+   "sheet": {
+    "h": 230,
+    "w": 440
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium06_Aqua__bigMapSingle",
+   "name": "Maps/rel_Stadium06_Aqua/bigMapSingle",
+   "sheet": {
+    "h": 230,
+    "w": 440
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium06_Aqua__miniMap",
+   "name": "Maps/rel_Stadium06_Aqua/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium06_Aqua__miniMapSingle",
+   "name": "Maps/rel_Stadium06_Aqua/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium07_Seven__bigMap",
+   "name": "Maps/rel_Stadium07_Seven/bigMap",
+   "sheet": {
+    "h": 369,
+    "w": 369
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium07_Seven__bigMapSingle",
+   "name": "Maps/rel_Stadium07_Seven/bigMapSingle",
+   "sheet": {
+    "h": 369,
+    "w": 369
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium07_Seven__miniMap",
+   "name": "Maps/rel_Stadium07_Seven/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium07_Seven__miniMapSingle",
+   "name": "Maps/rel_Stadium07_Seven/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium08_rollerSkate__bigMap",
+   "name": "Maps/rel_Stadium08_rollerSkate/bigMap",
+   "sheet": {
+    "h": 185,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium08_rollerSkate__bigMapSingle",
+   "name": "Maps/rel_Stadium08_rollerSkate/bigMapSingle",
+   "sheet": {
+    "h": 185,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium08_rollerSkate__miniMap",
+   "name": "Maps/rel_Stadium08_rollerSkate/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium08_rollerSkate__miniMapSingle",
+   "name": "Maps/rel_Stadium08_rollerSkate/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium09_beachSkate__bigMap",
+   "name": "Maps/rel_Stadium09_beachSkate/bigMap",
+   "sheet": {
+    "h": 159,
+    "w": 486
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium09_beachSkate__bigMapSingle",
+   "name": "Maps/rel_Stadium09_beachSkate/bigMapSingle",
+   "sheet": {
+    "h": 159,
+    "w": 486
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium09_beachSkate__miniMap",
+   "name": "Maps/rel_Stadium09_beachSkate/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Stadium09_beachSkate__miniMapSingle",
+   "name": "Maps/rel_Stadium09_beachSkate/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_trainingRoom01__bigMap",
+   "name": "Maps/rel_trainingRoom01/bigMap",
+   "sheet": {
+    "h": 368,
+    "w": 408
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_trainingRoom01__miniMap",
+   "name": "Maps/rel_trainingRoom01/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Tutorial_01__bigMap",
+   "name": "Maps/rel_Tutorial_01/bigMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Tutorial_01__miniMap",
+   "name": "Maps/rel_Tutorial_01/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village00_boomhill__bigMap",
+   "name": "Maps/rel_Village00_boomhill/bigMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village01_Byway__bigMap",
+   "name": "Maps/rel_Village01_Byway/bigMap",
+   "sheet": {
+    "h": 380,
+    "w": 436
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village01_Byway__bigMapSingle",
+   "name": "Maps/rel_Village01_Byway/bigMapSingle",
+   "sheet": {
+    "h": 380,
+    "w": 436
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village01_Byway__mapName",
+   "name": "Maps/rel_Village01_Byway/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village01_Byway__miniMap",
+   "name": "Maps/rel_Village01_Byway/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village01_Byway__miniMapSingle",
+   "name": "Maps/rel_Village01_Byway/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village02_waterPark__bigMap",
+   "name": "Maps/rel_Village02_waterPark/bigMap",
+   "sheet": {
+    "h": 259,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village02_waterPark__bigMapSingle",
+   "name": "Maps/rel_Village02_waterPark/bigMapSingle",
+   "sheet": {
+    "h": 259,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village02_waterPark__mapName",
+   "name": "Maps/rel_Village02_waterPark/mapName",
+   "sheet": {
+    "h": 18,
+    "w": 158
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village02_waterPark__miniMap",
+   "name": "Maps/rel_Village02_waterPark/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village02_waterPark__miniMapSingle",
+   "name": "Maps/rel_Village02_waterPark/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village03_CityHall__bigMap",
+   "name": "Maps/rel_Village03_CityHall/bigMap",
+   "sheet": {
+    "h": 205,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village03_CityHall__bigMapSingle",
+   "name": "Maps/rel_Village03_CityHall/bigMapSingle",
+   "sheet": {
+    "h": 205,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village03_CityHall__miniMap",
+   "name": "Maps/rel_Village03_CityHall/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village03_CityHall__miniMapSingle",
+   "name": "Maps/rel_Village03_CityHall/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village04_Station__bigMap",
+   "name": "Maps/rel_Village04_Station/bigMap",
+   "sheet": {
+    "h": 214,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village04_Station__bigMapSingle",
+   "name": "Maps/rel_Village04_Station/bigMapSingle",
+   "sheet": {
+    "h": 214,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village04_Station__miniMap",
+   "name": "Maps/rel_Village04_Station/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village04_Station__miniMapSingle",
+   "name": "Maps/rel_Village04_Station/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village05_Playground__bigMap",
+   "name": "Maps/rel_Village05_Playground/bigMap",
+   "sheet": {
+    "h": 186,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village05_Playground__bigMapSingle",
+   "name": "Maps/rel_Village05_Playground/bigMapSingle",
+   "sheet": {
+    "h": 186,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village05_Playground__miniMap",
+   "name": "Maps/rel_Village05_Playground/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village05_Playground__miniMapSingle",
+   "name": "Maps/rel_Village05_Playground/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village06_CirclePark__bigMap",
+   "name": "Maps/rel_Village06_CirclePark/bigMap",
+   "sheet": {
+    "h": 214,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village06_CirclePark__bigMapSingle",
+   "name": "Maps/rel_Village06_CirclePark/bigMapSingle",
+   "sheet": {
+    "h": 214,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village06_CirclePark__miniMap",
+   "name": "Maps/rel_Village06_CirclePark/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village06_CirclePark__miniMapSingle",
+   "name": "Maps/rel_Village06_CirclePark/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village07_Easy02__bigMap",
+   "name": "Maps/rel_Village07_Easy02/bigMap",
+   "sheet": {
+    "h": 183,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village07_Easy02__bigMapSingle",
+   "name": "Maps/rel_Village07_Easy02/bigMapSingle",
+   "sheet": {
+    "h": 183,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village07_Easy02__miniMap",
+   "name": "Maps/rel_Village07_Easy02/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village07_Easy02__miniMapSingle",
+   "name": "Maps/rel_Village07_Easy02/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_village08_daohouse__bigMap",
+   "name": "Maps/rel_village08_daohouse/bigMap",
+   "sheet": {
+    "h": 268,
+    "w": 492
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_village08_daohouse__bigMapSingle",
+   "name": "Maps/rel_village08_daohouse/bigMapSingle",
+   "sheet": {
+    "h": 268,
+    "w": 492
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_village08_daohouse__miniMap",
+   "name": "Maps/rel_village08_daohouse/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_village08_daohouse__miniMapSingle",
+   "name": "Maps/rel_village08_daohouse/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village09_Parking__bigMap",
+   "name": "Maps/rel_Village09_Parking/bigMap",
+   "sheet": {
+    "h": 266,
+    "w": 420
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village09_Parking__bigMapSingle",
+   "name": "Maps/rel_Village09_Parking/bigMapSingle",
+   "sheet": {
+    "h": 266,
+    "w": 420
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village09_Parking__miniMap",
+   "name": "Maps/rel_Village09_Parking/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village09_Parking__miniMapSingle",
+   "name": "Maps/rel_Village09_Parking/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village11_Cafe__bigMap",
+   "name": "Maps/rel_Village11_Cafe/bigMap",
+   "sheet": {
+    "h": 220,
+    "w": 489
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village11_Cafe__bigMapSingle",
+   "name": "Maps/rel_Village11_Cafe/bigMapSingle",
+   "sheet": {
+    "h": 220,
+    "w": 489
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village11_Cafe__miniMap",
+   "name": "Maps/rel_Village11_Cafe/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village11_Cafe__miniMapSingle",
+   "name": "Maps/rel_Village11_Cafe/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village12_Pool__bigMap",
+   "name": "Maps/rel_Village12_Pool/bigMap",
+   "sheet": {
+    "h": 240,
+    "w": 480
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village12_Pool__bigMapSingle",
+   "name": "Maps/rel_Village12_Pool/bigMapSingle",
+   "sheet": {
+    "h": 240,
+    "w": 480
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village12_Pool__miniMap",
+   "name": "Maps/rel_Village12_Pool/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village12_Pool__miniMapSingle",
+   "name": "Maps/rel_Village12_Pool/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village13_gardenShop__bigMap",
+   "name": "Maps/rel_Village13_gardenShop/bigMap",
+   "sheet": {
+    "h": 193,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village13_gardenShop__bigMapSingle",
+   "name": "Maps/rel_Village13_gardenShop/bigMapSingle",
+   "sheet": {
+    "h": 193,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village13_gardenShop__miniMap",
+   "name": "Maps/rel_Village13_gardenShop/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_Village13_gardenShop__miniMapSingle",
+   "name": "Maps/rel_Village13_gardenShop/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie02_Twobridge__bigMap",
+   "name": "Maps/rel_zombie02_Twobridge/bigMap",
+   "sheet": {
+    "h": 203,
+    "w": 453
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie02_Twobridge__miniMap",
+   "name": "Maps/rel_zombie02_Twobridge/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie03_Circle__bigMap",
+   "name": "Maps/rel_zombie03_Circle/bigMap",
+   "sheet": {
+    "h": 373,
+    "w": 422
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie03_Circle__miniMap",
+   "name": "Maps/rel_zombie03_Circle/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie03_Circle_bomb__bigMap",
+   "name": "Maps/rel_zombie03_Circle_bomb/bigMap",
+   "sheet": {
+    "h": 373,
+    "w": 422
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie03_Circle_bomb__miniMap",
+   "name": "Maps/rel_zombie03_Circle_bomb/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie04_1_Oneway__bigMap",
+   "name": "Maps/rel_zombie04_1_Oneway/bigMap",
+   "sheet": {
+    "h": 327,
+    "w": 490
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie04_1_Oneway__miniMap",
+   "name": "Maps/rel_zombie04_1_Oneway/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie05_Tear__bigMap",
+   "name": "Maps/rel_zombie05_Tear/bigMap",
+   "sheet": {
+    "h": 373,
+    "w": 216
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie05_Tear__miniMap",
+   "name": "Maps/rel_zombie05_Tear/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie06_Frontal__bigMap",
+   "name": "Maps/rel_zombie06_Frontal/bigMap",
+   "sheet": {
+    "h": 379,
+    "w": 283
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie06_Frontal__miniMap",
+   "name": "Maps/rel_zombie06_Frontal/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie08_AnubisTomb__bigMap",
+   "name": "Maps/rel_zombie08_AnubisTomb/bigMap",
+   "sheet": {
+    "h": 334,
+    "w": 374
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie08_AnubisTomb__miniMap",
+   "name": "Maps/rel_zombie08_AnubisTomb/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie09_backStreet__bigMap",
+   "name": "Maps/rel_zombie09_backStreet/bigMap",
+   "sheet": {
+    "h": 365,
+    "w": 412
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie09_backStreet__miniMap",
+   "name": "Maps/rel_zombie09_backStreet/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie10_cave__bigMap",
+   "name": "Maps/rel_zombie10_cave/bigMap",
+   "sheet": {
+    "h": 361,
+    "w": 437
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie10_cave__miniMap",
+   "name": "Maps/rel_zombie10_cave/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie_01__bigMap",
+   "name": "Maps/rel_zombie_01/bigMap",
+   "sheet": {
+    "h": 363,
+    "w": 277
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie_01__miniMap",
+   "name": "Maps/rel_zombie_01/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie_01_bomb__bigMap",
+   "name": "Maps/rel_zombie_01_bomb/bigMap",
+   "sheet": {
+    "h": 363,
+    "w": 277
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombie_01_bomb__miniMap",
+   "name": "Maps/rel_zombie_01_bomb/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieEscape01_pyramid__bigMap",
+   "name": "Maps/rel_zombieEscape01_pyramid/bigMap",
+   "sheet": {
+    "h": 438,
+    "w": 475
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieEscape01_pyramid__bigMapSingle",
+   "name": "Maps/rel_zombieEscape01_pyramid/bigMapSingle",
+   "sheet": {
+    "h": 438,
+    "w": 475
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieEscape01_pyramid__miniMap",
+   "name": "Maps/rel_zombieEscape01_pyramid/miniMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieEscape02_village__bigMap",
+   "name": "Maps/rel_zombieEscape02_village/bigMap",
+   "sheet": {
+    "h": 368,
+    "w": 344
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieEscape02_village__miniMap",
+   "name": "Maps/rel_zombieEscape02_village/miniMap",
+   "sheet": {
+    "h": 368,
+    "w": 344
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieEscape02_village__miniMapSingle",
+   "name": "Maps/rel_zombieEscape02_village/miniMapSingle",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieSpeed02_beanstalk__bigMap",
+   "name": "Maps/rel_zombieSpeed02_beanstalk/bigMap",
+   "sheet": {
+    "h": 218,
+    "w": 488
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Maps__rel_zombieSpeed02_beanstalk__bigMapSingle",
+   "name": "Maps/rel_zombieSpeed02_beanstalk/bigMapSingle",
+   "sheet": {
+    "h": 218,
+    "w": 488
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_droneBox",
+   "name": "Minimap/Area32_MiniMap_droneBox",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_gasBig",
+   "name": "Minimap/Area32_MiniMap_gasBig",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_gasMini",
+   "name": "Minimap/Area32_MiniMap_gasMini",
+   "sheet": {
+    "h": 31,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_sphere01",
+   "name": "Minimap/Area32_MiniMap_sphere01",
+   "sheet": {
+    "h": 400,
+    "w": 400
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_sphere01_s",
+   "name": "Minimap/Area32_MiniMap_sphere01_s",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_sphere01_ss",
+   "name": "Minimap/Area32_MiniMap_sphere01_ss",
+   "sheet": {
+    "h": 30,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_sphere02",
+   "name": "Minimap/Area32_MiniMap_sphere02",
+   "sheet": {
+    "h": 400,
+    "w": 400
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_sphere02_s",
+   "name": "Minimap/Area32_MiniMap_sphere02_s",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Area32_MiniMap_sphere02_ss",
+   "name": "Minimap/Area32_MiniMap_sphere02_ss",
+   "sheet": {
+    "h": 30,
+    "w": 30
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__background",
+   "name": "Minimap/background",
+   "sheet": {
+    "h": 151,
+    "w": 159
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Blue",
+   "name": "Minimap/Blue",
+   "sheet": {
+    "h": 13,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Blue-Framed",
+   "name": "Minimap/Blue-Framed",
+   "sheet": {
+    "h": 15,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Blue-Help",
+   "name": "Minimap/Blue-Help",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Blue-Me",
+   "name": "Minimap/Blue-Me",
+   "sheet": {
+    "h": 27,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Blue-Pang",
+   "name": "Minimap/Blue-Pang",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Blue-Rescue",
+   "name": "Minimap/Blue-Rescue",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_01Blue",
+   "name": "Minimap/ControlPoint_01Blue",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_01Empty",
+   "name": "Minimap/ControlPoint_01Empty",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_01Red",
+   "name": "Minimap/ControlPoint_01Red",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_02Blue",
+   "name": "Minimap/ControlPoint_02Blue",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_02empty",
+   "name": "Minimap/ControlPoint_02empty",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_02Red",
+   "name": "Minimap/ControlPoint_02Red",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_03Blue",
+   "name": "Minimap/ControlPoint_03Blue",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_03empty",
+   "name": "Minimap/ControlPoint_03empty",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ControlPoint_03Red",
+   "name": "Minimap/ControlPoint_03Red",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp01_B",
+   "name": "Minimap/cp01_B",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp01_R",
+   "name": "Minimap/cp01_R",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp01_Y",
+   "name": "Minimap/cp01_Y",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp02_B",
+   "name": "Minimap/cp02_B",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp02_R",
+   "name": "Minimap/cp02_R",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp02_Y",
+   "name": "Minimap/cp02_Y",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp03_B",
+   "name": "Minimap/cp03_B",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp03_R",
+   "name": "Minimap/cp03_R",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp03_Y",
+   "name": "Minimap/cp03_Y",
+   "sheet": {
+    "h": 33,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__cp_ring",
+   "name": "Minimap/cp_ring",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__electronic1",
+   "name": "Minimap/electronic1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__electronic2",
+   "name": "Minimap/electronic2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Frame",
+   "name": "Minimap/Frame",
+   "sheet": {
+    "h": 151,
+    "w": 159
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__FrameFighter",
+   "name": "Minimap/FrameFighter",
+   "sheet": {
+    "h": 151,
+    "w": 159
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__FrameZombie",
+   "name": "Minimap/FrameZombie",
+   "sheet": {
+    "h": 151,
+    "w": 159
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__green",
+   "name": "Minimap/green",
+   "sheet": {
+    "h": 13,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__green_guardian",
+   "name": "Minimap/green_guardian",
+   "sheet": {
+    "h": 17,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__pirateAssault_miniMapLine01",
+   "name": "Minimap/pirateAssault_miniMapLine01",
+   "sheet": {
+    "h": 440,
+    "w": 496
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__pirateAssault_miniMapLine02",
+   "name": "Minimap/pirateAssault_miniMapLine02",
+   "sheet": {
+    "h": 440,
+    "w": 496
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__pirateAssault_miniMapLine03",
+   "name": "Minimap/pirateAssault_miniMapLine03",
+   "sheet": {
+    "h": 440,
+    "w": 496
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__piratesAssult_alert",
+   "name": "Minimap/piratesAssult_alert",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__piratesAssult_gate",
+   "name": "Minimap/piratesAssult_gate",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Red",
+   "name": "Minimap/Red",
+   "sheet": {
+    "h": 13,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Red-Framed",
+   "name": "Minimap/Red-Framed",
+   "sheet": {
+    "h": 15,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Red-Help",
+   "name": "Minimap/Red-Help",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Red-Me",
+   "name": "Minimap/Red-Me",
+   "sheet": {
+    "h": 27,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Red-Pang",
+   "name": "Minimap/Red-Pang",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Red-Rescue",
+   "name": "Minimap/Red-Rescue",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__smartPing_enemy",
+   "name": "Minimap/smartPing_enemy",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__smartPing_enemyMine",
+   "name": "Minimap/smartPing_enemyMine",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__smartPing_item",
+   "name": "Minimap/smartPing_item",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__smartPing_itemMine",
+   "name": "Minimap/smartPing_itemMine",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__smartPing_spot",
+   "name": "Minimap/smartPing_spot",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__smartPing_spotMine",
+   "name": "Minimap/smartPing_spotMine",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__SoccerBall",
+   "name": "Minimap/SoccerBall",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Survival_MapIcon_Revenge01",
+   "name": "Minimap/Survival_MapIcon_Revenge01",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__Survival_MapIcon_Revenge02",
+   "name": "Minimap/Survival_MapIcon_Revenge02",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__yellow",
+   "name": "Minimap/yellow",
+   "sheet": {
+    "h": 13,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ZombieArmy_MiniMapBoss",
+   "name": "Minimap/ZombieArmy_MiniMapBoss",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ZombieArmy_MiniMapStone",
+   "name": "Minimap/ZombieArmy_MiniMapStone",
+   "sheet": {
+    "h": 22,
+    "w": 22
+   }
+  },
+  {
+   "atlas": true,
+   "first": {
+    "h": 58,
+    "w": 58,
+    "x": 1,
+    "y": 1
+   },
+   "frames": 2,
+   "id": "Minimap__ZombieArmyMinimapIcon00",
+   "name": "Minimap/ZombieArmyMinimapIcon00",
+   "sheet": {
+    "h": 120,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "Minimap__ZombieArmyMinimapIcon02",
+   "name": "Minimap/ZombieArmyMinimapIcon02",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "040_map",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "맵 미리보기, 미니맵"
+}

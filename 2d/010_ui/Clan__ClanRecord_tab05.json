@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 25,
+   "index": 0,
+   "w": 68,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 25,
+   "index": 1,
+   "w": 68,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 25,
+   "index": 2,
+   "w": 68,
+   "x": 1,
+   "y": 55
+  },
+  {
+   "h": 25,
+   "index": 3,
+   "w": 68,
+   "x": 1,
+   "y": 82
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Clan/ClanRecord_tab05",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Clan__ClanRecord_tab05.png",
+  "h": 108,
+  "w": 70
+ }
+}

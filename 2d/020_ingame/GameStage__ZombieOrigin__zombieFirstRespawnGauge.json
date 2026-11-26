@@ -1,0 +1,69 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 153,
+   "index": 0,
+   "origin": {
+    "x": 294,
+    "y": 112
+   },
+   "w": 312,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 153,
+   "index": 1,
+   "origin": {
+    "x": 294,
+    "y": 112
+   },
+   "w": 312,
+   "x": 1,
+   "y": 156
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "origin": {
+    "x": 277,
+    "y": 0
+   },
+   "w": 278,
+   "x": 1,
+   "y": 311
+  },
+  {
+   "h": 18,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 0
+   },
+   "w": 2,
+   "x": 281,
+   "y": 311
+  },
+  {
+   "h": 153,
+   "index": 4,
+   "origin": {
+    "x": 294,
+    "y": 112
+   },
+   "w": 312,
+   "x": 1,
+   "y": 331
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ZombieOrigin/zombieFirstRespawnGauge",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ZombieOrigin__zombieFirstRespawnGauge.png",
+  "h": 485,
+  "w": 314
+ }
+}

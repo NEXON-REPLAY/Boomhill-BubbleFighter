@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 12,
+   "index": 0,
+   "w": 13,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 1,
+   "w": 5,
+   "x": 17,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 2,
+   "w": 13,
+   "x": 25,
+   "y": 1
+  },
+  {
+   "h": 5,
+   "index": 3,
+   "w": 13,
+   "x": 1,
+   "y": 16
+  },
+  {
+   "h": 5,
+   "index": 4,
+   "w": 5,
+   "x": 17,
+   "y": 16
+  },
+  {
+   "h": 5,
+   "index": 5,
+   "w": 13,
+   "x": 25,
+   "y": 16
+  },
+  {
+   "h": 12,
+   "index": 6,
+   "w": 13,
+   "x": 1,
+   "y": 24
+  },
+  {
+   "h": 12,
+   "index": 7,
+   "w": 5,
+   "x": 17,
+   "y": 24
+  },
+  {
+   "h": 12,
+   "index": 8,
+   "w": 13,
+   "x": 25,
+   "y": 24
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Tabkey/PlaneMyStatus",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Tabkey__PlaneMyStatus.png",
+  "h": 37,
+  "w": 39
+ }
+}

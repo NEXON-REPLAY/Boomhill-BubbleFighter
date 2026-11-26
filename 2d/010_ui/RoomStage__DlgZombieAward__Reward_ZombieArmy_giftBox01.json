@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 218,
+   "index": 0,
+   "w": 180,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 218,
+   "index": 1,
+   "w": 180,
+   "x": 1,
+   "y": 221
+  },
+  {
+   "h": 218,
+   "index": 2,
+   "w": 180,
+   "x": 1,
+   "y": 441
+  },
+  {
+   "h": 218,
+   "index": 3,
+   "w": 180,
+   "x": 1,
+   "y": 661
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgZombieAward/Reward_ZombieArmy_giftBox01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgZombieAward__Reward_ZombieArmy_giftBox01.png",
+  "h": 880,
+  "w": 182
+ }
+}

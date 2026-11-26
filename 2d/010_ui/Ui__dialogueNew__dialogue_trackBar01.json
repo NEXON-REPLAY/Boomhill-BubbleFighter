@@ -1,0 +1,70 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 18,
+   "index": 0,
+   "w": 4,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 1,
+   "w": 1,
+   "x": 6,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "w": 4,
+   "x": 8,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 3,
+   "w": 9,
+   "x": 13,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 4,
+   "w": 9,
+   "x": 23,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 5,
+   "w": 9,
+   "x": 33,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 6,
+   "w": 1,
+   "x": 43,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 7,
+   "w": 1,
+   "x": 45,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/dialogueNew/dialogue_trackBar01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__dialogueNew__dialogue_trackBar01.png",
+  "h": 20,
+  "w": 47
+ }
+}

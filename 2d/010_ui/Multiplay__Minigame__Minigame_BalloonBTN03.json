@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 43,
+   "index": 0,
+   "w": 100,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 43,
+   "index": 1,
+   "w": 100,
+   "x": 1,
+   "y": 46
+  },
+  {
+   "h": 43,
+   "index": 2,
+   "w": 100,
+   "x": 1,
+   "y": 91
+  },
+  {
+   "h": 43,
+   "index": 3,
+   "w": 100,
+   "x": 1,
+   "y": 136
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/Minigame/Minigame_BalloonBTN03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__Minigame__Minigame_BalloonBTN03.png",
+  "h": 180,
+  "w": 102
+ }
+}

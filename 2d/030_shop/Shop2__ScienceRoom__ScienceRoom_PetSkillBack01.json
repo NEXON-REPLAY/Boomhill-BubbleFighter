@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 37,
+   "index": 0,
+   "w": 33,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 37,
+   "index": 1,
+   "w": 1,
+   "x": 37,
+   "y": 1
+  },
+  {
+   "h": 37,
+   "index": 2,
+   "w": 33,
+   "x": 41,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 33,
+   "x": 1,
+   "y": 41
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 37,
+   "y": 41
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 33,
+   "x": 41,
+   "y": 41
+  },
+  {
+   "h": 32,
+   "index": 6,
+   "w": 33,
+   "x": 1,
+   "y": 45
+  },
+  {
+   "h": 32,
+   "index": 7,
+   "w": 1,
+   "x": 37,
+   "y": 45
+  },
+  {
+   "h": 32,
+   "index": 8,
+   "w": 33,
+   "x": 41,
+   "y": 45
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_PetSkillBack01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_PetSkillBack01.png",
+  "h": 78,
+  "w": 75
+ }
+}

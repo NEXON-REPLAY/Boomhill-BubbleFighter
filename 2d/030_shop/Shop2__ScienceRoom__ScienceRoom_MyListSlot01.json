@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 168,
+   "index": 0,
+   "w": 160,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 168,
+   "index": 1,
+   "w": 160,
+   "x": 1,
+   "y": 171
+  },
+  {
+   "h": 168,
+   "index": 2,
+   "w": 160,
+   "x": 1,
+   "y": 341
+  },
+  {
+   "h": 168,
+   "index": 3,
+   "w": 160,
+   "x": 1,
+   "y": 511
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_MyListSlot01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_MyListSlot01.png",
+  "h": 680,
+  "w": 162
+ }
+}

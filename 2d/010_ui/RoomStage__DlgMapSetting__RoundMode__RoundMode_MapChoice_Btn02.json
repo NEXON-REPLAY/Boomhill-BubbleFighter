@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 55,
+   "index": 0,
+   "w": 390,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 55,
+   "index": 1,
+   "w": 390,
+   "x": 1,
+   "y": 58
+  },
+  {
+   "h": 55,
+   "index": 2,
+   "w": 390,
+   "x": 1,
+   "y": 115
+  },
+  {
+   "h": 55,
+   "index": 3,
+   "w": 390,
+   "x": 1,
+   "y": 172
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgMapSetting/RoundMode/RoundMode_MapChoice_Btn02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgMapSetting__RoundMode__RoundMode_MapChoice_Btn02.png",
+  "h": 228,
+  "w": 392
+ }
+}

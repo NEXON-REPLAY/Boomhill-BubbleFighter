@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 13,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 13,
+   "x": 16,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Party/PartyMarkSmall08",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Party__PartyMarkSmall08.png",
+  "h": 26,
+  "w": 30
+ }
+}

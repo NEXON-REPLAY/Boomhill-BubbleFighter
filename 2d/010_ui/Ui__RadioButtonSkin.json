@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 14,
+   "index": 0,
+   "w": 14,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 1,
+   "w": 14,
+   "x": 17,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 2,
+   "w": 14,
+   "x": 33,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 3,
+   "w": 14,
+   "x": 49,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/RadioButtonSkin",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__RadioButtonSkin.png",
+  "h": 16,
+  "w": 64
+ }
+}

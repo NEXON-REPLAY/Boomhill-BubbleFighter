@@ -1,0 +1,283 @@
+{
+ "face": {
+  "frames": {
+   "f00.png": "_shared/faces/f00_1cc59c.png",
+   "f01.png": "_shared/faces/f01_0808ac.png",
+   "f03.png": "_shared/faces/f03_e2609b.png",
+   "f04.png": "_shared/faces/f04_2bc44b.png",
+   "f05.png": "_shared/faces/f05_5e9b70.png",
+   "f06.png": "_shared/faces/f06_ad0902.png",
+   "f07.png": "_shared/faces/f07_f2a571.png"
+  },
+  "timelines": {
+   "pis-basic-respawn": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     1.9667,
+     "f01.png"
+    ],
+    [
+     2.6333,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-runF": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-stand": [
+    [
+     0.0,
+     "f01.png"
+    ]
+   ],
+   "pis-basic-stop": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-emotion-angry": [
+    [
+     0.0,
+     "f03.png"
+    ],
+    [
+     0.2333,
+     "f04.png"
+    ]
+   ],
+   "pis-emotion-cry": [
+    [
+     0.0,
+     "f06.png"
+    ]
+   ],
+   "pis-emotion-happy": [
+    [
+     0.0,
+     "f05.png"
+    ],
+    [
+     0.6667,
+     "f01.png"
+    ],
+    [
+     1.1667,
+     "f05.png"
+    ],
+    [
+     3.3333,
+     "f01.png"
+    ],
+    [
+     3.8333,
+     "f05.png"
+    ],
+    [
+     6.0667,
+     "f01.png"
+    ],
+    [
+     6.5667,
+     "f05.png"
+    ]
+   ],
+   "pis-emotion-thanks": [
+    [
+     0.0,
+     "f05.png"
+    ],
+    [
+     2.9667,
+     "f07.png"
+    ],
+    [
+     3.2333,
+     "f05.png"
+    ],
+    [
+     4.0667,
+     "f07.png"
+    ],
+    [
+     4.3,
+     "f05.png"
+    ]
+   ],
+   "pis-result-draw1": [
+    [
+     0.0,
+     "f03.png"
+    ],
+    [
+     0.2333,
+     "f04.png"
+    ]
+   ],
+   "pis-result-draw2": [
+    [
+     0.0,
+     "f06.png"
+    ]
+   ],
+   "pis-result-draw3": [
+    [
+     0.0,
+     "f03.png"
+    ],
+    [
+     0.2333,
+     "f04.png"
+    ]
+   ],
+   "pis-result-draw4": [
+    [
+     0.0,
+     "f06.png"
+    ]
+   ],
+   "pis-result-lose1": [
+    [
+     0.0,
+     "f03.png"
+    ],
+    [
+     0.2333,
+     "f04.png"
+    ]
+   ],
+   "pis-result-lose2": [
+    [
+     0.0,
+     "f06.png"
+    ]
+   ],
+   "pis-result-lose3": [
+    [
+     0.0,
+     "f03.png"
+    ],
+    [
+     0.2333,
+     "f04.png"
+    ]
+   ],
+   "pis-result-lose4": [
+    [
+     0.0,
+     "f06.png"
+    ]
+   ],
+   "pis-result-win1": [
+    [
+     0.0,
+     "f05.png"
+    ],
+    [
+     2.9667,
+     "f07.png"
+    ],
+    [
+     3.2333,
+     "f05.png"
+    ],
+    [
+     4.0667,
+     "f07.png"
+    ],
+    [
+     4.3,
+     "f05.png"
+    ]
+   ],
+   "pis-result-win2": [
+    [
+     0.0,
+     "f05.png"
+    ],
+    [
+     0.6667,
+     "f01.png"
+    ],
+    [
+     1.1667,
+     "f05.png"
+    ],
+    [
+     3.3333,
+     "f01.png"
+    ],
+    [
+     3.8333,
+     "f05.png"
+    ],
+    [
+     6.0667,
+     "f01.png"
+    ],
+    [
+     6.5667,
+     "f05.png"
+    ]
+   ],
+   "pis-result-win3": [
+    [
+     0.0,
+     "f05.png"
+    ],
+    [
+     2.9667,
+     "f07.png"
+    ],
+    [
+     3.2333,
+     "f05.png"
+    ],
+    [
+     4.0667,
+     "f07.png"
+    ],
+    [
+     4.3,
+     "f05.png"
+    ]
+   ],
+   "pis-result-win4": [
+    [
+     0.0,
+     "f05.png"
+    ],
+    [
+     0.6667,
+     "f01.png"
+    ],
+    [
+     1.1667,
+     "f05.png"
+    ],
+    [
+     3.3333,
+     "f01.png"
+    ],
+    [
+     3.8333,
+     "f05.png"
+    ],
+    [
+     6.0667,
+     "f01.png"
+    ],
+    [
+     6.5667,
+     "f05.png"
+    ]
+   ]
+  }
+ }
+}

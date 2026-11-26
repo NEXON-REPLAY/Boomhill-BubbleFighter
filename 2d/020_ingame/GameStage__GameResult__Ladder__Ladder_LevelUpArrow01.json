@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 26,
+   "index": 0,
+   "w": 25,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 1,
+   "w": 25,
+   "x": 1,
+   "y": 29
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/Ladder/Ladder_LevelUpArrow01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__Ladder__Ladder_LevelUpArrow01.png",
+  "h": 56,
+  "w": 27
+ }
+}

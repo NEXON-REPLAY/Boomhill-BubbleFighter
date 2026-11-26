@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 82,
+   "index": 0,
+   "w": 76,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 82,
+   "index": 1,
+   "w": 76,
+   "x": 79,
+   "y": 1
+  },
+  {
+   "h": 82,
+   "index": 2,
+   "w": 76,
+   "x": 157,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/SingleStarRanking/Zombie/myStateIconZombie",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__SingleStarRanking__Zombie__myStateIconZombie.png",
+  "h": 84,
+  "w": 234
+ }
+}

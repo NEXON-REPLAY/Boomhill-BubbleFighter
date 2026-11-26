@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 57,
+   "index": 0,
+   "w": 68,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 57,
+   "index": 1,
+   "w": 68,
+   "x": 1,
+   "y": 60
+  },
+  {
+   "h": 57,
+   "index": 2,
+   "w": 68,
+   "x": 1,
+   "y": 119
+  },
+  {
+   "h": 57,
+   "index": 3,
+   "w": 68,
+   "x": 1,
+   "y": 178
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/ClanWar/multiplay_tabClan",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__ClanWar__multiplay_tabClan.png",
+  "h": 236,
+  "w": 70
+ }
+}

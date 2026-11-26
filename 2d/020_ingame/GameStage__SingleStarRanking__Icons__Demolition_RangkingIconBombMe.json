@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 28,
+   "index": 0,
+   "w": 28,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 28,
+   "index": 1,
+   "w": 28,
+   "x": 31,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/SingleStarRanking/Icons/Demolition_RangkingIconBombMe",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__SingleStarRanking__Icons__Demolition_RangkingIconBombMe.png",
+  "h": 30,
+  "w": 60
+ }
+}

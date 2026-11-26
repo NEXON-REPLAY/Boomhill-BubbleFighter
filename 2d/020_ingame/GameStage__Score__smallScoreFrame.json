@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 41,
+   "index": 0,
+   "w": 60,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 41,
+   "index": 1,
+   "w": 60,
+   "x": 1,
+   "y": 44
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Score/smallScoreFrame",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Score__smallScoreFrame.png",
+  "h": 86,
+  "w": 62
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 48,
+   "index": 0,
+   "w": 56,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 48,
+   "index": 1,
+   "w": 56,
+   "x": 1,
+   "y": 51
+  },
+  {
+   "h": 48,
+   "index": 2,
+   "w": 56,
+   "x": 1,
+   "y": 101
+  },
+  {
+   "h": 48,
+   "index": 3,
+   "w": 56,
+   "x": 1,
+   "y": 151
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/Social/Social_Good01_Btn01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__Social__Social_Good01_Btn01.png",
+  "h": 200,
+  "w": 58
+ }
+}

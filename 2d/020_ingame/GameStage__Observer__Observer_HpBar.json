@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 23,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "w": 101,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 23,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "w": 101,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 21,
+   "index": 2,
+   "w": 99,
+   "x": 1,
+   "y": 51
+  },
+  {
+   "h": 21,
+   "index": 3,
+   "w": 1,
+   "x": 102,
+   "y": 51
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Observer/Observer_HpBar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Observer__Observer_HpBar.png",
+  "h": 73,
+  "w": 104
+ }
+}

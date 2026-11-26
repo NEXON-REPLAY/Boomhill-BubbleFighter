@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 55,
+   "index": 0,
+   "w": 12,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 55,
+   "index": 1,
+   "w": 1,
+   "x": 16,
+   "y": 1
+  },
+  {
+   "h": 55,
+   "index": 2,
+   "w": 12,
+   "x": 20,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_MyCardBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_MyCardBack.png",
+  "h": 57,
+  "w": 33
+ }
+}

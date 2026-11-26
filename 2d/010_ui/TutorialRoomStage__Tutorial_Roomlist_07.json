@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 45,
+   "index": 0,
+   "w": 339,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 45,
+   "index": 1,
+   "w": 339,
+   "x": 1,
+   "y": 48
+  },
+  {
+   "h": 45,
+   "index": 2,
+   "w": 339,
+   "x": 1,
+   "y": 95
+  },
+  {
+   "h": 45,
+   "index": 3,
+   "w": 339,
+   "x": 1,
+   "y": 142
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TutorialRoomStage/Tutorial_Roomlist_07",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TutorialRoomStage__Tutorial_Roomlist_07.png",
+  "h": 188,
+  "w": 341
+ }
+}

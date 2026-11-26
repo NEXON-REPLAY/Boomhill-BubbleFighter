@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 28,
+   "index": 0,
+   "w": 12,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 28,
+   "index": 1,
+   "w": 1,
+   "x": 16,
+   "y": 1
+  },
+  {
+   "h": 28,
+   "index": 2,
+   "w": 12,
+   "x": 20,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/LetsRun/LetsRun_nickRank02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__LetsRun__LetsRun_nickRank02.png",
+  "h": 30,
+  "w": 33
+ }
+}

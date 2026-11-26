@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 8,
+   "index": 0,
+   "w": 11,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 8,
+   "index": 1,
+   "w": 2,
+   "x": 15,
+   "y": 1
+  },
+  {
+   "h": 8,
+   "index": 2,
+   "w": 11,
+   "x": 20,
+   "y": 1
+  },
+  {
+   "h": 2,
+   "index": 3,
+   "w": 11,
+   "x": 1,
+   "y": 12
+  },
+  {
+   "h": 2,
+   "index": 4,
+   "w": 2,
+   "x": 15,
+   "y": 12
+  },
+  {
+   "h": 2,
+   "index": 5,
+   "w": 11,
+   "x": 20,
+   "y": 12
+  },
+  {
+   "h": 8,
+   "index": 6,
+   "w": 11,
+   "x": 1,
+   "y": 17
+  },
+  {
+   "h": 8,
+   "index": 7,
+   "w": 2,
+   "x": 15,
+   "y": 17
+  },
+  {
+   "h": 8,
+   "index": 8,
+   "w": 11,
+   "x": 20,
+   "y": 17
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/NamePanelBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__NamePanelBack.png",
+  "h": 26,
+  "w": 32
+ }
+}

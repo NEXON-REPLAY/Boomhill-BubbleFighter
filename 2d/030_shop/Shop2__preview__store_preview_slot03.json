@@ -1,0 +1,56 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 89,
+   "index": 0,
+   "w": 82,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 89,
+   "index": 1,
+   "w": 82,
+   "x": 1,
+   "y": 92
+  },
+  {
+   "h": 89,
+   "index": 2,
+   "w": 82,
+   "x": 1,
+   "y": 183
+  },
+  {
+   "h": 89,
+   "index": 3,
+   "w": 82,
+   "x": 1,
+   "y": 274
+  },
+  {
+   "h": 89,
+   "index": 4,
+   "w": 82,
+   "x": 1,
+   "y": 365
+  },
+  {
+   "h": 89,
+   "index": 5,
+   "w": 82,
+   "x": 1,
+   "y": 456
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/preview/store_preview_slot03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__preview__store_preview_slot03.png",
+  "h": 546,
+  "w": 84
+ }
+}

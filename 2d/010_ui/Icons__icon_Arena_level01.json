@@ -1,0 +1,63 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 36,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 36,
+   "x": 39,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 36,
+   "x": 77,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 3,
+   "w": 36,
+   "x": 115,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 4,
+   "w": 36,
+   "x": 153,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 5,
+   "w": 36,
+   "x": 191,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 6,
+   "w": 36,
+   "x": 229,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Icons/icon_Arena_level01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Icons__icon_Arena_level01.png",
+  "h": 26,
+  "w": 266
+ }
+}

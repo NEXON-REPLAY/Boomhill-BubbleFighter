@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 17,
+   "index": 0,
+   "w": 17,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 1,
+   "w": 1,
+   "x": 21,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 2,
+   "w": 17,
+   "x": 25,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 17,
+   "x": 1,
+   "y": 21
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 21,
+   "y": 21
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 17,
+   "x": 25,
+   "y": 21
+  },
+  {
+   "h": 17,
+   "index": 6,
+   "w": 17,
+   "x": 1,
+   "y": 25
+  },
+  {
+   "h": 17,
+   "index": 7,
+   "w": 1,
+   "x": 21,
+   "y": 25
+  },
+  {
+   "h": 17,
+   "index": 8,
+   "w": 17,
+   "x": 25,
+   "y": 25
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_Back06",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_Back06.png",
+  "h": 43,
+  "w": 43
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 17,
+   "index": 0,
+   "w": 14,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 1,
+   "w": 14,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 17,
+   "index": 2,
+   "w": 14,
+   "x": 1,
+   "y": 39
+  },
+  {
+   "h": 17,
+   "index": 3,
+   "w": 14,
+   "x": 1,
+   "y": 58
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/multiplay_arrow_right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__multiplay_arrow_right.png",
+  "h": 76,
+  "w": 16
+ }
+}

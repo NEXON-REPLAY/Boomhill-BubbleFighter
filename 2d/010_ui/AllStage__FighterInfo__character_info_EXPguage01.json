@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 19,
+   "index": 0,
+   "w": 2,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 19,
+   "index": 1,
+   "w": 1,
+   "x": 6,
+   "y": 1
+  },
+  {
+   "h": 19,
+   "index": 2,
+   "w": 2,
+   "x": 10,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "AllStage/FighterInfo/character_info_EXPguage01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "AllStage__FighterInfo__character_info_EXPguage01.png",
+  "h": 21,
+  "w": 13
+ }
+}

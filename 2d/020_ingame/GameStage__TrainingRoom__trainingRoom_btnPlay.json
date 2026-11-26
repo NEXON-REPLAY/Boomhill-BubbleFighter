@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 26,
+   "index": 0,
+   "w": 26,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 1,
+   "w": 26,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 26,
+   "index": 2,
+   "w": 26,
+   "x": 1,
+   "y": 55
+  },
+  {
+   "h": 26,
+   "index": 3,
+   "w": 26,
+   "x": 1,
+   "y": 82
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/TrainingRoom/trainingRoom_btnPlay",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__TrainingRoom__trainingRoom_btnPlay.png",
+  "h": 109,
+  "w": 28
+ }
+}

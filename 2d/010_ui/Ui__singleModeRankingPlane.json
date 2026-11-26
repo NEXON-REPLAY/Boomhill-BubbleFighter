@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 48,
+   "index": 0,
+   "w": 10,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 48,
+   "index": 1,
+   "w": 8,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 48,
+   "index": 2,
+   "w": 12,
+   "x": 25,
+   "y": 1
+  },
+  {
+   "h": 4,
+   "index": 3,
+   "w": 10,
+   "x": 1,
+   "y": 52
+  },
+  {
+   "h": 4,
+   "index": 4,
+   "w": 8,
+   "x": 14,
+   "y": 52
+  },
+  {
+   "h": 4,
+   "index": 5,
+   "w": 12,
+   "x": 25,
+   "y": 52
+  },
+  {
+   "h": 12,
+   "index": 6,
+   "w": 10,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 12,
+   "index": 7,
+   "w": 8,
+   "x": 14,
+   "y": 59
+  },
+  {
+   "h": 12,
+   "index": 8,
+   "w": 12,
+   "x": 25,
+   "y": 59
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/singleModeRankingPlane",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__singleModeRankingPlane.png",
+  "h": 72,
+  "w": 38
+ }
+}

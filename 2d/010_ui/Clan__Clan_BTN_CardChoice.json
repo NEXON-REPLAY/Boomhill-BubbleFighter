@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 82,
+   "index": 0,
+   "w": 192,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 82,
+   "index": 1,
+   "w": 192,
+   "x": 1,
+   "y": 85
+  },
+  {
+   "h": 82,
+   "index": 2,
+   "w": 192,
+   "x": 1,
+   "y": 169
+  },
+  {
+   "h": 82,
+   "index": 3,
+   "w": 192,
+   "x": 1,
+   "y": 253
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Clan/Clan_BTN_CardChoice",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Clan__Clan_BTN_CardChoice.png",
+  "h": 336,
+  "w": 194
+ }
+}

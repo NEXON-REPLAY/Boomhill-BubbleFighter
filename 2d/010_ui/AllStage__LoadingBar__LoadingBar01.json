@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 14,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 2
+   },
+   "w": 202,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 2
+   },
+   "w": 202,
+   "x": 1,
+   "y": 17
+  },
+  {
+   "h": 10,
+   "index": 2,
+   "w": 198,
+   "x": 1,
+   "y": 33
+  },
+  {
+   "h": 10,
+   "index": 3,
+   "w": 1,
+   "x": 201,
+   "y": 33
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "AllStage/LoadingBar/LoadingBar01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "AllStage__LoadingBar__LoadingBar01.png",
+  "h": 44,
+  "w": 204
+ }
+}

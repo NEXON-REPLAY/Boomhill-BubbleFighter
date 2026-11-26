@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 84,
+   "index": 0,
+   "w": 1,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 84,
+   "index": 1,
+   "w": 1,
+   "x": 5,
+   "y": 1
+  },
+  {
+   "h": 84,
+   "index": 2,
+   "w": 1,
+   "x": 9,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TaskBar/Task_bar_back",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TaskBar__Task_bar_back.png",
+  "h": 86,
+  "w": 11
+ }
+}

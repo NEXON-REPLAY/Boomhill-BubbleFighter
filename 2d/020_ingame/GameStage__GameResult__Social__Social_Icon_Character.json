@@ -1,0 +1,126 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 35,
+   "index": 0,
+   "w": 42,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 35,
+   "index": 1,
+   "w": 42,
+   "x": 45,
+   "y": 1
+  },
+  {
+   "h": 35,
+   "index": 2,
+   "w": 42,
+   "x": 89,
+   "y": 1
+  },
+  {
+   "h": 35,
+   "index": 3,
+   "w": 42,
+   "x": 133,
+   "y": 1
+  },
+  {
+   "h": 35,
+   "index": 4,
+   "w": 42,
+   "x": 1,
+   "y": 38
+  },
+  {
+   "h": 35,
+   "index": 5,
+   "w": 42,
+   "x": 45,
+   "y": 38
+  },
+  {
+   "h": 35,
+   "index": 6,
+   "w": 42,
+   "x": 89,
+   "y": 38
+  },
+  {
+   "h": 35,
+   "index": 7,
+   "w": 42,
+   "x": 133,
+   "y": 38
+  },
+  {
+   "h": 35,
+   "index": 8,
+   "w": 42,
+   "x": 1,
+   "y": 75
+  },
+  {
+   "h": 35,
+   "index": 9,
+   "w": 42,
+   "x": 45,
+   "y": 75
+  },
+  {
+   "h": 35,
+   "index": 10,
+   "w": 42,
+   "x": 89,
+   "y": 75
+  },
+  {
+   "h": 35,
+   "index": 11,
+   "w": 42,
+   "x": 133,
+   "y": 75
+  },
+  {
+   "h": 35,
+   "index": 12,
+   "w": 42,
+   "x": 1,
+   "y": 112
+  },
+  {
+   "h": 35,
+   "index": 13,
+   "w": 42,
+   "x": 45,
+   "y": 112
+  },
+  {
+   "h": 35,
+   "index": 14,
+   "w": 42,
+   "x": 89,
+   "y": 112
+  },
+  {
+   "h": 35,
+   "index": 15,
+   "w": 42,
+   "x": 133,
+   "y": 112
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/Social/Social_Icon_Character",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__Social__Social_Icon_Character.png",
+  "h": 148,
+  "w": 176
+ }
+}

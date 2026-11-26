@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 15,
+   "index": 0,
+   "w": 15,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 15,
+   "index": 1,
+   "w": 15,
+   "x": 18,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Prologue/Ingame_Skeleton",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Prologue__Ingame_Skeleton.png",
+  "h": 17,
+  "w": 34
+ }
+}

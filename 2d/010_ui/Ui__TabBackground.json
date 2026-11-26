@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 59,
+   "index": 0,
+   "w": 13,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 59,
+   "index": 1,
+   "w": 6,
+   "x": 17,
+   "y": 1
+  },
+  {
+   "h": 59,
+   "index": 2,
+   "w": 16,
+   "x": 26,
+   "y": 1
+  },
+  {
+   "h": 58,
+   "index": 3,
+   "w": 13,
+   "x": 1,
+   "y": 63
+  },
+  {
+   "h": 58,
+   "index": 4,
+   "w": 6,
+   "x": 17,
+   "y": 63
+  },
+  {
+   "h": 58,
+   "index": 5,
+   "w": 16,
+   "x": 26,
+   "y": 63
+  },
+  {
+   "h": 50,
+   "index": 6,
+   "w": 13,
+   "x": 1,
+   "y": 124
+  },
+  {
+   "h": 50,
+   "index": 7,
+   "w": 6,
+   "x": 17,
+   "y": 124
+  },
+  {
+   "h": 50,
+   "index": 8,
+   "w": 16,
+   "x": 26,
+   "y": 124
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/TabBackground",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__TabBackground.png",
+  "h": 175,
+  "w": 43
+ }
+}

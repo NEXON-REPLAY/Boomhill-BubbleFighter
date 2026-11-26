@@ -1,0 +1,70 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 149,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 149,
+   "x": 1,
+   "y": 27
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 149,
+   "x": 1,
+   "y": 53
+  },
+  {
+   "h": 24,
+   "index": 3,
+   "w": 149,
+   "x": 1,
+   "y": 79
+  },
+  {
+   "h": 24,
+   "index": 4,
+   "w": 149,
+   "x": 1,
+   "y": 105
+  },
+  {
+   "h": 24,
+   "index": 5,
+   "w": 149,
+   "x": 1,
+   "y": 131
+  },
+  {
+   "h": 24,
+   "index": 6,
+   "w": 149,
+   "x": 1,
+   "y": 157
+  },
+  {
+   "h": 24,
+   "index": 7,
+   "w": 149,
+   "x": 1,
+   "y": 183
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Prologue/Ingame_ScoreText",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Prologue__Ingame_ScoreText.png",
+  "h": 208,
+  "w": 151
+ }
+}

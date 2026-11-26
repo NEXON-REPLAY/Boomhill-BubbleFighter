@@ -1,0 +1,76 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 119,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 106
+   },
+   "w": 120,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 119,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 106
+   },
+   "w": 120,
+   "x": 123,
+   "y": 1
+  },
+  {
+   "h": 97,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 96
+   },
+   "w": 97,
+   "x": 1,
+   "y": 122
+  },
+  {
+   "h": 97,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 96
+   },
+   "w": 97,
+   "x": 100,
+   "y": 122
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 97,
+   "x": 1,
+   "y": 221
+  },
+  {
+   "h": 119,
+   "index": 5,
+   "origin": {
+    "x": 11,
+    "y": 106
+   },
+   "w": 120,
+   "x": 1,
+   "y": 224
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/NPC/Defence_EngelHp01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__NPC__Defence_EngelHp01.png",
+  "h": 344,
+  "w": 244
+ }
+}

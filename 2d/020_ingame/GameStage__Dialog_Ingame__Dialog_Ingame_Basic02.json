@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 7,
+   "index": 0,
+   "w": 7,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 7,
+   "index": 1,
+   "w": 1,
+   "x": 9,
+   "y": 1
+  },
+  {
+   "h": 7,
+   "index": 2,
+   "w": 7,
+   "x": 11,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 7,
+   "x": 1,
+   "y": 9
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 9,
+   "y": 9
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 7,
+   "x": 11,
+   "y": 9
+  },
+  {
+   "h": 7,
+   "index": 6,
+   "w": 7,
+   "x": 1,
+   "y": 11
+  },
+  {
+   "h": 7,
+   "index": 7,
+   "w": 1,
+   "x": 9,
+   "y": 11
+  },
+  {
+   "h": 7,
+   "index": 8,
+   "w": 7,
+   "x": 11,
+   "y": 11
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Dialog_Ingame/Dialog_Ingame_Basic02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Dialog_Ingame__Dialog_Ingame_Basic02.png",
+  "h": 19,
+  "w": 19
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 6,
+    "y": 2
+   },
+   "w": 209,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 2
+   },
+   "w": 209,
+   "x": 1,
+   "y": 43
+  },
+  {
+   "h": 31,
+   "index": 2,
+   "w": 182,
+   "x": 1,
+   "y": 85
+  },
+  {
+   "h": 31,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 0
+   },
+   "w": 2,
+   "x": 185,
+   "y": 85
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Captain/Captain_FeverGauge",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Captain__Captain_FeverGauge.png",
+  "h": 117,
+  "w": 211
+ }
+}

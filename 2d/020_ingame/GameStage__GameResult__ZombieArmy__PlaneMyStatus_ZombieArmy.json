@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 39,
+   "index": 0,
+   "w": 26,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 39,
+   "index": 1,
+   "w": 11,
+   "x": 30,
+   "y": 1
+  },
+  {
+   "h": 39,
+   "index": 2,
+   "w": 26,
+   "x": 44,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/ZombieArmy/PlaneMyStatus_ZombieArmy",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__ZombieArmy__PlaneMyStatus_ZombieArmy.png",
+  "h": 41,
+  "w": 71
+ }
+}

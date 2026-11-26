@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 159,
+   "index": 0,
+   "w": 159,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 159,
+   "index": 1,
+   "w": 159,
+   "x": 1,
+   "y": 162
+  },
+  {
+   "h": 159,
+   "index": 2,
+   "w": 159,
+   "x": 1,
+   "y": 323
+  },
+  {
+   "h": 159,
+   "index": 3,
+   "w": 159,
+   "x": 1,
+   "y": 484
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_SynthesisSlot04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_SynthesisSlot04.png",
+  "h": 644,
+  "w": 161
+ }
+}

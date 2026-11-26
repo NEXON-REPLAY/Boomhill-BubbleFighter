@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 24,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 24,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 24,
+   "x": 1,
+   "y": 51
+  },
+  {
+   "h": 24,
+   "index": 3,
+   "w": 24,
+   "x": 1,
+   "y": 76
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/cupStore/cupStore_btnClose",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__cupStore__cupStore_btnClose.png",
+  "h": 101,
+  "w": 26
+ }
+}

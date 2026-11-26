@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 28,
+   "index": 0,
+   "w": 28,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 28,
+   "index": 1,
+   "w": 28,
+   "x": 1,
+   "y": 31
+  },
+  {
+   "h": 28,
+   "index": 2,
+   "w": 28,
+   "x": 1,
+   "y": 61
+  },
+  {
+   "h": 28,
+   "index": 3,
+   "w": 28,
+   "x": 1,
+   "y": 91
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/Social/Social_ListClose",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__Social__Social_ListClose.png",
+  "h": 120,
+  "w": 30
+ }
+}

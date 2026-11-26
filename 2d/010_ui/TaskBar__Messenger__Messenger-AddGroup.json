@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 84,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 84,
+   "x": 1,
+   "y": 27
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 84,
+   "x": 1,
+   "y": 53
+  },
+  {
+   "h": 24,
+   "index": 3,
+   "w": 84,
+   "x": 1,
+   "y": 79
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TaskBar/Messenger/Messenger-AddGroup",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TaskBar__Messenger__Messenger-AddGroup.png",
+  "h": 104,
+  "w": 86
+ }
+}

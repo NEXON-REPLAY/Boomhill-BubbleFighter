@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 193,
+   "index": 0,
+   "w": 233,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 193,
+   "index": 1,
+   "w": 233,
+   "x": 1,
+   "y": 196
+  },
+  {
+   "h": 193,
+   "index": 2,
+   "w": 233,
+   "x": 1,
+   "y": 391
+  },
+  {
+   "h": 193,
+   "index": 3,
+   "w": 233,
+   "x": 1,
+   "y": 586
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgZombieAward/Reward_ZombieArmy_SBox01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgZombieAward__Reward_ZombieArmy_SBox01.png",
+  "h": 780,
+  "w": 235
+ }
+}

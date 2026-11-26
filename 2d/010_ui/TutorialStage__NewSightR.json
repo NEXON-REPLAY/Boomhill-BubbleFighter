@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 240,
+   "index": 0,
+   "w": 337,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 240,
+   "index": 1,
+   "w": 337,
+   "x": 340,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TutorialStage/NewSightR",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TutorialStage__NewSightR.png",
+  "h": 242,
+  "w": 678
+ }
+}

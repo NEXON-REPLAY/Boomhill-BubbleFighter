@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 10,
+   "index": 0,
+   "w": 10,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 10,
+   "index": 1,
+   "w": 1,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 10,
+   "index": 2,
+   "w": 21,
+   "x": 18,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 3,
+   "w": 10,
+   "x": 1,
+   "y": 14
+  },
+  {
+   "h": 14,
+   "index": 4,
+   "w": 1,
+   "x": 14,
+   "y": 14
+  },
+  {
+   "h": 14,
+   "index": 5,
+   "w": 21,
+   "x": 18,
+   "y": 14
+  },
+  {
+   "h": 11,
+   "index": 6,
+   "w": 10,
+   "x": 1,
+   "y": 31
+  },
+  {
+   "h": 11,
+   "index": 7,
+   "w": 1,
+   "x": 14,
+   "y": 31
+  },
+  {
+   "h": 11,
+   "index": 8,
+   "w": 21,
+   "x": 18,
+   "y": 31
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/ChatBalloon/ImgChatBalloon02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__ChatBalloon__ImgChatBalloon02.png",
+  "h": 43,
+  "w": 40
+ }
+}

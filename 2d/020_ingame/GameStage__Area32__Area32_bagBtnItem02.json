@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 56,
+   "index": 0,
+   "w": 84,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 56,
+   "index": 1,
+   "w": 84,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 56,
+   "index": 2,
+   "w": 84,
+   "x": 1,
+   "y": 117
+  },
+  {
+   "h": 56,
+   "index": 3,
+   "w": 84,
+   "x": 1,
+   "y": 175
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Area32/Area32_bagBtnItem02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Area32__Area32_bagBtnItem02.png",
+  "h": 232,
+  "w": 86
+ }
+}

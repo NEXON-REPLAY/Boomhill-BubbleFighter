@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 16,
+   "index": 0,
+   "w": 17,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 16,
+   "index": 1,
+   "w": 17,
+   "x": 1,
+   "y": 19
+  },
+  {
+   "h": 16,
+   "index": 2,
+   "w": 17,
+   "x": 1,
+   "y": 37
+  },
+  {
+   "h": 16,
+   "index": 3,
+   "w": 17,
+   "x": 1,
+   "y": 55
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Clan/Clan_BTN_NoticeModify01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Clan__Clan_BTN_NoticeModify01.png",
+  "h": 72,
+  "w": 19
+ }
+}

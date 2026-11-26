@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 27,
+   "index": 0,
+   "w": 72,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 27,
+   "index": 1,
+   "w": 72,
+   "x": 1,
+   "y": 30
+  },
+  {
+   "h": 27,
+   "index": 2,
+   "w": 72,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 27,
+   "index": 3,
+   "w": 72,
+   "x": 1,
+   "y": 88
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TaskBar/Messenger/Messenger-TabBubbleFighter",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TaskBar__Messenger__Messenger-TabBubbleFighter.png",
+  "h": 116,
+  "w": 74
+ }
+}

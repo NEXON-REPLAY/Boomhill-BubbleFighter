@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 11,
+   "index": 0,
+   "w": 4,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 11,
+   "index": 1,
+   "w": 4,
+   "x": 7,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/NewRoom2/RoomStage2_ListPing01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__NewRoom2__RoomStage2_ListPing01.png",
+  "h": 13,
+  "w": 12
+ }
+}

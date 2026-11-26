@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 30,
+   "index": 0,
+   "w": 59,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 30,
+   "index": 1,
+   "w": 59,
+   "x": 1,
+   "y": 33
+  },
+  {
+   "h": 30,
+   "index": 2,
+   "w": 59,
+   "x": 1,
+   "y": 65
+  },
+  {
+   "h": 30,
+   "index": 3,
+   "w": 59,
+   "x": 1,
+   "y": 97
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/Minigame/Fishing_BtnCancel",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__Minigame__Fishing_BtnCancel.png",
+  "h": 128,
+  "w": 61
+ }
+}

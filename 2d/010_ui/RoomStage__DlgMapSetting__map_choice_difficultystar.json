@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 15,
+   "index": 0,
+   "w": 16,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 15,
+   "index": 1,
+   "w": 16,
+   "x": 19,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgMapSetting/map_choice_difficultystar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgMapSetting__map_choice_difficultystar.png",
+  "h": 17,
+  "w": 36
+ }
+}

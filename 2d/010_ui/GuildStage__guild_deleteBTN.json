@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 11,
+   "index": 0,
+   "w": 11,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 11,
+   "index": 1,
+   "w": 11,
+   "x": 1,
+   "y": 14
+  },
+  {
+   "h": 11,
+   "index": 2,
+   "w": 11,
+   "x": 1,
+   "y": 27
+  },
+  {
+   "h": 11,
+   "index": 3,
+   "w": 11,
+   "x": 1,
+   "y": 40
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "GuildStage/guild_deleteBTN",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GuildStage__guild_deleteBTN.png",
+  "h": 52,
+  "w": 13
+ }
+}

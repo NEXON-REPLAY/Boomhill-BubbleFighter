@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 29,
+   "index": 0,
+   "w": 115,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 29,
+   "index": 1,
+   "w": 115,
+   "x": 118,
+   "y": 1
+  },
+  {
+   "h": 29,
+   "index": 2,
+   "w": 115,
+   "x": 235,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/KillStateBoard/ComboState",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__KillStateBoard__ComboState.png",
+  "h": 31,
+  "w": 351
+ }
+}

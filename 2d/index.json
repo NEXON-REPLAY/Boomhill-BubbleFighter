@@ -1,0 +1,42 @@
+{
+ "about": "PC 온라인 3인칭 슈팅 게임 버블파이터의 2D 이미지: UI, 인게임 HUD와 조준선, 상점 아이템 아이콘, 맵 미리보기와 미니맵.",
+ "game": "bubblefighter",
+ "groups": [
+  {
+   "bytes": 84510108,
+   "count": 2300,
+   "frames": 6024,
+   "id": "010_ui",
+   "title": "UI"
+  },
+  {
+   "bytes": 24861058,
+   "count": 1795,
+   "frames": 2968,
+   "id": "020_ingame",
+   "title": "인게임 HUD, 조준, 아이템"
+  },
+  {
+   "bytes": 41737431,
+   "count": 2516,
+   "frames": 3776,
+   "id": "030_shop",
+   "title": "상점, 아이템 아이콘"
+  },
+  {
+   "bytes": 14036188,
+   "count": 429,
+   "frames": 430,
+   "id": "040_map",
+   "title": "맵 미리보기, 미니맵"
+  }
+ ],
+ "schema": "boomhill-open-assets/game/v1",
+ "source_kind": "PC 클라이언트 이미지(Images 폴더)와 스프라이트 세트(.smf) 프레임 정보",
+ "title": "버블파이터",
+ "title_en": "BubbleFighter",
+ "totals": {
+  "assets": 7040,
+  "frames": 13198
+ }
+}

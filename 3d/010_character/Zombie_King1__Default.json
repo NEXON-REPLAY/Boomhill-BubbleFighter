@@ -1,0 +1,42 @@
+{
+ "face": {
+  "frames": {
+   "f00.png": "_shared/faces/f00_11d55d.png",
+   "f01.png": "_shared/faces/f01_e14f7c.png",
+   "f02.png": "_shared/faces/f02_49b52f.png",
+   "f03.png": "_shared/faces/f03_469288.png",
+   "f04.png": "_shared/faces/f04_6fdee9.png",
+   "f05.png": "_shared/faces/f05_3066d9.png",
+   "f06.png": "_shared/faces/f06_0488c1.png",
+   "f07.png": "_shared/faces/f07_2fd95c.png",
+   "f08.png": "_shared/faces/f08_d6f3bb.png",
+   "f09.png": "_shared/faces/f09_41bbba.png"
+  },
+  "timelines": {
+   "pis-basic-dash": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ],
+   "pis-basic-humiliating": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ],
+   "pis-basic-humiliatingEnd": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ],
+   "pis-basic-spawn": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ]
+  }
+ }
+}

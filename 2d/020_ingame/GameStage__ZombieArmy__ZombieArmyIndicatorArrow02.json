@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 2,
+   "index": 0,
+   "w": 6,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 2,
+   "index": 1,
+   "w": 1,
+   "x": 8,
+   "y": 1
+  },
+  {
+   "h": 2,
+   "index": 2,
+   "w": 6,
+   "x": 10,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 6,
+   "x": 1,
+   "y": 4
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 8,
+   "y": 4
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 6,
+   "x": 10,
+   "y": 4
+  },
+  {
+   "h": 2,
+   "index": 6,
+   "w": 6,
+   "x": 1,
+   "y": 6
+  },
+  {
+   "h": 2,
+   "index": 7,
+   "w": 1,
+   "x": 8,
+   "y": 6
+  },
+  {
+   "h": 2,
+   "index": 8,
+   "w": 6,
+   "x": 10,
+   "y": 6
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ZombieArmy/ZombieArmyIndicatorArrow02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ZombieArmy__ZombieArmyIndicatorArrow02.png",
+  "h": 9,
+  "w": 17
+ }
+}

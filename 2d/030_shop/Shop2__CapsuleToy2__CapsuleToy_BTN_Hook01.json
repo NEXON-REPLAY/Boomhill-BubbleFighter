@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 92,
+   "index": 0,
+   "w": 177,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 92,
+   "index": 1,
+   "w": 177,
+   "x": 1,
+   "y": 95
+  },
+  {
+   "h": 92,
+   "index": 2,
+   "w": 177,
+   "x": 1,
+   "y": 189
+  },
+  {
+   "h": 92,
+   "index": 3,
+   "w": 177,
+   "x": 1,
+   "y": 283
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/CapsuleToy2/CapsuleToy_BTN_Hook01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__CapsuleToy2__CapsuleToy_BTN_Hook01.png",
+  "h": 376,
+  "w": 179
+ }
+}

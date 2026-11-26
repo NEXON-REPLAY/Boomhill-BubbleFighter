@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 6,
+   "index": 0,
+   "w": 9,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 6,
+   "index": 1,
+   "w": 1,
+   "x": 11,
+   "y": 1
+  },
+  {
+   "h": 6,
+   "index": 2,
+   "w": 1,
+   "x": 13,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 9,
+   "x": 1,
+   "y": 8
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 11,
+   "y": 8
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 1,
+   "x": 13,
+   "y": 8
+  },
+  {
+   "h": 6,
+   "index": 6,
+   "w": 9,
+   "x": 1,
+   "y": 10
+  },
+  {
+   "h": 6,
+   "index": 7,
+   "w": 1,
+   "x": 11,
+   "y": 10
+  },
+  {
+   "h": 6,
+   "index": 8,
+   "w": 1,
+   "x": 13,
+   "y": 10
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/KillHistoryBoard/PlaneKillHistoryBoard",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__KillHistoryBoard__PlaneKillHistoryBoard.png",
+  "h": 17,
+  "w": 15
+ }
+}

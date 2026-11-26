@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 7,
+   "index": 0,
+   "w": 6,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 7,
+   "index": 1,
+   "w": 1,
+   "x": 10,
+   "y": 1
+  },
+  {
+   "h": 7,
+   "index": 2,
+   "w": 7,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 6,
+   "x": 1,
+   "y": 11
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 10,
+   "y": 11
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 7,
+   "x": 14,
+   "y": 11
+  },
+  {
+   "h": 8,
+   "index": 6,
+   "w": 6,
+   "x": 1,
+   "y": 15
+  },
+  {
+   "h": 8,
+   "index": 7,
+   "w": 1,
+   "x": 10,
+   "y": 15
+  },
+  {
+   "h": 8,
+   "index": 8,
+   "w": 7,
+   "x": 14,
+   "y": 15
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/CapsuleToy/CapsuleToy_back03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__CapsuleToy__CapsuleToy_back03.png",
+  "h": 24,
+  "w": 22
+ }
+}

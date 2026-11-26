@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 17,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "w": 88,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "w": 88,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 12,
+   "index": 2,
+   "w": 84,
+   "x": 1,
+   "y": 39
+  },
+  {
+   "h": 12,
+   "index": 3,
+   "w": 1,
+   "x": 87,
+   "y": 39
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/NamePanelHpBar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__NamePanelHpBar.png",
+  "h": 52,
+  "w": 90
+ }
+}

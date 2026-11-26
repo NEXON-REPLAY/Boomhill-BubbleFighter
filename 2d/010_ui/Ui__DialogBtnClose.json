@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 26,
+   "index": 0,
+   "w": 64,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 1,
+   "w": 64,
+   "x": 1,
+   "y": 29
+  },
+  {
+   "h": 26,
+   "index": 2,
+   "w": 64,
+   "x": 1,
+   "y": 57
+  },
+  {
+   "h": 26,
+   "index": 3,
+   "w": 64,
+   "x": 1,
+   "y": 85
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/DialogBtnClose",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__DialogBtnClose.png",
+  "h": 112,
+  "w": 66
+ }
+}

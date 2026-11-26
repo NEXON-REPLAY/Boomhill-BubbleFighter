@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 38,
+   "index": 0,
+   "w": 38,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 38,
+   "index": 1,
+   "w": 38,
+   "x": 1,
+   "y": 41
+  },
+  {
+   "h": 38,
+   "index": 2,
+   "w": 38,
+   "x": 1,
+   "y": 81
+  },
+  {
+   "h": 38,
+   "index": 3,
+   "w": 38,
+   "x": 1,
+   "y": 121
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/Minigame/Basketball_ShotBtn01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__Minigame__Basketball_ShotBtn01.png",
+  "h": 160,
+  "w": 40
+ }
+}

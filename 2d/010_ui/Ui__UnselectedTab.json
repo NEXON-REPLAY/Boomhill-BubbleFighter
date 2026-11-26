@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 38,
+   "index": 0,
+   "w": 15,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 38,
+   "index": 1,
+   "w": 5,
+   "x": 19,
+   "y": 1
+  },
+  {
+   "h": 38,
+   "index": 2,
+   "w": 18,
+   "x": 27,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/UnselectedTab",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__UnselectedTab.png",
+  "h": 40,
+  "w": 46
+ }
+}

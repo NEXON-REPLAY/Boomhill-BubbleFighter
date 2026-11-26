@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 183,
+   "index": 0,
+   "w": 182,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 183,
+   "index": 1,
+   "w": 182,
+   "x": 1,
+   "y": 186
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/Synthesis/ScienceRoom_Slot04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__Synthesis__ScienceRoom_Slot04.png",
+  "h": 370,
+  "w": 184
+ }
+}

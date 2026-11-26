@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 15,
+   "index": 0,
+   "w": 36,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 15,
+   "index": 1,
+   "w": 36,
+   "x": 1,
+   "y": 18
+  },
+  {
+   "h": 15,
+   "index": 2,
+   "w": 36,
+   "x": 1,
+   "y": 35
+  },
+  {
+   "h": 15,
+   "index": 3,
+   "w": 36,
+   "x": 1,
+   "y": 52
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChatModule/BTN_input_tabbox05",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChatModule__BTN_input_tabbox05.png",
+  "h": 68,
+  "w": 38
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 20,
+   "index": 0,
+   "w": 10,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 20,
+   "index": 1,
+   "w": 1,
+   "x": 12,
+   "y": 1
+  },
+  {
+   "h": 20,
+   "index": 2,
+   "w": 10,
+   "x": 14,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Area32/Area32_skillbarBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Area32__Area32_skillbarBack.png",
+  "h": 22,
+  "w": 25
+ }
+}

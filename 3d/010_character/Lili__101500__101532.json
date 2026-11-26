@@ -1,0 +1,438 @@
+{
+ "face": {
+  "frames": {
+   "f00-01.png": "_shared/faces/f00-01_0cd2ce.png",
+   "f00-02.png": "_shared/faces/f00-02_9ca5cf.png",
+   "f00.png": "_shared/faces/f00_a01f88.png",
+   "f01-01.png": "_shared/faces/f01-01_885b8a.png",
+   "f01-02.png": "_shared/faces/f01-02_1fd5af.png",
+   "f01.png": "_shared/faces/f01_d42b56.png",
+   "f02-01.PNG": "_shared/faces/f02-01_f88eda.png",
+   "f02-01.png": "_shared/faces/f02-01_f88eda.png",
+   "f02-02.png": "_shared/faces/f02-02_cf02d5.png",
+   "f02.png": "_shared/faces/f02_4c75ca.png",
+   "f03-01.png": "_shared/faces/f03-01_a92eee.png",
+   "f03-02.png": "_shared/faces/f03-02_29c2b3.png",
+   "f03.png": "_shared/faces/f03_f521dc.png",
+   "f04.png": "_shared/faces/f04_6f9f72.png",
+   "f05.png": "_shared/faces/f05_032e13.png",
+   "f06-01.png": "_shared/faces/f06-01_6e5a76.png",
+   "f06.png": "_shared/faces/f06_466f7b.png",
+   "f07-01.png": "_shared/faces/f07-01_ce9270.png",
+   "f07.png": "_shared/faces/f07_57e0a8.png",
+   "f08-01.png": "_shared/faces/f08-01_201ece.png",
+   "f08-02.png": "_shared/faces/f08-02_d83216.png",
+   "f08.png": "_shared/faces/f08_7d6245.png",
+   "f09.png": "_shared/faces/f09_babaff.png",
+   "f10-01.png": "_shared/faces/f10-01_eb675c.png",
+   "f10.png": "_shared/faces/f10_0c383f.png",
+   "f11-01.png": "_shared/faces/f11-01_32fefa.png",
+   "f11.png": "_shared/faces/f11_6a6192.png",
+   "f12-01.png": "_shared/faces/f12-01_2e69ef.png",
+   "f12.png": "_shared/faces/f12_604d24.png",
+   "f13-01.png": "_shared/faces/f13-01_2c9433.png",
+   "f13-02.png": "_shared/faces/f13-02_88b1d4.png",
+   "f13.png": "_shared/faces/f13_ca3566.png",
+   "f14.png": "_shared/faces/f14_df850e.png",
+   "f15.png": "_shared/faces/f15_69ff11.png",
+   "f16.png": "_shared/faces/f16_ae5293.png",
+   "f21.png": "_shared/faces/f21_cdadd1.png",
+   "f27.png": "_shared/faces/f27_009eef.png",
+   "f28.png": "_shared/faces/f28_640957.png"
+  },
+  "timelines": {
+   "pis-basic-humiliated": [
+    [
+     0.0,
+     "f14.png"
+    ]
+   ],
+   "pis-basic-humiliating": [
+    [
+     0.0,
+     "f11.png"
+    ]
+   ],
+   "pis-basic-humiliatingEnd": [
+    [
+     0.0,
+     "f11.png"
+    ]
+   ],
+   "pis-basic-jump": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     0.1667,
+     "f01-01.png"
+    ],
+    [
+     0.9667,
+     "f00-02.png"
+    ]
+   ],
+   "pis-basic-onekilled": [
+    [
+     0.0,
+     "f14.png"
+    ]
+   ],
+   "pis-basic-respawn": [
+    [
+     0.0,
+     "f00-02.png"
+    ],
+    [
+     0.9667,
+     "f01-01.png"
+    ]
+   ],
+   "pis-basic-rollB1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollB2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollBL1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollBL2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollBR1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollBR2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollF1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollF2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollFL1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollFL2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollFR1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollFR2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollL1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollL2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollR1": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-rollR2": [
+    [
+     0.0,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-shocked": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ],
+   "pis-basic-slip": [
+    [
+     0.0,
+     "f04.png"
+    ],
+    [
+     0.6333,
+     "f13-01.png"
+    ],
+    [
+     0.8,
+     "f13-02.png"
+    ],
+    [
+     0.9667,
+     "f13.png"
+    ],
+    [
+     1.1333,
+     "f13-01.png"
+    ],
+    [
+     1.3,
+     "f13-02.png"
+    ],
+    [
+     1.4667,
+     "f13.png"
+    ],
+    [
+     1.6333,
+     "f13-01.png"
+    ],
+    [
+     1.8,
+     "f13-02.png"
+    ],
+    [
+     1.9667,
+     "f13.png"
+    ],
+    [
+     2.3,
+     "f13-01.png"
+    ],
+    [
+     2.4667,
+     "f13-02.png"
+    ],
+    [
+     2.6333,
+     "f13.png"
+    ],
+    [
+     2.8,
+     "f13-01.png"
+    ],
+    [
+     2.9667,
+     "f13-02.png"
+    ],
+    [
+     3.1333,
+     "f13.png"
+    ],
+    [
+     3.3,
+     "f13-01.png"
+    ],
+    [
+     3.4667,
+     "f13-02.png"
+    ],
+    [
+     3.6333,
+     "f13.png"
+    ],
+    [
+     3.8,
+     "f13-01.png"
+    ],
+    [
+     3.9667,
+     "f13-02.png"
+    ],
+    [
+     4.1333,
+     "f13.png"
+    ],
+    [
+     4.3,
+     "f13-01.png"
+    ],
+    [
+     4.4667,
+     "f13-02.png"
+    ],
+    [
+     4.6333,
+     "f13.png"
+    ],
+    [
+     4.8,
+     "f13-01.png"
+    ],
+    [
+     4.9667,
+     "f13-02.png"
+    ]
+   ],
+   "pis-basic-snowslip": [
+    [
+     0.0,
+     "f04.png"
+    ],
+    [
+     0.6333,
+     "f13-01.png"
+    ],
+    [
+     0.8,
+     "f13-02.png"
+    ],
+    [
+     0.9667,
+     "f13.png"
+    ],
+    [
+     1.1333,
+     "f13-01.png"
+    ],
+    [
+     1.3,
+     "f13-02.png"
+    ],
+    [
+     1.4667,
+     "f13.png"
+    ],
+    [
+     1.6333,
+     "f13-01.png"
+    ],
+    [
+     1.8,
+     "f13-02.png"
+    ],
+    [
+     1.9667,
+     "f13.png"
+    ],
+    [
+     2.3,
+     "f13-01.png"
+    ],
+    [
+     2.4667,
+     "f13-02.png"
+    ],
+    [
+     2.6333,
+     "f13.png"
+    ],
+    [
+     2.8,
+     "f13-01.png"
+    ],
+    [
+     2.9667,
+     "f13-02.png"
+    ],
+    [
+     3.1333,
+     "f13.png"
+    ],
+    [
+     3.3,
+     "f13-01.png"
+    ],
+    [
+     3.4667,
+     "f13-02.png"
+    ],
+    [
+     3.6333,
+     "f13.png"
+    ],
+    [
+     3.8,
+     "f13-01.png"
+    ],
+    [
+     3.9667,
+     "f13-02.png"
+    ],
+    [
+     4.1333,
+     "f13.png"
+    ],
+    [
+     4.3,
+     "f13-01.png"
+    ],
+    [
+     4.4667,
+     "f13-02.png"
+    ],
+    [
+     4.6333,
+     "f13.png"
+    ],
+    [
+     4.8,
+     "f13-01.png"
+    ],
+    [
+     4.9667,
+     "f13-02.png"
+    ]
+   ],
+   "pis-basic-stand": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     2.1667,
+     "f00-01.png"
+    ],
+    [
+     2.3333,
+     "f00.png"
+    ],
+    [
+     5.7,
+     "f11-01.png"
+    ],
+    [
+     7.2333,
+     "f00.png"
+    ]
+   ]
+  }
+ }
+}

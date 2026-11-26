@@ -1,0 +1,87 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 205,
+   "index": 0,
+   "origin": {
+    "x": 204,
+    "y": 176
+   },
+   "w": 381,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 205,
+   "index": 1,
+   "origin": {
+    "x": 204,
+    "y": 176
+   },
+   "w": 381,
+   "x": 384,
+   "y": 1
+  },
+  {
+   "h": 148,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "w": 148,
+   "x": 1,
+   "y": 208
+  },
+  {
+   "h": 148,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "w": 148,
+   "x": 151,
+   "y": 208
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 148,
+   "x": 1,
+   "y": 358
+  },
+  {
+   "h": 205,
+   "index": 5,
+   "origin": {
+    "x": 204,
+    "y": 176
+   },
+   "w": 381,
+   "x": 1,
+   "y": 361
+  },
+  {
+   "h": 205,
+   "index": 6,
+   "origin": {
+    "x": 204,
+    "y": 176
+   },
+   "w": 381,
+   "x": 384,
+   "y": 361
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/HpGaugeZombieGuage01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__HpGaugeZombieGuage01.png",
+  "h": 567,
+  "w": 766
+ }
+}

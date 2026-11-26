@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 51,
+   "index": 0,
+   "w": 83,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 51,
+   "index": 1,
+   "w": 83,
+   "x": 1,
+   "y": 54
+  },
+  {
+   "h": 51,
+   "index": 2,
+   "w": 83,
+   "x": 1,
+   "y": 107
+  },
+  {
+   "h": 51,
+   "index": 3,
+   "w": 83,
+   "x": 1,
+   "y": 160
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/NewRoom2/RoomStage2_TeamChangeBtnColor06",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__NewRoom2__RoomStage2_TeamChangeBtnColor06.png",
+  "h": 212,
+  "w": 85
+ }
+}

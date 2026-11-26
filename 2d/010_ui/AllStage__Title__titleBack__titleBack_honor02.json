@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 40,
+   "index": 0,
+   "w": 25,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 40,
+   "index": 1,
+   "w": 1,
+   "x": 27,
+   "y": 1
+  },
+  {
+   "h": 40,
+   "index": 2,
+   "w": 25,
+   "x": 29,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "AllStage/Title/titleBack/titleBack_honor02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "AllStage__Title__titleBack__titleBack_honor02.png",
+  "h": 42,
+  "w": 55
+ }
+}

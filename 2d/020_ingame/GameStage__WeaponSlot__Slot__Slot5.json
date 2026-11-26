@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 67,
+   "index": 0,
+   "w": 112,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 47,
+   "index": 1,
+   "w": 78,
+   "x": 1,
+   "y": 70
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/WeaponSlot/Slot/Slot5",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__WeaponSlot__Slot__Slot5.png",
+  "h": 118,
+  "w": 114
+ }
+}

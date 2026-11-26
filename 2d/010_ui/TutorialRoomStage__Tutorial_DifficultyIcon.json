@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 12,
+   "index": 0,
+   "w": 12,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 1,
+   "w": 12,
+   "x": 15,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "TutorialRoomStage/Tutorial_DifficultyIcon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TutorialRoomStage__Tutorial_DifficultyIcon.png",
+  "h": 14,
+  "w": 28
+ }
+}

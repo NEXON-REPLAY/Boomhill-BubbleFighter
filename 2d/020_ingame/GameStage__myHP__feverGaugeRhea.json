@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 30,
+   "index": 0,
+   "origin": {
+    "x": 6,
+    "y": 2
+   },
+   "w": 197,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 2
+   },
+   "w": 197,
+   "x": 1,
+   "y": 33
+  },
+  {
+   "h": 21,
+   "index": 2,
+   "w": 182,
+   "x": 1,
+   "y": 65
+  },
+  {
+   "h": 21,
+   "index": 3,
+   "w": 2,
+   "x": 185,
+   "y": 65
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/myHP/feverGaugeRhea",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__myHP__feverGaugeRhea.png",
+  "h": 87,
+  "w": 199
+ }
+}

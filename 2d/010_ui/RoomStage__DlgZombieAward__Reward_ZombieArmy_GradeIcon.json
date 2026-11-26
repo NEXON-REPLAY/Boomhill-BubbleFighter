@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 136,
+   "index": 0,
+   "w": 183,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 136,
+   "index": 1,
+   "w": 183,
+   "x": 186,
+   "y": 1
+  },
+  {
+   "h": 136,
+   "index": 2,
+   "w": 183,
+   "x": 371,
+   "y": 1
+  },
+  {
+   "h": 136,
+   "index": 3,
+   "w": 183,
+   "x": 556,
+   "y": 1
+  },
+  {
+   "h": 136,
+   "index": 4,
+   "w": 183,
+   "x": 741,
+   "y": 1
+  },
+  {
+   "h": 136,
+   "index": 5,
+   "w": 183,
+   "x": 1,
+   "y": 139
+  },
+  {
+   "h": 136,
+   "index": 6,
+   "w": 183,
+   "x": 186,
+   "y": 139
+  },
+  {
+   "h": 136,
+   "index": 7,
+   "w": 183,
+   "x": 371,
+   "y": 139
+  },
+  {
+   "h": 136,
+   "index": 8,
+   "w": 183,
+   "x": 556,
+   "y": 139
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgZombieAward/Reward_ZombieArmy_GradeIcon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgZombieAward__Reward_ZombieArmy_GradeIcon.png",
+  "h": 276,
+  "w": 925
+ }
+}

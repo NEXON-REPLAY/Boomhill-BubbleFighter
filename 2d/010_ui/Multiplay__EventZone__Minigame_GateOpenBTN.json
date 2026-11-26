@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 43,
+   "index": 0,
+   "w": 110,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 43,
+   "index": 1,
+   "w": 110,
+   "x": 1,
+   "y": 46
+  },
+  {
+   "h": 43,
+   "index": 2,
+   "w": 110,
+   "x": 1,
+   "y": 91
+  },
+  {
+   "h": 43,
+   "index": 3,
+   "w": 110,
+   "x": 1,
+   "y": 136
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/EventZone/Minigame_GateOpenBTN",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__EventZone__Minigame_GateOpenBTN.png",
+  "h": 180,
+  "w": 112
+ }
+}

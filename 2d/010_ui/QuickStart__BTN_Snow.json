@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 59,
+   "index": 0,
+   "w": 176,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 59,
+   "index": 1,
+   "w": 176,
+   "x": 1,
+   "y": 62
+  },
+  {
+   "h": 59,
+   "index": 2,
+   "w": 176,
+   "x": 1,
+   "y": 123
+  },
+  {
+   "h": 59,
+   "index": 3,
+   "w": 176,
+   "x": 1,
+   "y": 184
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "QuickStart/BTN_Snow",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "QuickStart__BTN_Snow.png",
+  "h": 244,
+  "w": 178
+ }
+}

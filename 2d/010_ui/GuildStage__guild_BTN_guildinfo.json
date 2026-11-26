@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 23,
+   "index": 0,
+   "w": 70,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 23,
+   "index": 1,
+   "w": 70,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 23,
+   "index": 2,
+   "w": 70,
+   "x": 1,
+   "y": 51
+  },
+  {
+   "h": 23,
+   "index": 3,
+   "w": 70,
+   "x": 1,
+   "y": 76
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "GuildStage/guild_BTN_guildinfo",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GuildStage__guild_BTN_guildinfo.png",
+  "h": 100,
+  "w": 72
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 5,
+   "index": 0,
+   "w": 6,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 5,
+   "index": 1,
+   "w": 1,
+   "x": 10,
+   "y": 1
+  },
+  {
+   "h": 5,
+   "index": 2,
+   "w": 6,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 6,
+   "x": 1,
+   "y": 9
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 10,
+   "y": 9
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 6,
+   "x": 14,
+   "y": 9
+  },
+  {
+   "h": 5,
+   "index": 6,
+   "w": 6,
+   "x": 1,
+   "y": 13
+  },
+  {
+   "h": 5,
+   "index": 7,
+   "w": 1,
+   "x": 10,
+   "y": 13
+  },
+  {
+   "h": 5,
+   "index": 8,
+   "w": 6,
+   "x": 14,
+   "y": 13
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/item_info/iteminfo_basic03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__item_info__iteminfo_basic03.png",
+  "h": 19,
+  "w": 21
+ }
+}

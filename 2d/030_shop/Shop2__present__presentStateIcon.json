@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 22,
+   "index": 0,
+   "w": 22,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 1,
+   "w": 22,
+   "x": 25,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 2,
+   "w": 22,
+   "x": 49,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/present/presentStateIcon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__present__presentStateIcon.png",
+  "h": 24,
+  "w": 72
+ }
+}

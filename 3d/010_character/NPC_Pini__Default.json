@@ -1,0 +1,123 @@
+{
+ "face": {
+  "frames": {
+   "f00.png": "_shared/faces/f00_cb33ae.png",
+   "f01.png": "_shared/faces/f01_5df68e.png",
+   "f02.png": "_shared/faces/f02_8d2419.png",
+   "f03.png": "_shared/faces/f03_d77e54.png",
+   "f04.png": "_shared/faces/f04_53f319.png"
+  },
+  "timelines": {
+   "pis-basic-stand": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     1.6333,
+     "f01.png"
+    ],
+    [
+     1.7333,
+     "f00.png"
+    ],
+    [
+     3.3333,
+     "f00.png"
+    ]
+   ],
+   "pis-emotion-boring": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     0.3,
+     "f01.png"
+    ],
+    [
+     0.4,
+     "f02.png"
+    ],
+    [
+     0.5,
+     "f00.png"
+    ],
+    [
+     0.6,
+     "f01.png"
+    ],
+    [
+     0.7,
+     "f02.png"
+    ],
+    [
+     0.8,
+     "f03.png"
+    ],
+    [
+     4.3,
+     "f00.png"
+    ],
+    [
+     4.4,
+     "f01.png"
+    ],
+    [
+     4.5,
+     "f02.png"
+    ],
+    [
+     4.6,
+     "f03.png"
+    ],
+    [
+     6.6333,
+     "f01.png"
+    ],
+    [
+     6.7333,
+     "f02.png"
+    ],
+    [
+     6.8333,
+     "f00.png"
+    ],
+    [
+     9.1667,
+     "f00.png"
+    ]
+   ],
+   "pis-emotion-bye": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ],
+   "pis-emotion-welcome": [
+    [
+     0.0,
+     "f04.png"
+    ]
+   ],
+   "pis-emotion2-stand2": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     1.6333,
+     "f01.png"
+    ],
+    [
+     1.7333,
+     "f00.png"
+    ],
+    [
+     3.3333,
+     "f00.png"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 34,
+   "index": 0,
+   "w": 44,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 34,
+   "index": 1,
+   "w": 44,
+   "x": 1,
+   "y": 37
+  },
+  {
+   "h": 35,
+   "index": 2,
+   "w": 44,
+   "x": 1,
+   "y": 73
+  },
+  {
+   "h": 35,
+   "index": 3,
+   "w": 44,
+   "x": 1,
+   "y": 110
+  },
+  {
+   "h": 34,
+   "index": 4,
+   "w": 44,
+   "x": 1,
+   "y": 147
+  },
+  {
+   "h": 34,
+   "index": 5,
+   "w": 44,
+   "x": 1,
+   "y": 183
+  },
+  {
+   "h": 35,
+   "index": 6,
+   "w": 44,
+   "x": 1,
+   "y": 219
+  },
+  {
+   "h": 35,
+   "index": 7,
+   "w": 44,
+   "x": 1,
+   "y": 256
+  },
+  {
+   "h": 35,
+   "index": 8,
+   "w": 44,
+   "x": 1,
+   "y": 293
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/ZombieArmy/Rank_list",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__ZombieArmy__Rank_list.png",
+  "h": 329,
+  "w": 46
+ }
+}

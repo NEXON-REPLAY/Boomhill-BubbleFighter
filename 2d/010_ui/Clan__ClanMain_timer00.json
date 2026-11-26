@@ -1,0 +1,54 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 284,
+    "y": 1
+   },
+   "w": 287,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 284,
+    "y": 1
+   },
+   "w": 287,
+   "x": 1,
+   "y": 30
+  },
+  {
+   "h": 23,
+   "index": 2,
+   "origin": {
+    "x": 283,
+    "y": 0
+   },
+   "w": 284,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 23,
+   "index": 3,
+   "w": 1,
+   "x": 287,
+   "y": 59
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Clan/ClanMain_timer00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Clan__ClanMain_timer00.png",
+  "h": 83,
+  "w": 289
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 17,
+   "index": 0,
+   "w": 21,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 1,
+   "w": 21,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 17,
+   "index": 2,
+   "w": 21,
+   "x": 1,
+   "y": 39
+  },
+  {
+   "h": 17,
+   "index": 3,
+   "w": 21,
+   "x": 1,
+   "y": 58
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/ChatBoxEnter",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__ChatBoxEnter.png",
+  "h": 76,
+  "w": 23
+ }
+}

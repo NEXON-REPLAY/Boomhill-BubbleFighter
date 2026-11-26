@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 98,
+   "index": 0,
+   "w": 113,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 98,
+   "index": 1,
+   "w": 113,
+   "x": 1,
+   "y": 101
+  },
+  {
+   "h": 98,
+   "index": 2,
+   "w": 113,
+   "x": 1,
+   "y": 201
+  },
+  {
+   "h": 98,
+   "index": 3,
+   "w": 113,
+   "x": 1,
+   "y": 301
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/Arena/Arena_LobbyStartBtn01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__Arena__Arena_LobbyStartBtn01.png",
+  "h": 400,
+  "w": 115
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 62,
+   "index": 0,
+   "w": 68,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 62,
+   "index": 1,
+   "w": 68,
+   "x": 1,
+   "y": 65
+  },
+  {
+   "h": 62,
+   "index": 2,
+   "w": 68,
+   "x": 1,
+   "y": 129
+  },
+  {
+   "h": 62,
+   "index": 3,
+   "w": 68,
+   "x": 1,
+   "y": 193
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/present/btnFeel02Cry",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__present__btnFeel02Cry.png",
+  "h": 256,
+  "w": 70
+ }
+}

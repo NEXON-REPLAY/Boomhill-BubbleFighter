@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 49,
+   "index": 0,
+   "w": 48,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 49,
+   "index": 1,
+   "w": 48,
+   "x": 51,
+   "y": 1
+  },
+  {
+   "h": 49,
+   "index": 2,
+   "w": 48,
+   "x": 101,
+   "y": 1
+  },
+  {
+   "h": 49,
+   "index": 3,
+   "w": 48,
+   "x": 151,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "StartupStage/BtnBack_BIG",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StartupStage__BtnBack_BIG.png",
+  "h": 51,
+  "w": 200
+ }
+}

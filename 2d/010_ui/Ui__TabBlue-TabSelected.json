@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 48,
+   "index": 0,
+   "w": 19,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 48,
+   "index": 1,
+   "w": 8,
+   "x": 23,
+   "y": 1
+  },
+  {
+   "h": 48,
+   "index": 2,
+   "w": 19,
+   "x": 34,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/TabBlue-TabSelected",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__TabBlue-TabSelected.png",
+  "h": 50,
+  "w": 54
+ }
+}

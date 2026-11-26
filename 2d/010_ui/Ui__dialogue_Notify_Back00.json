@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 12,
+   "index": 0,
+   "w": 13,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 1,
+   "w": 1,
+   "x": 17,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 2,
+   "w": 13,
+   "x": 21,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 13,
+   "x": 1,
+   "y": 16
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 17,
+   "y": 16
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 13,
+   "x": 21,
+   "y": 16
+  },
+  {
+   "h": 15,
+   "index": 6,
+   "w": 13,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 15,
+   "index": 7,
+   "w": 1,
+   "x": 17,
+   "y": 20
+  },
+  {
+   "h": 15,
+   "index": 8,
+   "w": 13,
+   "x": 21,
+   "y": 20
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/dialogue_Notify_Back00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__dialogue_Notify_Back00.png",
+  "h": 36,
+  "w": 35
+ }
+}

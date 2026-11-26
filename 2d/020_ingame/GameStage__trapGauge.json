@@ -1,0 +1,69 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 216,
+    "y": 9
+   },
+   "w": 226,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 216,
+    "y": 9
+   },
+   "w": 226,
+   "x": 1,
+   "y": 37
+  },
+  {
+   "h": 16,
+   "index": 2,
+   "origin": {
+    "x": 207,
+    "y": 0
+   },
+   "w": 208,
+   "x": 1,
+   "y": 73
+  },
+  {
+   "h": 16,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 0
+   },
+   "w": 2,
+   "x": 211,
+   "y": 73
+  },
+  {
+   "h": 34,
+   "index": 4,
+   "origin": {
+    "x": 216,
+    "y": 9
+   },
+   "w": 226,
+   "x": 1,
+   "y": 91
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/trapGauge",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__trapGauge.png",
+  "h": 126,
+  "w": 228
+ }
+}

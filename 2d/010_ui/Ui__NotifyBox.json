@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 46,
+   "index": 0,
+   "w": 68,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 46,
+   "index": 1,
+   "w": 5,
+   "x": 72,
+   "y": 1
+  },
+  {
+   "h": 46,
+   "index": 2,
+   "w": 62,
+   "x": 80,
+   "y": 1
+  },
+  {
+   "h": 25,
+   "index": 3,
+   "w": 68,
+   "x": 1,
+   "y": 50
+  },
+  {
+   "h": 25,
+   "index": 4,
+   "w": 5,
+   "x": 72,
+   "y": 50
+  },
+  {
+   "h": 25,
+   "index": 5,
+   "w": 62,
+   "x": 80,
+   "y": 50
+  },
+  {
+   "h": 23,
+   "index": 6,
+   "w": 68,
+   "x": 1,
+   "y": 78
+  },
+  {
+   "h": 23,
+   "index": 7,
+   "w": 5,
+   "x": 72,
+   "y": 78
+  },
+  {
+   "h": 23,
+   "index": 8,
+   "w": 62,
+   "x": 80,
+   "y": 78
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/NotifyBox",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__NotifyBox.png",
+  "h": 102,
+  "w": 143
+ }
+}

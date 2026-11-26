@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 44,
+   "index": 0,
+   "w": 44,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 44,
+   "index": 1,
+   "w": 44,
+   "x": 1,
+   "y": 47
+  },
+  {
+   "h": 44,
+   "index": 2,
+   "w": 44,
+   "x": 1,
+   "y": 93
+  },
+  {
+   "h": 44,
+   "index": 3,
+   "w": 44,
+   "x": 1,
+   "y": 139
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/EventZone/Minigame_GateBtnQuit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__EventZone__Minigame_GateBtnQuit.png",
+  "h": 184,
+  "w": 46
+ }
+}

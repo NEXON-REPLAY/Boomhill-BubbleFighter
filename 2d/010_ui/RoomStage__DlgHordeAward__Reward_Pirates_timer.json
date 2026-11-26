@@ -1,0 +1,54 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 384,
+    "y": 1
+   },
+   "w": 387,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 384,
+    "y": 1
+   },
+   "w": 387,
+   "x": 1,
+   "y": 30
+  },
+  {
+   "h": 23,
+   "index": 2,
+   "origin": {
+    "x": 383,
+    "y": 0
+   },
+   "w": 384,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 23,
+   "index": 3,
+   "w": 1,
+   "x": 387,
+   "y": 59
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgHordeAward/Reward_Pirates_timer",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgHordeAward__Reward_Pirates_timer.png",
+  "h": 83,
+  "w": 389
+ }
+}

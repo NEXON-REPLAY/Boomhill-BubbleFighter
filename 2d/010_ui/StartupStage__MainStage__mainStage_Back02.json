@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 12,
+   "index": 0,
+   "w": 12,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 1,
+   "w": 1,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 12,
+   "index": 2,
+   "w": 12,
+   "x": 16,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 12,
+   "x": 1,
+   "y": 14
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 14,
+   "y": 14
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 12,
+   "x": 16,
+   "y": 14
+  },
+  {
+   "h": 12,
+   "index": 6,
+   "w": 12,
+   "x": 1,
+   "y": 16
+  },
+  {
+   "h": 12,
+   "index": 7,
+   "w": 1,
+   "x": 14,
+   "y": 16
+  },
+  {
+   "h": 12,
+   "index": 8,
+   "w": 12,
+   "x": 16,
+   "y": 16
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "StartupStage/MainStage/mainStage_Back02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StartupStage__MainStage__mainStage_Back02.png",
+  "h": 29,
+  "w": 29
+ }
+}

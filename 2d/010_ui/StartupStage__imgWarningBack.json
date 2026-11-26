@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 10,
+   "index": 0,
+   "w": 10,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 10,
+   "index": 1,
+   "w": 3,
+   "x": 14,
+   "y": 1
+  },
+  {
+   "h": 10,
+   "index": 2,
+   "w": 10,
+   "x": 20,
+   "y": 1
+  },
+  {
+   "h": 3,
+   "index": 3,
+   "w": 10,
+   "x": 1,
+   "y": 14
+  },
+  {
+   "h": 3,
+   "index": 4,
+   "w": 3,
+   "x": 14,
+   "y": 14
+  },
+  {
+   "h": 3,
+   "index": 5,
+   "w": 10,
+   "x": 20,
+   "y": 14
+  },
+  {
+   "h": 10,
+   "index": 6,
+   "w": 10,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 10,
+   "index": 7,
+   "w": 3,
+   "x": 14,
+   "y": 20
+  },
+  {
+   "h": 10,
+   "index": 8,
+   "w": 10,
+   "x": 20,
+   "y": 20
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "StartupStage/imgWarningBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StartupStage__imgWarningBack.png",
+  "h": 31,
+  "w": 31
+ }
+}

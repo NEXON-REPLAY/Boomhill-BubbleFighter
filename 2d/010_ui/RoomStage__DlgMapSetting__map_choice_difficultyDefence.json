@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 16,
+   "index": 0,
+   "w": 17,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 16,
+   "index": 1,
+   "w": 17,
+   "x": 20,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgMapSetting/map_choice_difficultyDefence",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgMapSetting__map_choice_difficultyDefence.png",
+  "h": 18,
+  "w": 38
+ }
+}

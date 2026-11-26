@@ -1,0 +1,94 @@
+{
+ "face": {
+  "frames": {
+   "f00.PNG": "_shared/faces/f00_ff807a.png",
+   "f01.PNG": "_shared/faces/f01_ebfa6f.png",
+   "f02.PNG": "_shared/faces/f02_fe84e5.png",
+   "f021.PNG": "_shared/faces/f021_93d423.png",
+   "f03.PNG": "_shared/faces/f03_9b5793.png",
+   "f031.png": "_shared/faces/f031_488970.png",
+   "f04.PNG": "_shared/faces/f04_12a14d.png",
+   "f041.PNG": "_shared/faces/f041_9a0020.png",
+   "f051.PNG": "_shared/faces/f051_e43547.png",
+   "f06.PNG": "_shared/faces/f06_a8d922.png",
+   "f070.PNG": "_shared/faces/f070_3a0809.png",
+   "f071.PNG": "_shared/faces/f071_8f9dcd.png",
+   "f08.PNG": "_shared/faces/f08_e1fef8.png",
+   "f09.PNG": "_shared/faces/f09_e75738.png",
+   "f091.PNG": "_shared/faces/f091_430fad.png",
+   "f092.PNG": "_shared/faces/f092_fe9a4c.png",
+   "f10.PNG": "_shared/faces/f10_98e5dd.png",
+   "f11.PNG": "_shared/faces/f11_a0127c.png",
+   "f111.PNG": "_shared/faces/f111_5631ad.png",
+   "f12.PNG": "_shared/faces/f12_d66c75.png",
+   "f13.PNG": "_shared/faces/f13_f99751.png",
+   "f131.PNG": "_shared/faces/f131_ad7baf.png",
+   "f14.PNG": "_shared/faces/f14_0e71c8.png",
+   "f15.PNG": "_shared/faces/f15_35ff7c.png",
+   "f151.PNG": "_shared/faces/f151_eb5fe5.png",
+   "f152.png": "_shared/faces/f152_600a4c.png",
+   "f16.png": "_shared/faces/f16_86071e.png",
+   "f161.PNG": "_shared/faces/f161_21e5f9.png",
+   "f17.PNG": "_shared/faces/f17_01a07b.png",
+   "f171.PNG": "_shared/faces/f171_5c65ed.png"
+  },
+  "timelines": {
+   "pis-basic-dash": [
+    [
+     0.0,
+     "f11.PNG"
+    ],
+    [
+     0.1333,
+     "f111.PNG"
+    ]
+   ],
+   "pis-basic-jump": [
+    [
+     0.0,
+     "f171.PNG"
+    ],
+    [
+     0.0667,
+     "f17.PNG"
+    ],
+    [
+     0.4333,
+     "f171.PNG"
+    ]
+   ],
+   "pis-basic-respawn": [
+    [
+     0.0,
+     "f070.PNG"
+    ],
+    [
+     1.6333,
+     "f01.PNG"
+    ]
+   ],
+   "pis-basic-stand": [
+    [
+     0.0,
+     "f00.PNG"
+    ],
+    [
+     1.0,
+     "f12.PNG"
+    ],
+    [
+     1.2333,
+     "f00.PNG"
+    ],
+    [
+     1.4,
+     "f12.PNG"
+    ],
+    [
+     1.6333,
+     "f00.PNG"
+    ]
+   ]
+  }
+ }
+}

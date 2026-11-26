@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 22,
+   "index": 0,
+   "w": 22,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 1,
+   "w": 1,
+   "x": 26,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 2,
+   "w": 6,
+   "x": 30,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 22,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 26,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 6,
+   "x": 30,
+   "y": 26
+  },
+  {
+   "h": 6,
+   "index": 6,
+   "w": 22,
+   "x": 1,
+   "y": 30
+  },
+  {
+   "h": 6,
+   "index": 7,
+   "w": 1,
+   "x": 26,
+   "y": 30
+  },
+  {
+   "h": 6,
+   "index": 8,
+   "w": 6,
+   "x": 30,
+   "y": 30
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/GroupBox",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__GroupBox.png",
+  "h": 37,
+  "w": 37
+ }
+}

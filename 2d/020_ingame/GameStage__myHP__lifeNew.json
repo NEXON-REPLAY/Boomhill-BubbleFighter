@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 50,
+   "index": 0,
+   "w": 48,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 50,
+   "index": 1,
+   "w": 48,
+   "x": 1,
+   "y": 53
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/myHP/lifeNew",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__myHP__lifeNew.png",
+  "h": 104,
+  "w": 50
+ }
+}

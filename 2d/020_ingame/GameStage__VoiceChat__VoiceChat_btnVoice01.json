@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 22,
+   "index": 0,
+   "w": 22,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 1,
+   "w": 22,
+   "x": 1,
+   "y": 24
+  },
+  {
+   "h": 22,
+   "index": 2,
+   "w": 22,
+   "x": 1,
+   "y": 47
+  },
+  {
+   "h": 22,
+   "index": 3,
+   "w": 22,
+   "x": 1,
+   "y": 70
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/VoiceChat/VoiceChat_btnVoice01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__VoiceChat__VoiceChat_btnVoice01.png",
+  "h": 93,
+  "w": 24
+ }
+}

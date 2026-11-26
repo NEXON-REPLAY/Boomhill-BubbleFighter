@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 14,
+   "index": 0,
+   "w": 8,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 1,
+   "w": 1,
+   "x": 12,
+   "y": 1
+  },
+  {
+   "h": 14,
+   "index": 2,
+   "w": 20,
+   "x": 16,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 8,
+   "x": 1,
+   "y": 18
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 12,
+   "y": 18
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 20,
+   "x": 16,
+   "y": 18
+  },
+  {
+   "h": 10,
+   "index": 6,
+   "w": 8,
+   "x": 1,
+   "y": 22
+  },
+  {
+   "h": 10,
+   "index": 7,
+   "w": 1,
+   "x": 12,
+   "y": 22
+  },
+  {
+   "h": 10,
+   "index": 8,
+   "w": 20,
+   "x": 16,
+   "y": 22
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/ToolTipRightUp03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__ToolTipRightUp03.png",
+  "h": 33,
+  "w": 37
+ }
+}

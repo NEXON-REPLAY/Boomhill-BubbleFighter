@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 21,
+   "index": 0,
+   "w": 20,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 21,
+   "index": 1,
+   "w": 1,
+   "x": 24,
+   "y": 1
+  },
+  {
+   "h": 21,
+   "index": 2,
+   "w": 18,
+   "x": 28,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/item_info/iteminfo_titlebar02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__item_info__iteminfo_titlebar02.png",
+  "h": 23,
+  "w": 47
+ }
+}

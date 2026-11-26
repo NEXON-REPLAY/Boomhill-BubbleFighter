@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 27,
+   "index": 0,
+   "w": 89,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 27,
+   "index": 1,
+   "w": 89,
+   "x": 1,
+   "y": 30
+  },
+  {
+   "h": 27,
+   "index": 2,
+   "w": 89,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 27,
+   "index": 3,
+   "w": 89,
+   "x": 1,
+   "y": 88
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/present/BtnSendTab",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__present__BtnSendTab.png",
+  "h": 116,
+  "w": 91
+ }
+}

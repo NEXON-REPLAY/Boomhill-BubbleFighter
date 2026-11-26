@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 35,
+   "index": 0,
+   "w": 50,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 35,
+   "index": 1,
+   "w": 50,
+   "x": 1,
+   "y": 38
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/Bonus_boomhillWorld_pang04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__Bonus_boomhillWorld_pang04.png",
+  "h": 74,
+  "w": 52
+ }
+}

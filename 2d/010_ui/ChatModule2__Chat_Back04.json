@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 22,
+   "index": 0,
+   "w": 9,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 1,
+   "w": 1,
+   "x": 13,
+   "y": 1
+  },
+  {
+   "h": 22,
+   "index": 2,
+   "w": 9,
+   "x": 17,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChatModule2/Chat_Back04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChatModule2__Chat_Back04.png",
+  "h": 24,
+  "w": 27
+ }
+}

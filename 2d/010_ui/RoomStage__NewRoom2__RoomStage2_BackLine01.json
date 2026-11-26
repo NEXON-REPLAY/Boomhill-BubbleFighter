@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 1,
+   "index": 0,
+   "w": 2,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 1,
+   "w": 2,
+   "x": 1,
+   "y": 5
+  },
+  {
+   "h": 1,
+   "index": 2,
+   "w": 2,
+   "x": 1,
+   "y": 9
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/NewRoom2/RoomStage2_BackLine01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__NewRoom2__RoomStage2_BackLine01.png",
+  "h": 11,
+  "w": 4
+ }
+}

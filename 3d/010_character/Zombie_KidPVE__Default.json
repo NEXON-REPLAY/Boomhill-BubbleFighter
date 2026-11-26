@@ -1,0 +1,434 @@
+{
+ "face": {
+  "frames": {
+   "f00.png": "_shared/faces/f00_959c94.png",
+   "f01.png": "_shared/faces/f01_f01a32.png",
+   "f02.PNG": "_shared/faces/f02_45e932.png",
+   "f02.png": "_shared/faces/f02_45e932.png",
+   "f03.png": "_shared/faces/f03_eace5f.png",
+   "f04.png": "_shared/faces/f04_00ffe3.png",
+   "f08.png": "_shared/faces/f08_c5398f.png",
+   "f10.png": "_shared/faces/f10_2ae6f2.png",
+   "f11.png": "_shared/faces/f11_392283.png",
+   "f13.png": "_shared/faces/f13_d4d22b.png",
+   "f14.png": "_shared/faces/f14_fa7679.png",
+   "f16.png": "_shared/faces/f16_c26847.png",
+   "f17.png": "_shared/faces/f17_4b8459.png",
+   "f20.png": "_shared/faces/f20_126574.png",
+   "f25.png": "_shared/faces/f25_d6a6a0.png",
+   "f30.png": "_shared/faces/f30_cad1f0.png",
+   "f38.png": "_shared/faces/f38_bf8c38.png",
+   "f46.png": "_shared/faces/f46_5381b1.png",
+   "f47.png": "_shared/faces/f47_ce80bc.png",
+   "f48.png": "_shared/faces/f48_60f59f.png"
+  },
+  "timelines": {
+   "pis-basic-changeWeapon": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     0.0667,
+     "f08.png"
+    ],
+    [
+     0.2333,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-dash": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.4,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-humiliated": [
+    [
+     0.0,
+     "f48.png"
+    ],
+    [
+     0.0667,
+     "f20.png"
+    ],
+    [
+     0.3,
+     "f48.png"
+    ],
+    [
+     0.6667,
+     "f48.png"
+    ]
+   ],
+   "pis-basic-humiliating": [
+    [
+     0.0,
+     "f01.png"
+    ],
+    [
+     0.5,
+     "f01.png"
+    ]
+   ],
+   "pis-basic-humiliatingEnd": [
+    [
+     0.0,
+     "f13.png"
+    ],
+    [
+     0.5,
+     "f13.png"
+    ]
+   ],
+   "pis-basic-jump": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     1.3,
+     "f30.png"
+    ],
+    [
+     2.0,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-respawn": [
+    [
+     0.0,
+     "f04.png"
+    ],
+    [
+     0.6333,
+     "f16.png"
+    ],
+    [
+     1.3,
+     "f30.png"
+    ],
+    [
+     2.0,
+     "f04.png"
+    ]
+   ],
+   "pis-basic-respawn1": [
+    [
+     0.0,
+     "f04.png"
+    ],
+    [
+     0.6333,
+     "f16.png"
+    ],
+    [
+     1.3,
+     "f30.png"
+    ],
+    [
+     2.0,
+     "f04.png"
+    ]
+   ],
+   "pis-basic-rollB1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollB2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollBL1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollBL2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollBR1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollBR2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollF1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollF2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollFL1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollFL2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollFR1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollFR2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollL1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollL2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollR1": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-rollR2": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.3,
+     "f16.png"
+    ],
+    [
+     0.5667,
+     "f30.png"
+    ],
+    [
+     0.8333,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-runF": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     0.4,
+     "f30.png"
+    ]
+   ],
+   "pis-basic-shocked": [
+    [
+     0.0,
+     "f02.png"
+    ],
+    [
+     1.0,
+     "f02.png"
+    ]
+   ],
+   "pis-basic-slip": [
+    [
+     0.0,
+     "f14.png"
+    ],
+    [
+     0.4667,
+     "f20.png"
+    ],
+    [
+     0.9667,
+     "f02.png"
+    ],
+    [
+     5.0,
+     "f14.png"
+    ]
+   ],
+   "pis-basic-stand": [
+    [
+     0.0,
+     "f00.png"
+    ],
+    [
+     0.9667,
+     "f08.png"
+    ],
+    [
+     1.1333,
+     "f00.png"
+    ],
+    [
+     1.3333,
+     "f00.png"
+    ]
+   ],
+   "pis-basic-stop": [
+    [
+     0.0,
+     "f30.png"
+    ],
+    [
+     3.0,
+     "f30.png"
+    ]
+   ]
+  }
+ }
+}

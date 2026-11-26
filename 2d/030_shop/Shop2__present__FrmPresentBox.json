@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 21,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 1,
+   "x": 25,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 6,
+   "x": 29,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 21,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 25,
+   "y": 28
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 6,
+   "x": 29,
+   "y": 28
+  },
+  {
+   "h": 8,
+   "index": 6,
+   "w": 21,
+   "x": 1,
+   "y": 32
+  },
+  {
+   "h": 8,
+   "index": 7,
+   "w": 1,
+   "x": 25,
+   "y": 32
+  },
+  {
+   "h": 8,
+   "index": 8,
+   "w": 6,
+   "x": 29,
+   "y": 32
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/present/FrmPresentBox",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__present__FrmPresentBox.png",
+  "h": 41,
+  "w": 36
+ }
+}

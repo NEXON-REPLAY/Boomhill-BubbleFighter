@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 72,
+   "index": 0,
+   "w": 6,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 72,
+   "index": 1,
+   "w": 1,
+   "x": 10,
+   "y": 1
+  },
+  {
+   "h": 72,
+   "index": 2,
+   "w": 15,
+   "x": 14,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "AllStage/RewardNotice/Reward_Norice_TextBox01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "AllStage__RewardNotice__Reward_Norice_TextBox01.png",
+  "h": 74,
+  "w": 30
+ }
+}

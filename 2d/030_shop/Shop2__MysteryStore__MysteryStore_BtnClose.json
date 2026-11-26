@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 39,
+   "index": 0,
+   "w": 39,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 39,
+   "index": 1,
+   "w": 39,
+   "x": 1,
+   "y": 42
+  },
+  {
+   "h": 39,
+   "index": 2,
+   "w": 39,
+   "x": 1,
+   "y": 83
+  },
+  {
+   "h": 39,
+   "index": 3,
+   "w": 39,
+   "x": 1,
+   "y": 124
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/MysteryStore/MysteryStore_BtnClose",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__MysteryStore__MysteryStore_BtnClose.png",
+  "h": 164,
+  "w": 41
+ }
+}

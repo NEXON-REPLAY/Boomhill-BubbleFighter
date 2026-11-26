@@ -1,0 +1,365 @@
+{
+ "category": "3d_scene",
+ "game": "bubblefighter",
+ "items": [
+  {
+   "bytes": 18096,
+   "file": "070_scene/levelUp.glb",
+   "id": "levelUp",
+   "name": "levelUp",
+   "stats": {
+    "textures": 7,
+    "triangles": 1848,
+    "vertices": 1397
+   },
+   "thumb": "070_scene/levelUp.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 175012,
+   "file": "070_scene/result_Cemetery.glb",
+   "id": "result_Cemetery",
+   "name": "result_Cemetery",
+   "stats": {
+    "textures": 61,
+    "triangles": 14492,
+    "vertices": 17640
+   },
+   "thumb": "070_scene/result_Cemetery.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 150968,
+   "file": "070_scene/result_Desert.glb",
+   "id": "result_Desert",
+   "name": "result_Desert",
+   "stats": {
+    "textures": 51,
+    "triangles": 12639,
+    "vertices": 14933
+   },
+   "thumb": "070_scene/result_Desert.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 195352,
+   "file": "070_scene/result_Fairytale.glb",
+   "id": "result_Fairytale",
+   "name": "result_Fairytale",
+   "stats": {
+    "textures": 69,
+    "triangles": 16530,
+    "vertices": 19330
+   },
+   "thumb": "070_scene/result_Fairytale.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 176312,
+   "file": "070_scene/result_Forest.glb",
+   "id": "result_Forest",
+   "name": "result_Forest",
+   "stats": {
+    "textures": 54,
+    "triangles": 14412,
+    "vertices": 18266
+   },
+   "thumb": "070_scene/result_Forest.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 124932,
+   "file": "070_scene/result_Forest_Fall.glb",
+   "id": "result_Forest_Fall",
+   "name": "result_Forest_Fall",
+   "stats": {
+    "textures": 38,
+    "triangles": 9106,
+    "vertices": 12274
+   },
+   "thumb": "070_scene/result_Forest_Fall.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 178764,
+   "file": "070_scene/result_Ice.glb",
+   "id": "result_Ice",
+   "name": "result_Ice",
+   "stats": {
+    "textures": 56,
+    "triangles": 15310,
+    "vertices": 17996
+   },
+   "thumb": "070_scene/result_Ice.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 208452,
+   "file": "070_scene/result_Pirate.glb",
+   "id": "result_Pirate",
+   "name": "result_Pirate",
+   "stats": {
+    "textures": 72,
+    "triangles": 16059,
+    "vertices": 19887
+   },
+   "thumb": "070_scene/result_Pirate.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 222220,
+   "file": "070_scene/result_Racing.glb",
+   "id": "result_Racing",
+   "name": "result_Racing",
+   "stats": {
+    "textures": 74,
+    "triangles": 18707,
+    "vertices": 22897
+   },
+   "thumb": "070_scene/result_Racing.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 182896,
+   "file": "070_scene/result_Space.glb",
+   "id": "result_Space",
+   "name": "result_Space",
+   "stats": {
+    "textures": 55,
+    "triangles": 16336,
+    "vertices": 20661
+   },
+   "thumb": "070_scene/result_Space.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 192184,
+   "file": "070_scene/result_Stadium.glb",
+   "id": "result_Stadium",
+   "name": "result_Stadium",
+   "stats": {
+    "textures": 76,
+    "triangles": 13888,
+    "vertices": 18538
+   },
+   "thumb": "070_scene/result_Stadium.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 208740,
+   "file": "070_scene/result_Village.glb",
+   "id": "result_Village",
+   "name": "result_Village",
+   "stats": {
+    "textures": 87,
+    "triangles": 14709,
+    "vertices": 19202
+   },
+   "thumb": "070_scene/result_Village.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 146820,
+   "file": "070_scene/stage_Clan.glb",
+   "id": "stage_Clan",
+   "name": "stage_Clan",
+   "stats": {
+    "textures": 71,
+    "triangles": 8594,
+    "vertices": 12271
+   },
+   "thumb": "070_scene/stage_Clan.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 184632,
+   "file": "070_scene/stage_Main.glb",
+   "id": "stage_Main",
+   "name": "stage_Main",
+   "stats": {
+    "textures": 120,
+    "triangles": 6396,
+    "vertices": 8458
+   },
+   "thumb": "070_scene/stage_Main.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 43900,
+   "file": "070_scene/stage_Main2.glb",
+   "id": "stage_Main2",
+   "name": "stage_Main2",
+   "stats": {
+    "textures": 28,
+    "triangles": 1949,
+    "vertices": 2519
+   },
+   "thumb": "070_scene/stage_Main2.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 153172,
+   "file": "070_scene/stage_Main3.glb",
+   "id": "stage_Main3",
+   "name": "stage_Main3",
+   "stats": {
+    "textures": 30,
+    "triangles": 14025,
+    "vertices": 22668
+   },
+   "thumb": "070_scene/stage_Main3.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 228896,
+   "file": "070_scene/stage_Plaza.glb",
+   "id": "stage_Plaza",
+   "name": "stage_Plaza",
+   "stats": {
+    "textures": 68,
+    "triangles": 18702,
+    "vertices": 21675
+   },
+   "thumb": "070_scene/stage_Plaza.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 227928,
+   "file": "070_scene/stage_Plaza3.glb",
+   "id": "stage_Plaza3",
+   "name": "stage_Plaza3",
+   "stats": {
+    "textures": 41,
+    "triangles": 19668,
+    "vertices": 29326
+   },
+   "thumb": "070_scene/stage_Plaza3.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 161708,
+   "file": "070_scene/stage_QuickStart.glb",
+   "id": "stage_QuickStart",
+   "name": "stage_QuickStart",
+   "stats": {
+    "textures": 66,
+    "triangles": 8889,
+    "vertices": 13395
+   },
+   "thumb": "070_scene/stage_QuickStart.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 96084,
+   "file": "070_scene/stage_Room.glb",
+   "id": "stage_Room",
+   "name": "stage_Room",
+   "stats": {
+    "textures": 52,
+    "triangles": 5646,
+    "vertices": 8883
+   },
+   "thumb": "070_scene/stage_Room.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  },
+  {
+   "bytes": 61744,
+   "file": "070_scene/stage_Tutorial.glb",
+   "id": "stage_Tutorial",
+   "name": "stage_Tutorial",
+   "stats": {
+    "textures": 44,
+    "triangles": 2396,
+    "vertices": 3148
+   },
+   "thumb": "070_scene/stage_Tutorial.webp",
+   "view": {
+    "front": "-Z",
+    "hide": "skydome|^sky[_-]|_sky$",
+    "hideLabel": "하늘"
+   }
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "연출 장면"
+}

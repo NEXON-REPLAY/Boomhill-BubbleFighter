@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 17,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "w": 121,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 17,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "w": 121,
+   "x": 1,
+   "y": 20
+  },
+  {
+   "h": 15,
+   "index": 2,
+   "w": 119,
+   "x": 1,
+   "y": 39
+  },
+  {
+   "h": 15,
+   "index": 3,
+   "w": 1,
+   "x": 122,
+   "y": 39
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/GameResult/ExpGauge",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__GameResult__ExpGauge.png",
+  "h": 55,
+  "w": 124
+ }
+}

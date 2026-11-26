@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 20,
+   "index": 0,
+   "w": 18,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 20,
+   "index": 1,
+   "w": 18,
+   "x": 1,
+   "y": 23
+  },
+  {
+   "h": 20,
+   "index": 2,
+   "w": 18,
+   "x": 1,
+   "y": 44
+  },
+  {
+   "h": 20,
+   "index": 3,
+   "w": 18,
+   "x": 1,
+   "y": 66
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChatModule2/Chat_Btn_long",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChatModule2__Chat_Btn_long.png",
+  "h": 87,
+  "w": 20
+ }
+}

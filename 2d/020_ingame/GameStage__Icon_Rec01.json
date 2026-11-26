@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 31,
+   "index": 0,
+   "w": 56,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 1,
+   "w": 56,
+   "x": 1,
+   "y": 34
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Icon_Rec01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Icon_Rec01.png",
+  "h": 66,
+  "w": 58
+ }
+}

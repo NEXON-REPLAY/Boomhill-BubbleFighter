@@ -1,0 +1,549 @@
+{
+ "category": "3d_npc",
+ "game": "bubblefighter",
+ "items": [
+  {
+   "bytes": 626660,
+   "file": "040_npc/BossBear.glb",
+   "id": "BossBear",
+   "markers": {
+    "WC_Wp01_FirePoint": [
+     161.995,
+     89.437,
+     -13.181
+    ]
+   },
+   "name": "BossBear",
+   "stats": {
+    "animations": 33,
+    "bones": 53,
+    "textures": 3,
+    "triangles": 2607
+   },
+   "thumb": "040_npc/BossBear.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      228.046,
+      58.582,
+      106.075
+     ],
+     "min": [
+      -4.555,
+      -75.88,
+      -41.677
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 105884,
+   "file": "040_npc/BossBomb.glb",
+   "id": "BossBomb",
+   "name": "BossBomb",
+   "stats": {
+    "animations": 1,
+    "bones": 45,
+    "textures": 2,
+    "triangles": 972
+   },
+   "thumb": "040_npc/BossBomb.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      9.149,
+      17.507,
+      1.703
+     ],
+     "min": [
+      -15.25,
+      -7.35,
+      -22.814
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 57944,
+   "file": "040_npc/NpcBox.glb",
+   "id": "NpcBox",
+   "name": "NpcBox",
+   "stats": {
+    "animations": 2,
+    "bones": 3,
+    "textures": 2,
+    "triangles": 396
+   },
+   "thumb": "040_npc/NpcBox.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      21.506,
+      31.568,
+      18.599
+     ],
+     "min": [
+      -21.355,
+      -11.779,
+      -18.593
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 634984,
+   "file": "040_npc/Pig.glb",
+   "id": "Pig",
+   "markers": {
+    "Hammer_Wp_FirePoint": [
+     -0.967,
+     1.236,
+     -0.067
+    ],
+    "Hg_Wp_FirePoint": [
+     -1.022,
+     1.236,
+     -0.067
+    ],
+    "Pistol_Wp01_FirePoint": [
+     -1.38,
+     1.234,
+     -0.059
+    ],
+    "Rifle_Wp01_FirePoint": [
+     -1.794,
+     1.231,
+     -0.049
+    ],
+    "Shotgun_Wp01_FirePoint": [
+     0.678,
+     1.745,
+     -0.247
+    ],
+    "Sni_Wp01_FirePoint": [
+     -1.053,
+     1.236,
+     -0.065
+    ]
+   },
+   "name": "Pig",
+   "stats": {
+    "animations": 27,
+    "bones": 90,
+    "textures": 3,
+    "triangles": 1416
+   },
+   "thumb": "040_npc/Pig.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.072,
+      2.355,
+      0.798
+     ],
+     "min": [
+      -0.973,
+      -0.0,
+      -0.877
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 676592,
+   "file": "040_npc/Pig2.glb",
+   "id": "Pig2",
+   "markers": {
+    "Hammer_Wp_FirePoint": [
+     -0.967,
+     1.236,
+     -0.067
+    ],
+    "Hg_Wp_FirePoint": [
+     -1.022,
+     1.236,
+     -0.067
+    ],
+    "Pistol_Wp01_FirePoint": [
+     -1.38,
+     1.234,
+     -0.059
+    ],
+    "Rifle_Wp01_FirePoint": [
+     4.326,
+     0.009,
+     -0.154
+    ],
+    "Shotgun_Wp01_FirePoint": [
+     -1.934,
+     1.177,
+     -0.041
+    ],
+    "Sni_Wp01_FirePoint": [
+     -1.477,
+     1.236,
+     -0.056
+    ]
+   },
+   "name": "Pig2",
+   "stats": {
+    "animations": 29,
+    "bones": 91,
+    "textures": 3,
+    "triangles": 1281
+   },
+   "thumb": "040_npc/Pig2.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.072,
+      4.858,
+      9.158
+     ],
+     "min": [
+      -10.501,
+      -18.025,
+      -3.518
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 673280,
+   "file": "040_npc/PigJump.glb",
+   "id": "PigJump",
+   "markers": {
+    "Hammer_Wp_FirePoint": [
+     -0.967,
+     1.236,
+     -0.067
+    ],
+    "Hg_Wp_FirePoint": [
+     -1.022,
+     1.236,
+     -0.067
+    ],
+    "Pistol_Wp01_FirePoint": [
+     -1.38,
+     1.234,
+     -0.059
+    ],
+    "Rifle_Wp01_FirePoint": [
+     -1.794,
+     1.231,
+     -0.049
+    ],
+    "Shotgun_Wp01_FirePoint": [
+     0.678,
+     1.745,
+     -0.247
+    ],
+    "Sni_Wp01_FirePoint": [
+     -1.053,
+     1.236,
+     -0.065
+    ]
+   },
+   "name": "PigJump",
+   "stats": {
+    "animations": 29,
+    "bones": 90,
+    "textures": 3,
+    "triangles": 1416
+   },
+   "thumb": "040_npc/PigJump.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      1.072,
+      2.355,
+      0.798
+     ],
+     "min": [
+      -0.973,
+      -0.0,
+      -0.877
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 412168,
+   "file": "040_npc/Squirrel.glb",
+   "id": "Squirrel",
+   "markers": {
+    "Acon_Wp_FirePoint": [
+     0.0,
+     -0.0,
+     0.0
+    ],
+    "Hammer_Wp_FirePoint": [
+     -210.228,
+     -10.2,
+     364.746
+    ],
+    "Hg_Wp_FirePoint": [
+     -210.266,
+     -10.228,
+     362.37
+    ],
+    "Pistol_Wp_FirePoint": [
+     -205.974,
+     -13.471,
+     368.661
+    ],
+    "Rifle_Wp_FirePoint": [
+     -118.299,
+     -11.831,
+     363.592
+    ],
+    "Shotgun_Wp_FirePoint": [
+     2313.926,
+     -50.85,
+     672.955
+    ]
+   },
+   "name": "Squirrel",
+   "stats": {
+    "animations": 23,
+    "bones": 77,
+    "textures": 3,
+    "triangles": 1056
+   },
+   "thumb": "040_npc/Squirrel.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.867,
+      4.502,
+      0.24
+     ],
+     "min": [
+      -54.516,
+      -9.283,
+      -23.208
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 401072,
+   "file": "040_npc/Squirrel2.glb",
+   "id": "Squirrel2",
+   "markers": {
+    "Acon_Wp_FirePoint": [
+     -230.954,
+     -12.247,
+     365.084
+    ],
+    "Hammer_Wp_FirePoint": [
+     0.795,
+     -0.06,
+     -0.005
+    ],
+    "Hg_Wp_FirePoint": [
+     -210.266,
+     -10.228,
+     362.37
+    ],
+    "Pistol_Wp_FirePoint": [
+     -205.974,
+     -13.471,
+     368.661
+    ],
+    "Rifle_Wp_FirePoint": [
+     -118.299,
+     -11.831,
+     363.592
+    ],
+    "Shotgun_Wp_FirePoint": [
+     2313.926,
+     -50.85,
+     672.955
+    ]
+   },
+   "name": "Squirrel2",
+   "stats": {
+    "animations": 23,
+    "bones": 77,
+    "textures": 3,
+    "triangles": 1034
+   },
+   "thumb": "040_npc/Squirrel2.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.867,
+      7.932,
+      0.24
+     ],
+     "min": [
+      -5.495,
+      -9.283,
+      -10.253
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 441604,
+   "file": "040_npc/Squirrel3.glb",
+   "id": "Squirrel3",
+   "markers": {
+    "Acon_Wp_FirePoint": [
+     -230.954,
+     -12.247,
+     365.084
+    ],
+    "Hammer_Wp_FirePoint": [
+     -210.228,
+     -10.2,
+     364.746
+    ],
+    "Hg_Wp_FirePoint": [
+     -210.266,
+     -10.228,
+     362.37
+    ],
+    "Pistol_Wp_FirePoint": [
+     -205.974,
+     -13.471,
+     368.661
+    ],
+    "Rifle_Wp_FirePoint": [
+     -118.299,
+     -11.831,
+     363.592
+    ],
+    "Shotgun_Wp_FirePoint": [
+     2313.926,
+     -50.85,
+     672.955
+    ]
+   },
+   "name": "Squirrel3",
+   "stats": {
+    "animations": 27,
+    "bones": 77,
+    "textures": 2,
+    "triangles": 930
+   },
+   "thumb": "040_npc/Squirrel3.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.867,
+      4.502,
+      0.24
+     ],
+     "min": [
+      -4.801,
+      -9.283,
+      -10.22
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 349844,
+   "file": "040_npc/Squirrel4.glb",
+   "id": "Squirrel4",
+   "markers": {
+    "Acon_Wp01_FirePoint": [
+     0.0,
+     -0.0,
+     0.0
+    ],
+    "Hammer_Wp01_FirePoint": [
+     -210.228,
+     -10.2,
+     364.746
+    ]
+   },
+   "name": "Squirrel4",
+   "stats": {
+    "animations": 23,
+    "bones": 45,
+    "textures": 3,
+    "triangles": 1056
+   },
+   "thumb": "040_npc/Squirrel4.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      3.867,
+      4.502,
+      0.24
+     ],
+     "min": [
+      -54.516,
+      -9.283,
+      -23.208
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  },
+  {
+   "bytes": 71252,
+   "file": "040_npc/Target.glb",
+   "id": "Target",
+   "name": "Target",
+   "stats": {
+    "animations": 14,
+    "bones": 7,
+    "textures": 1,
+    "triangles": 240
+   },
+   "thumb": "040_npc/Target.webp",
+   "view": {
+    "bounds": {
+     "max": [
+      4.49,
+      11.684,
+      2.519
+     ],
+     "min": [
+      -4.49,
+      -0.0,
+      -1.78
+     ]
+    },
+    "clipAutoplay": "stand$",
+    "clipLabelTrim": "pis-basic-",
+    "front": "-Z"
+   }
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "NPC, 몬스터"
+}

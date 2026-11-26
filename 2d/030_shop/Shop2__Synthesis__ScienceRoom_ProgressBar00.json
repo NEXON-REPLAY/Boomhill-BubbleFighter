@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 36,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 2
+   },
+   "w": 177,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 36,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 2
+   },
+   "w": 177,
+   "x": 1,
+   "y": 39
+  },
+  {
+   "h": 32,
+   "index": 2,
+   "w": 173,
+   "x": 1,
+   "y": 77
+  },
+  {
+   "h": 32,
+   "index": 3,
+   "w": 1,
+   "x": 176,
+   "y": 77
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/Synthesis/ScienceRoom_ProgressBar00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__Synthesis__ScienceRoom_ProgressBar00.png",
+  "h": 110,
+  "w": 179
+ }
+}

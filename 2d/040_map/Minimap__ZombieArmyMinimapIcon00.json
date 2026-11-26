@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 58,
+   "index": 0,
+   "w": 58,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 58,
+   "index": 1,
+   "w": 58,
+   "x": 1,
+   "y": 61
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "040_map",
+ "name": "Minimap/ZombieArmyMinimapIcon00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Minimap__ZombieArmyMinimapIcon00.png",
+  "h": 120,
+  "w": 60
+ }
+}

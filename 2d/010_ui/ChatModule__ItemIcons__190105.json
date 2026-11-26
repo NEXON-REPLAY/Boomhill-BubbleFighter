@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 53,
+   "index": 0,
+   "w": 59,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 53,
+   "index": 1,
+   "w": 59,
+   "x": 1,
+   "y": 56
+  },
+  {
+   "h": 53,
+   "index": 2,
+   "w": 59,
+   "x": 1,
+   "y": 111
+  },
+  {
+   "h": 53,
+   "index": 3,
+   "w": 59,
+   "x": 1,
+   "y": 166
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChatModule/ItemIcons/190105",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChatModule__ItemIcons__190105.png",
+  "h": 220,
+  "w": 61
+ }
+}

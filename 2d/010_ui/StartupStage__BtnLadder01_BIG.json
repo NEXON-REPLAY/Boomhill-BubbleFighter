@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 184,
+   "index": 0,
+   "w": 182,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 184,
+   "index": 1,
+   "w": 182,
+   "x": 185,
+   "y": 1
+  },
+  {
+   "h": 184,
+   "index": 2,
+   "w": 182,
+   "x": 369,
+   "y": 1
+  },
+  {
+   "h": 184,
+   "index": 3,
+   "w": 182,
+   "x": 553,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "StartupStage/BtnLadder01_BIG",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StartupStage__BtnLadder01_BIG.png",
+  "h": 186,
+  "w": 736
+ }
+}

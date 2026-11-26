@@ -1,0 +1,54 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 340,
+    "y": 1
+   },
+   "w": 343,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 340,
+    "y": 1
+   },
+   "w": 343,
+   "x": 1,
+   "y": 30
+  },
+  {
+   "h": 23,
+   "index": 2,
+   "origin": {
+    "x": 339,
+    "y": 0
+   },
+   "w": 340,
+   "x": 1,
+   "y": 59
+  },
+  {
+   "h": 23,
+   "index": 3,
+   "w": 1,
+   "x": 343,
+   "y": 59
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgZombieAward/Reward_ZombieArmy_Timer",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgZombieAward__Reward_ZombieArmy_Timer.png",
+  "h": 83,
+  "w": 345
+ }
+}

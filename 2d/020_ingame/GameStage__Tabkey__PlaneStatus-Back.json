@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 18,
+   "index": 0,
+   "w": 20,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 1,
+   "w": 7,
+   "x": 24,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "w": 20,
+   "x": 34,
+   "y": 1
+  },
+  {
+   "h": 7,
+   "index": 3,
+   "w": 20,
+   "x": 1,
+   "y": 22
+  },
+  {
+   "h": 7,
+   "index": 4,
+   "w": 7,
+   "x": 24,
+   "y": 22
+  },
+  {
+   "h": 7,
+   "index": 5,
+   "w": 20,
+   "x": 34,
+   "y": 22
+  },
+  {
+   "h": 18,
+   "index": 6,
+   "w": 20,
+   "x": 1,
+   "y": 32
+  },
+  {
+   "h": 18,
+   "index": 7,
+   "w": 7,
+   "x": 24,
+   "y": 32
+  },
+  {
+   "h": 18,
+   "index": 8,
+   "w": 20,
+   "x": 34,
+   "y": 32
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/Tabkey/PlaneStatus-Back",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__Tabkey__PlaneStatus-Back.png",
+  "h": 51,
+  "w": 55
+ }
+}

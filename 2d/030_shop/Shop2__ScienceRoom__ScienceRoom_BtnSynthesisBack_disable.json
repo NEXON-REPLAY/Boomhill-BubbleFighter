@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 21,
+   "index": 0,
+   "w": 38,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 21,
+   "index": 1,
+   "w": 1,
+   "x": 40,
+   "y": 1
+  },
+  {
+   "h": 21,
+   "index": 2,
+   "w": 38,
+   "x": 42,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 38,
+   "x": 1,
+   "y": 23
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 40,
+   "y": 23
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 38,
+   "x": 42,
+   "y": 23
+  },
+  {
+   "h": 21,
+   "index": 6,
+   "w": 38,
+   "x": 1,
+   "y": 25
+  },
+  {
+   "h": 21,
+   "index": 7,
+   "w": 1,
+   "x": 40,
+   "y": 25
+  },
+  {
+   "h": 21,
+   "index": 8,
+   "w": 38,
+   "x": 42,
+   "y": 25
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "030_shop",
+ "name": "Shop2/ScienceRoom/ScienceRoom_BtnSynthesisBack_disable",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop2__ScienceRoom__ScienceRoom_BtnSynthesisBack_disable.png",
+  "h": 47,
+  "w": 81
+ }
+}

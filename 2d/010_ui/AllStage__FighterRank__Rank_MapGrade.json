@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 94,
+   "index": 0,
+   "w": 128,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 94,
+   "index": 1,
+   "w": 128,
+   "x": 1,
+   "y": 97
+  },
+  {
+   "h": 94,
+   "index": 2,
+   "w": 128,
+   "x": 1,
+   "y": 193
+  },
+  {
+   "h": 94,
+   "index": 3,
+   "w": 128,
+   "x": 1,
+   "y": 289
+  },
+  {
+   "h": 94,
+   "index": 4,
+   "w": 128,
+   "x": 1,
+   "y": 385
+  },
+  {
+   "h": 94,
+   "index": 5,
+   "w": 128,
+   "x": 1,
+   "y": 481
+  },
+  {
+   "h": 94,
+   "index": 6,
+   "w": 128,
+   "x": 1,
+   "y": 577
+  },
+  {
+   "h": 94,
+   "index": 7,
+   "w": 128,
+   "x": 1,
+   "y": 673
+  },
+  {
+   "h": 94,
+   "index": 8,
+   "w": 128,
+   "x": 1,
+   "y": 769
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "AllStage/FighterRank/Rank_MapGrade",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "AllStage__FighterRank__Rank_MapGrade.png",
+  "h": 864,
+  "w": 130
+ }
+}

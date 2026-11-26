@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 1,
+   "index": 0,
+   "w": 27,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 1,
+   "w": 1,
+   "x": 29,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 2,
+   "w": 27,
+   "x": 31,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 27,
+   "x": 1,
+   "y": 3
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 29,
+   "y": 3
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 27,
+   "x": 31,
+   "y": 3
+  },
+  {
+   "h": 1,
+   "index": 6,
+   "w": 27,
+   "x": 1,
+   "y": 5
+  },
+  {
+   "h": 1,
+   "index": 7,
+   "w": 1,
+   "x": 29,
+   "y": 5
+  },
+  {
+   "h": 1,
+   "index": 8,
+   "w": 27,
+   "x": 31,
+   "y": 5
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ControlPoint/controlPoint_gaugeMainTextBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ControlPoint__controlPoint_gaugeMainTextBack.png",
+  "h": 7,
+  "w": 59
+ }
+}

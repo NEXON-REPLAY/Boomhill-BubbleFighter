@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 118,
+   "index": 0,
+   "w": 109,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 118,
+   "index": 1,
+   "w": 109,
+   "x": 1,
+   "y": 121
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/WeaponChange/WeaponChange02_back01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__WeaponChange__WeaponChange02_back01.png",
+  "h": 240,
+  "w": 111
+ }
+}

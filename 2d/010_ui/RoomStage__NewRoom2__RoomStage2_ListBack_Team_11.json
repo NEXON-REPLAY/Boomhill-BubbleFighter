@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 39,
+   "index": 0,
+   "w": 48,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 39,
+   "index": 1,
+   "w": 1,
+   "x": 52,
+   "y": 1
+  },
+  {
+   "h": 39,
+   "index": 2,
+   "w": 11,
+   "x": 56,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/NewRoom2/RoomStage2_ListBack_Team_11",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__NewRoom2__RoomStage2_ListBack_Team_11.png",
+  "h": 41,
+  "w": 68
+ }
+}

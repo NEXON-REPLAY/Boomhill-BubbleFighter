@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 11,
+   "index": 0,
+   "w": 11,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 11,
+   "index": 1,
+   "w": 1,
+   "x": 13,
+   "y": 1
+  },
+  {
+   "h": 11,
+   "index": 2,
+   "w": 11,
+   "x": 15,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 11,
+   "x": 1,
+   "y": 13
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 13,
+   "y": 13
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 11,
+   "x": 15,
+   "y": 13
+  },
+  {
+   "h": 11,
+   "index": 6,
+   "w": 11,
+   "x": 1,
+   "y": 15
+  },
+  {
+   "h": 11,
+   "index": 7,
+   "w": 1,
+   "x": 13,
+   "y": 15
+  },
+  {
+   "h": 11,
+   "index": 8,
+   "w": 11,
+   "x": 15,
+   "y": 15
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/NewRoom2/RoomStage2_ListMyCharacterEff",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__NewRoom2__RoomStage2_ListMyCharacterEff.png",
+  "h": 27,
+  "w": 27
+ }
+}

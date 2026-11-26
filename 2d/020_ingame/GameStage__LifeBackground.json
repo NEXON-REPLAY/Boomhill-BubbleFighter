@@ -1,0 +1,28 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 32,
+   "index": 0,
+   "w": 38,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 32,
+   "index": 1,
+   "w": 38,
+   "x": 1,
+   "y": 35
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/LifeBackground",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__LifeBackground.png",
+  "h": 68,
+  "w": 40
+ }
+}

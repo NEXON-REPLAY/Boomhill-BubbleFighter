@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 21,
+   "index": 0,
+   "w": 55,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 21,
+   "index": 1,
+   "w": 55,
+   "x": 1,
+   "y": 24
+  },
+  {
+   "h": 21,
+   "index": 2,
+   "w": 55,
+   "x": 1,
+   "y": 47
+  },
+  {
+   "h": 21,
+   "index": 3,
+   "w": 55,
+   "x": 1,
+   "y": 70
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgMapSetting/map_choice_tabsub02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgMapSetting__map_choice_tabsub02.png",
+  "h": 92,
+  "w": 57
+ }
+}

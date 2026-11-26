@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 34,
+   "index": 0,
+   "w": 100,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 34,
+   "index": 1,
+   "w": 100,
+   "x": 1,
+   "y": 37
+  },
+  {
+   "h": 34,
+   "index": 2,
+   "w": 100,
+   "x": 1,
+   "y": 73
+  },
+  {
+   "h": 34,
+   "index": 3,
+   "w": 100,
+   "x": 1,
+   "y": 109
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChampionShip/Championship_JoinBtn02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChampionShip__Championship_JoinBtn02.png",
+  "h": 144,
+  "w": 102
+ }
+}

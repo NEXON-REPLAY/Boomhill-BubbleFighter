@@ -1,0 +1,50 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 143,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 8
+   },
+   "w": 52,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 143,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 8
+   },
+   "w": 52,
+   "x": 1,
+   "y": 146
+  },
+  {
+   "h": 125,
+   "index": 2,
+   "w": 33,
+   "x": 1,
+   "y": 291
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 33,
+   "x": 1,
+   "y": 418
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/myHP/feverRhea",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__myHP__feverRhea.png",
+  "h": 420,
+  "w": 54
+ }
+}

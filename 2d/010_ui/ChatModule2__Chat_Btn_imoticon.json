@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 18,
+   "index": 0,
+   "w": 25,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 1,
+   "w": 25,
+   "x": 1,
+   "y": 21
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "w": 25,
+   "x": 1,
+   "y": 41
+  },
+  {
+   "h": 18,
+   "index": 3,
+   "w": 25,
+   "x": 1,
+   "y": 61
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "ChatModule2/Chat_Btn_imoticon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "ChatModule2__Chat_Btn_imoticon.png",
+  "h": 80,
+  "w": 27
+ }
+}

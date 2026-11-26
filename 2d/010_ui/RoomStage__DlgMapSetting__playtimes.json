@@ -1,0 +1,49 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 18,
+   "index": 0,
+   "w": 46,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 18,
+   "index": 1,
+   "w": 46,
+   "x": 1,
+   "y": 21
+  },
+  {
+   "h": 18,
+   "index": 2,
+   "w": 46,
+   "x": 1,
+   "y": 41
+  },
+  {
+   "h": 18,
+   "index": 3,
+   "w": 46,
+   "x": 1,
+   "y": 61
+  },
+  {
+   "h": 18,
+   "index": 4,
+   "w": 46,
+   "x": 1,
+   "y": 81
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "RoomStage/DlgMapSetting/playtimes",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "RoomStage__DlgMapSetting__playtimes.png",
+  "h": 100,
+  "w": 48
+ }
+}

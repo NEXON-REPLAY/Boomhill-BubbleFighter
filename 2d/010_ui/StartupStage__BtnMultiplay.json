@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 124,
+   "index": 0,
+   "w": 115,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 124,
+   "index": 1,
+   "w": 115,
+   "x": 118,
+   "y": 1
+  },
+  {
+   "h": 124,
+   "index": 2,
+   "w": 115,
+   "x": 235,
+   "y": 1
+  },
+  {
+   "h": 124,
+   "index": 3,
+   "w": 115,
+   "x": 352,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "StartupStage/BtnMultiplay",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StartupStage__BtnMultiplay.png",
+  "h": 126,
+  "w": 468
+ }
+}

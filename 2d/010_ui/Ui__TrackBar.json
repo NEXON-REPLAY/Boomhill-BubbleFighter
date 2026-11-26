@@ -1,0 +1,70 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 31,
+   "index": 0,
+   "w": 7,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 1,
+   "w": 7,
+   "x": 11,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 2,
+   "w": 7,
+   "x": 21,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 3,
+   "w": 12,
+   "x": 31,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 4,
+   "w": 12,
+   "x": 46,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 5,
+   "w": 12,
+   "x": 61,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 6,
+   "w": 1,
+   "x": 76,
+   "y": 1
+  },
+  {
+   "h": 31,
+   "index": 7,
+   "w": 1,
+   "x": 80,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Ui/TrackBar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ui__TrackBar.png",
+  "h": 33,
+  "w": 82
+ }
+}

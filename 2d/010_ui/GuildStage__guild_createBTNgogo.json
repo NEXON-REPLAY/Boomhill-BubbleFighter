@@ -1,0 +1,42 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 26,
+   "index": 0,
+   "w": 96,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 1,
+   "w": 96,
+   "x": 1,
+   "y": 29
+  },
+  {
+   "h": 26,
+   "index": 2,
+   "w": 96,
+   "x": 1,
+   "y": 57
+  },
+  {
+   "h": 26,
+   "index": 3,
+   "w": 96,
+   "x": 1,
+   "y": 85
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "GuildStage/guild_createBTNgogo",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GuildStage__guild_createBTNgogo.png",
+  "h": 112,
+  "w": 98
+ }
+}

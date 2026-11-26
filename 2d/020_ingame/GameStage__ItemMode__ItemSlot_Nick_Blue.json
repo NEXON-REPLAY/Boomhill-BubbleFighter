@@ -1,0 +1,35 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 26,
+   "index": 0,
+   "w": 4,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 1,
+   "w": 1,
+   "x": 8,
+   "y": 1
+  },
+  {
+   "h": 26,
+   "index": 2,
+   "w": 11,
+   "x": 12,
+   "y": 1
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "020_ingame",
+ "name": "GameStage/ItemMode/ItemSlot_Nick_Blue",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GameStage__ItemMode__ItemSlot_Nick_Blue.png",
+  "h": 28,
+  "w": 24
+ }
+}

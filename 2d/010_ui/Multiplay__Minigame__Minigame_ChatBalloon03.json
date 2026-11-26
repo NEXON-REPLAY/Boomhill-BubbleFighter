@@ -1,0 +1,77 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "h": 24,
+   "index": 0,
+   "w": 8,
+   "x": 1,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 1,
+   "w": 1,
+   "x": 10,
+   "y": 1
+  },
+  {
+   "h": 24,
+   "index": 2,
+   "w": 15,
+   "x": 12,
+   "y": 1
+  },
+  {
+   "h": 1,
+   "index": 3,
+   "w": 8,
+   "x": 1,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 4,
+   "w": 1,
+   "x": 10,
+   "y": 26
+  },
+  {
+   "h": 1,
+   "index": 5,
+   "w": 15,
+   "x": 12,
+   "y": 26
+  },
+  {
+   "h": 9,
+   "index": 6,
+   "w": 8,
+   "x": 1,
+   "y": 28
+  },
+  {
+   "h": 9,
+   "index": 7,
+   "w": 1,
+   "x": 10,
+   "y": 28
+  },
+  {
+   "h": 9,
+   "index": 8,
+   "w": 15,
+   "x": 12,
+   "y": 28
+  }
+ ],
+ "game": "bubblefighter",
+ "group": "010_ui",
+ "name": "Multiplay/Minigame/Minigame_ChatBalloon03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Multiplay__Minigame__Minigame_ChatBalloon03.png",
+  "h": 38,
+  "w": 28
+ }
+}
